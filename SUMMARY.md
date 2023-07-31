@@ -15,3 +15,4 @@
 * [⚒ Technical Documentation](technical-documentation/README.md)
   * [Integrations](technical-documentation/integrations.md)
   * [Contract Address](technical-documentation/contract-address.md)
+  * [Partners Integration](technical-documentation/partners-integration.md)
