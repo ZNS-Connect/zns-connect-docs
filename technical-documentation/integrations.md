@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/Poster_Twitter_71.jpg" alt=""><figcaption></figcaption></figure>
 
-Here is a script to lookup the wallet address behind a domain name
+#### Script to lookup wallet address behind a domain name
 
 {% code lineNumbers="true" %}
 ```javascript
@@ -102,3 +102,7 @@ struct RegistryData {
 ```
 
 If the return values are empty that would suggest that the domain is not owned by anyone and has not been minted yet.
+
+{% hint style="info" %}
+To find what domains are owned by a specific wallet address one can query the `ownedDomains`function, this takes in 2 params. First is the wallet address and the second in the index (pass 0 here). The output will be a tokenID which corresponds to a domain name. We can find out what the domain name behind this TokenID by calling the `tokenIDToDomainName` function which takes the tokenID as a parameter.
+{% endhint %}
