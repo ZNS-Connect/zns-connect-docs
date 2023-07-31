@@ -12,6 +12,6 @@
 * [APP Prototype](app-prototype.md)
 * [Whitepaper](whitepaper.md)
 * [Litepaper](litepaper.md)
-* [Technical Documentation](technical-documentation/README.md)
+* [⚒ Technical Documentation](technical-documentation/README.md)
   * [Integrations](technical-documentation/integrations.md)
   * [Contract Address](technical-documentation/contract-address.md)
