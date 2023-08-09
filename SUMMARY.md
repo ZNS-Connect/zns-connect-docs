@@ -9,7 +9,6 @@
 * [6 Roadmap and Future Development](roadmap-and-future-development.md)
 * [7 Conclusion](conclusion.md)
 * [Contact](contact.md)
-* [APP Prototype](app-prototype.md)
 * [Whitepaper](whitepaper.md)
 * [Litepaper](litepaper.md)
 * [⚒ Technical Documentation](technical-documentation/README.md)
