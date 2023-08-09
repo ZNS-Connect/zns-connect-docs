@@ -106,3 +106,5 @@ If the return values are empty that would suggest that the domain is not owned b
 {% hint style="info" %}
 To find what domains are owned by a specific wallet address one can query the `ownedDomains`function, this takes in 2 params. First is the wallet address and the second in the index (pass 0 here). The output will be a tokenID which corresponds to a domain name. We can find out what the domain name behind this TokenID by calling the `tokenIDToDomainName` function which takes the tokenID as a parameter.
 {% endhint %}
+
+**Note - We are only allowing A - Z, a - z, 0 - 9 and the special character '-' right now in the domain names.**
