@@ -8,6 +8,7 @@
 * [5 Tokenomics and Revenue Streams](tokenomics-and-revenue-streams.md)
 * [6 Roadmap and Future Development](roadmap-and-future-development.md)
 * [7 Conclusion](conclusion.md)
+* [8 Referral Program](referral-program.md)
 * [Contact](contact.md)
 * [Whitepaper](whitepaper.md)
 * [Litepaper](litepaper.md)
