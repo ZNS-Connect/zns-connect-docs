@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [🔰 Welcome](README.md)
 * [1 Introduction](introduction.md)
 * [2 About ZNS Connect Name Service](about-zns-connect-name-service.md)
 * [3 Technical Implementation](technical-implementation.md)
