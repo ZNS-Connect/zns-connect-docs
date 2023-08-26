@@ -27,6 +27,8 @@ Our dedicated team of experienced blockchain professionals is committed to pushi
 
 **Milestone 1** Launch of ZNS Mainnet: We will launch the ZNS Mainnet, enabling domain registration and resolution on the Zetachain blockchain. This milestone establishes the foundation for the ZNS ecosystem and marks the official availability of domain registration services.
 
+\+ Completed&#x20;
+
 **Milestone 2** Integration with Major Blockchains: We aim to integrate ZNS with popular blockchains such as Ethereum, Binance Smart Chain, and ZkSync. This integration enables cross-chain functionality, allowing users to link their ZNS domains to addresses on different blockchains.
 
 **Milestone 3** Enhanced User Interface and Experience: We are committed to improving the user interface (UI) and user experience (UX) of the ZNS platform. Our goal is to streamline domain registration and management processes, enhancing accessibility and usability for both technical and non-technical users.
@@ -37,14 +39,18 @@ Our dedicated team of experienced blockchain professionals is committed to pushi
 
 _Join the ZNS community, explore the possibilities, and be part of the decentralized revolution in web identity and addressing_
 
-## APP Prototype <a href="#app-prototype" id="app-prototype"></a>
+## **ZNS Connect Application Key Functions:**
 
-**Introducing the ZNS Connect Domain Marketplace** where you can discover and purchase domain names on the revolutionary Zetachain blockchain. 🚀🔗 Experience the future of decentralized domain ownership as you explore our cutting-edge platform.
+1. **Mint Domains:** Users can mint unique domain names on both Polygon Mainnet and Zetachain Testnet.
+2. **Manage Domains:** Easily manage domain ownership, renewals, transfers, and deletions within the application.
+3. **Domain Renewal:** Extend the validity of registered domains to maintain ownership.
+4. **Domain Transfer:** Transfer domain ownership to other wallet addresses seamlessly.
+5. **Domain Deletion:** Permanently remove unwanted domains from the account.
+6. **Referral Program:** Leverage our referral system to earn 10% rewards when friends and contacts mint domains using your referral link.
+7. **OpenSea Integration:** Seamlessly list and sell your domains on OpenSea, expanding your domain's potential value and audience reach.
+8. **Technical Documentation:** Access comprehensive technical documentation for transparent insights into our smart contract and platform features.
 
-With ZNS, you can secure unique and memorable domain names, powered by the robustness and security of the Zetachain network.
-
-\
-Our platform offers a user-friendly interface, making it easy for you to search, browse, and acquire domain names that resonate with your brand, project, or personal identity.
+For more detailed information, please refer to our whitepaper. Explore these features and more in the [ZNS Connect Application](https://app.znsconnect.io/). Thank you for considering ZNS Connect for your blockchain domain needs.
 
 _Say goodbye to traditional centralized domain registration and embrace the decentralized era of blockchain-based domain ownership_
 
