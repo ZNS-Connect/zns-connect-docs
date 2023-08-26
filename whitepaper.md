@@ -9,6 +9,4 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/Poster Twitter 24 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://drive.google.com/file/d/1UsrAE9nyKQFoNiOX1v5ojCzBHTEgpjfc/view?usp=sharing" fullWidth="true" %}
-
-{% embed url="https://drive.google.com/file/d/1ExGvdNLaoRb9yhkiVOjc6ekVB5Y0SS7c/view?usp=drive_link" %}
+{% embed url="https://drive.google.com/file/d/1-bythxd2NfCU9AUAZk59qx-WgpMiwhoI/view?usp=sharing" %}
