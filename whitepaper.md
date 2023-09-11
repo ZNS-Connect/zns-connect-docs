@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# Whitepaper
+# 📜 Whitepaper
 
 <figure><img src=".gitbook/assets/Poster Twitter 24 (1).jpg" alt=""><figcaption></figcaption></figure>
 

@@ -1,4 +1,4 @@
-# Welcome
+# 🔰 Welcome
 
 <figure><img src=".gitbook/assets/Poster Twitter 63.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# Contact
+# 🔗 Contact
 
 <figure><img src=".gitbook/assets/Poster Twitter 59.jpg" alt=""><figcaption><p>ZNS Connect Contact information</p></figcaption></figure>
 

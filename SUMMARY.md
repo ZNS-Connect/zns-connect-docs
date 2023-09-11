@@ -10,6 +10,7 @@
 * [7 Conclusion](conclusion.md)
 * [8 Referral Program](referral-program.md)
 * [🔗 Contact](contact.md)
+* [📃 Pitch Deck](pitch-deck.md)
 * [📜 Whitepaper](whitepaper.md)
 * [🗞 Litepaper](litepaper.md)
 * [⚒ Technical Documentation](technical-documentation/README.md)

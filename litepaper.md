@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# Litepaper
+# 🗞 Litepaper
 
 <figure><img src=".gitbook/assets/Poster Twitter 25 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
