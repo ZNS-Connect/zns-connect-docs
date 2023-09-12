@@ -22,7 +22,9 @@ The initial distribution of ZNT tokens is typically conducted through a combinat
 
 The token allocation is carefully designed to support the long-term sustainability and growth of the ZNS ecosystem. The distribution may include allocations for the development team, advisors, marketing initiatives, liquidity pools, and community incentives. The exact token distribution and allocation details are typically outlined in the project's whitepaper or tokenomics documentation.
 
-<figure><img src=".gitbook/assets/Tokenomics ZNS  - 06.2023.png" alt=""><figcaption><p>Tokenomics ZNS</p></figcaption></figure>
+**Link to** [**TOKENOMICS**](https://docs.google.com/spreadsheets/d/1a606JN2QmRI\_vPcA\_uQfpwmf4izUXx-vNu5zRativmM/edit?usp=sharing)&#x20;
+
+<figure><img src=".gitbook/assets/ZNS Connect - Tokenomics.png" alt=""><figcaption><p>Tokenomics ZNS</p></figcaption></figure>
 
 ## 5.3 Governance Mechanism
 
@@ -32,16 +34,16 @@ The governance mechanism is typically implemented through a voting system where 
 
 ## 5.4 Current Revenue Streams:
 
-1. Domain Registration Fees: Users pay a fee to register and manage their domain names on the Zetachain Name Service (ZNS) platform.
-2. Transaction Fees: ZNS collects a small transaction fee for each domain transfer or update made on the platform.
-3. Premium Domain Sales: Premium domain names with high market value are listed for sale, generating revenue from domain name auctions or direct sales.
-4. Partnerships and Integrations: ZNS collaborates with other blockchain projects, decentralized applications, and platforms, generating revenue through strategic partnerships, licensing, and integration fees.
+1. **Domain Registration Fees**: Users pay a fee to register and manage their domain names on the Zetachain Name Service (ZNS) platform.
+2. **Renew Fees**: ZNS collects a small transaction fee for each domain transfer or update made on the platform.
+3. **Premium Domain Sales:** Premium domain names with high market value are listed for sale, generating revenue from domain name auctions or direct sales.
+4. **Partnerships and Integrations**: ZNS collaborates with other blockchain projects, decentralized applications, and platforms, generating revenue through strategic partnerships, licensing, and integration fees.
 
 ## 5.5  Planned Revenue Streams:
 
-1. Decentralized Finance (DeFi) Integration: ZNS aims to integrate with DeFi platforms, enabling users to utilize their domain names as collateral or participate in domain-related financial activities, generating revenue from transaction fees or token staking mechanisms.
-2. Non-Fungible Token (NFT) Marketplace: ZNS plans to launch an NFT marketplace where users can buy, sell, and trade NFTs linked to their ZNS domains, earning revenue through transaction fees or commissions.
-3. Domain Name Auctions: ZNS will introduce domain name auctions, allowing users to bid on premium or desirable domain names, generating revenue from auction fees and successful bids.
-4. Value-Added Services: ZNS will offer additional services, such as domain name appraisals, premium listing placements, and personalized branding packages, providing users with enhanced features for a fee.
+1. **Decentralized Finance (DeFi) Integration**: ZNS aims to integrate with DeFi platforms, enabling users to utilize their domain names as collateral or participate in domain-related financial activities, generating revenue from transaction fees or token staking mechanisms.
+2. **NFT Marketplace:** ZNS plans to launch an NFT marketplace where users can buy, sell, and trade NFTs linked to their ZNS domains, earning revenue through transaction fees or commissions.
+3. **Domain Name Auctions:** ZNS will introduce domain name auctions, allowing users to bid on premium or desirable domain names, generating revenue from auction fees and successful bids.
+4. **Value-Added Services:** ZNS will offer additional services, such as domain name appraisals, premium listing placements, and personalized branding packages, providing users with enhanced features for a fee.
 
 These revenue streams, along with continuous growth and adoption of the ZNS ecosystem, will contribute to the project's financial sustainability and long-term success.
