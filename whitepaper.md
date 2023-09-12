@@ -7,6 +7,6 @@ coverY: 0
 
 # 📜 Whitepaper
 
-<figure><img src=".gitbook/assets/Poster Twitter 24 (1).jpg" alt=""><figcaption></figcaption></figure>
-
-{% embed url="https://drive.google.com/file/d/1-bythxd2NfCU9AUAZk59qx-WgpMiwhoI/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1M3Zzkuy557jzdYCwFu7MA4pv31v-wP5D/view?usp=sharing" %}
+Zetachain Name Service Whitepaper
+{% endembed %}
