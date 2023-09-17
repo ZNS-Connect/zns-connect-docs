@@ -6,59 +6,97 @@ description: Milestones and Integration
 
 <figure><img src=".gitbook/assets/Road map.png" alt=""><figcaption></figcaption></figure>
 
-## **ZNS App Version 2 Roadmap (September 2023 - June 2024)**
+## **ZNS App Version 1 Roadmap (May 2023 - August 2023)**
 
-**1) Wallet Connect (Completed)**
+* [x] **1) Wallet Connect (Completed**
+
+<!---->
 
 * Implemented Wallet Connect feature for seamless integration of external wallets.
 * Users can easily connect their preferred wallets to the ZNS App.
 
-**2) Switch Chain (Completed)**
+<!---->
+
+* [x] **2) Switch Chain (Completed)**
+
+<!---->
 
 * Introduced the ability to switch between different blockchain networks.
 * Users can conveniently switch between Zetachain and other supported chains.
 
-**3) Search (Completed)**
+<!---->
+
+* [x] **3) Search (Completed)**
+
+<!---->
 
 * Integrated a search functionality for quick and efficient domain name discovery.
 * Users can easily search for and find available domain names.
 
-**4) Register Domain .zeta (Completed)**
+<!---->
+
+* [x] **4) Register Domain .zeta (Completed)**
+
+<!---->
 
 * Enabled domain registration on the Zetachain network with the .zeta extension.
 * Users can claim and manage their unique domain names.
 
-**5) Renew Domain .zeta (Completed)**
+<!---->
+
+* [x] **5) Renew Domain .zeta (Completed)**
+
+<!---->
 
 * Implemented domain renewal functionality for .zeta domains.
 * Users can renew their domain names to maintain ownership.
 
-**6) Register Domain .zero (Completed)**
+<!---->
+
+* [x] **6) Register Domain .zero (Completed)**
+
+<!---->
 
 * Introduced domain registration with the .zero extension.
 * Expanded domain options for users on the Zetachain network.
 
-**7) Renew Domain .zero (Completed)**
+<!---->
+
+* [x] **7) Renew Domain .zero (Completed)**
+
+<!---->
 
 * Enabled domain renewal for .zero domains.
 * Users can extend the validity of their .zero domain names.
 
-**8) Transfer (Completed)**
+<!---->
+
+* [x] **8) Transfer (Completed)**
+
+<!---->
 
 * Implemented domain transfer feature, allowing users to transfer ownership of their domains.
 * Users can easily transfer domain names to other accounts.
 
-**9) Delete (Completed)**
+<!---->
+
+* [x] **9) Delete (Completed)**
+
+<!---->
 
 * Introduced domain deletion functionality.
 * Users can delete domain names they no longer wish to keep.
 
-**10) Referral System (Completed)**
+<!---->
+
+* [x] **10) Referral System (Completed)**
+
+<!---->
 
 * Launched a referral program to encourage user engagement and growth.
 * Users can refer others and earn rewards for their contributions.
 
-## **Future Developments (September 2023 - June 2024):**
+## **ZNS App Version 2 Roadmap (September 2023 - June 2024):**
 
 **1) Enhanced User Experience and Functionality (Q4 2023)**
 
