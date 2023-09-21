@@ -17,3 +17,4 @@
   * [Integrations](technical-documentation/integrations.md)
   * [Contract Address](technical-documentation/contract-address.md)
   * [Partners Integration](technical-documentation/partners-integration.md)
+  * [Brand Book](technical-documentation/brand-book.md)
