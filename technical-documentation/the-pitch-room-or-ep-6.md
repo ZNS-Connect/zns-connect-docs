@@ -36,8 +36,6 @@ We're on a mission to redefine how you experience the Web3 world. We're creating
 \
 **Raising Now**: $360,000 in [Seed Round](https://docs.znsconnect.io/tokenomics-and-revenue-streams)
 
-
-
 \
 1\. Project Start Date: We initiated our project in May 2023. You can experience our platform at [ZNS Connect](https://app.znsconnect.io/).\
 \
@@ -45,13 +43,13 @@ We're on a mission to redefine how you experience the Web3 world. We're creating
 \
 3\. Referral System: We've introduced a referral system where users can share their unique referral links. When someone uses the link, the referrer earns a direct 25% of payments to their wallet.\
 \
-4\. Domain Minting: To date, we've minted over 5,000 domains on Zetachain and 500 on Polygon. Our commitment to user-friendly domain names has driven significant adoption.\
+4\. Domain Minting: To date, we've minted over **13,000** domains on Zetachain and **1,000** on Polygon. Our commitment to user-friendly domain names has driven significant adoption.\
 \
-5\. Smart Contracts:\
+**5. Smart Contracts:**\
 \- Polygon Smart Contract: [ZNS Polygon Smart Contract](https://polygonscan.com/token/0x4D880B6ccc60AB31C20eec96be6b47BE4B28Bc2A), [Zetachain Smart Contract](https://zetachain-athens-3.blockscout.com/token/0xe1e33AeaCdCC0526BeF6985155e8a108D83D1B61)\
 \- Zero Smart Contract: [Polygon Smart Contract](https://polygonscan.com/token/0x2613702fa854dE61c67384C3b787D0795b4481a0), [Zetachain Smart Contract](https://zetachain-athens-3.blockscout.com/token/0xc9AB3aAbfe5C56Fb9e9e63E7d199940588E55c24)\
 \
-6\. Magic Store Rankings: We've achieved an impressive 8th place overall and secured the top position in the NFT category on the Magic Store. Check out our ranking [here](https://magic.store/app/zns-connect).\
+6\. Magic Store Rankings: We've achieved an impressive 8th place overall and secured the top position in the NFT category on the Magic Store. Check out our ranking [here](https://magic.store/app/zns-connect). And now launch 2 huge campaign with our partner Magic Store [link](./) and [this link](./)\
 \
 7\. Hackathon Success: Out of 5,300 projects, we clinched the 4th position at DoraHacks. Explore our achievement [here](https://dorahacks.io/buidl).\
 \
