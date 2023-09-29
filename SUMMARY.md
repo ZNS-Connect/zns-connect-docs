@@ -18,3 +18,4 @@
   * [Contract Address](technical-documentation/contract-address.md)
   * [Partners Integration](technical-documentation/partners-integration.md)
   * [Brand Book](technical-documentation/brand-book.md)
+  * [The Pitch Room | EP 6](technical-documentation/the-pitch-room-or-ep-6.md)
