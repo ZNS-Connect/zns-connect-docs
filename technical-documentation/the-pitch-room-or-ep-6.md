@@ -77,10 +77,10 @@ Thank you for considering our project. We look forward to discussing these detai
 
 
 
-<figure><img src="../.gitbook/assets/Group 8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 8.png" alt=""><figcaption><p>VERSION 2 - PROFILE PAGE</p></figcaption></figure>
 
 
 
 
 
-<figure><img src="../.gitbook/assets/Group 10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 10.png" alt=""><figcaption><p>VERSION 2 - MAIN PAGE</p></figcaption></figure>
