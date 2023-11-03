@@ -96,7 +96,7 @@ description: Milestones and Integration
 * Launched a referral program to encourage user engagement and growth.
 * Users can refer others and earn rewards for their contributions.
 
-## **ZNS App Version 2 Roadmap (September 2023 - June 2024):**
+## **ZNS App Version 2 Roadmap (September 2023 - January 2024):**
 
 **1) Enhanced User Experience and Functionality (Q4 2023)**
 
@@ -126,14 +126,15 @@ description: Milestones and Integration
 * Allow community leaders to manage **domain names for groups**.
 * **Promote collaborative** interactions within communities.
 
-## **ZNS App Version 3 Roadmap (July 2024 - December 2024)**
+## **ZNS App Version 3 Roadmap (February  2024 - September 2024)**
 
-**Version 3 - Connect (July 2024 - August 2024):**
-
-* **Posts in Stream:** We're introducing a new feature called "Connect" to the ZNS platform. This feature allows users to create and share posts in their activity stream. It's all about connecting and engaging with the ZNS community.
-* **Say Hi and DM ("Zeeze!"):** We're enhancing user interactions by adding a "Say Hi" feature. Start conversations and connect with other users by sending a friendly "Zeeze!" in their DMs.
-* **Sales Domain on APP:** Users will now have the capability to sell their domains directly through our mobile app, making domain trading even more accessible.
-* **Banners and Advertising for Other Users on Platform:** We're introducing advertising options for users who want to promote their domains and services to a broader audience on the ZNS platform.
+1. **Domain Gift Cards:** Feature related to gifting domain names. Clarify the purpose and usage of these gift cards.
+2. **ZNS SDK Smart Contract:** Smart contract related to ZNS SDK. Provide additional context or details about its functionality.
+3. **Q2-Q3 2023 TGE:** Token Generation Event planned between the second and third quarters of 2023. Specify the year for clarity.
+4. **Supporting 6+ Chains:** Indicates support for multiple blockchain networks. Specify the exact number of supported chains for precision.
+5. **Possibility to post news in V2 ZNS Platform:** Feature allowing users to post news articles on ZNS platform version 2. Clarify any specific functionalities related to this feature.
+6. **Official Verification of User Accounts and Premium Services:** Process of verifying user accounts officially and offering premium services. Provide details about what official verification entails.
+7. **Message between ZNS Accounts:** Feature allowing communication between ZNS platform users. Specify any unique aspects or functionalities of this messaging system.
 
 **Marketplace and Social Features (Q3-Q4 2024):**
 
