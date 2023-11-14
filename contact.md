@@ -19,7 +19,7 @@ coverY: 0
 | Telegram       | [**https://t.me/znsconnect**](https://t.me/znsconnect)                                                                   |
 | ZNS Guild.xyz  | [**https://guild.xyz/znsconnect**](https://guild.xyz/znsconnect)                                                         |
 | Galxe campaign | [**https://galxe.com/znsconnect/campaigns**](https://galxe.com/znsconnect/campaigns)                                     |
-| Contact email  | info@zetachain.id                                                                                                        |
+| Contact email  | info@znsconnect.io                                                                                                       |
 
 {% hint style="danger" %}
 **Beware of impersonators/scammers on social platforms**&#x20;
