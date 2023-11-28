@@ -51,5 +51,6 @@ The governance mechanism is typically implemented through a voting system where 
 2. **NFT Marketplace:** ZNS plans to launch an NFT marketplace where users can buy, sell, and trade NFTs linked to their ZNS domains, earning revenue through transaction fees or commissions.
 3. **Domain Name Auctions:** ZNS will introduce domain name auctions, allowing users to bid on premium or desirable domain names, generating revenue from auction fees and successful bids.
 4. **Value-Added Services:** ZNS will offer additional services, such as domain name appraisals, premium listing placements, and personalized branding packages, providing users with enhanced features for a fee.
+5. **Token Utility Transactions:** Various ZNT token transactions, including social engagement, staking, and governance, incur nominal fees in ZNT tokens, contributing to the overall revenue pool.
 
 These revenue streams, along with continuous growth and adoption of the ZNS ecosystem, will contribute to the project's financial sustainability and long-term success.
