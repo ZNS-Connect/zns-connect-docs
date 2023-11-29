@@ -4,7 +4,7 @@ description: ZNS Token (ZNT)
 
 # 5 Tokenomics and Revenue Streams
 
-<figure><img src=".gitbook/assets/ZNT Token.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/seed.png" alt=""><figcaption></figcaption></figure>
 
 ## 5.1 ZNS Token (ZNT) Utility
 
