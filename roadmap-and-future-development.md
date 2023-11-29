@@ -96,6 +96,8 @@ description: Milestones and Integration
 * Launched a referral program to encourage user engagement and growth.
 * Users can refer others and earn rewards for their contributions.
 
+<figure><img src=".gitbook/assets/Roadmap ZNS.png" alt=""><figcaption></figcaption></figure>
+
 ## **ZNS App Version 2 Roadmap (September 2023 - January 2024):**
 
 **1) Enhanced User Experience and Functionality (Q4 2023)**
