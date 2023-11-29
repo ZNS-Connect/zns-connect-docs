@@ -73,7 +73,7 @@ _- Received a $40,000 grant for the development on Arthera blockchain_\
 11\. Tokenomics: Get insights into our tokenomics and revenue streams by visiting our documentation [here](https://docs.znsconnect.io/tokenomics-and-revenue-streams).\
 
 
-<figure><img src="../.gitbook/assets/slide 11.png" alt=""><figcaption><p>Roadmap</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Roadmap ZNS.png" alt=""><figcaption><p>Roadmap</p></figcaption></figure>
 
 \
 **Thank you for considering our project. We look forward to discussing these details further during our call.**
