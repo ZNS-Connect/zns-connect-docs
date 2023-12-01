@@ -20,15 +20,19 @@ We're on a mission to redefine how you experience the Web3 world. We're creating
 _- **40,000+** Domain Minting:_ [_.zeta_](https://zetachain-athens-3.blockscout.com/token/0xe1e33AeaCdCC0526BeF6985155e8a108D83D1B61) _/_ [_.zero_ ](https://zetachain-athens-3.blockscout.com/token/0xc9AB3aAbfe5C56Fb9e9e63E7d199940588E55c24?tab=inventory)_and_ [_.zeta_](https://polygonscan.com/token/0x4D880B6ccc60AB31C20eec96be6b47BE4B28Bc2A) _/_ [_.zero_](https://polygonscan.com/token/0x2613702fa854dE61c67384C3b787D0795b4481a0) _on Polygon_\
 _- 3th place out of 5,300 projects at the DoraHacks hackathon -_ [_link_](https://dorahacks.io/buidl) \
 _- 8th place in the NFT category on Magic Store -_ [_link_ ](https://magic.store/app/zns-connect)\
-_- Received a $40,000 grant for the development on Arthera blockchain_\
+_- Received a $40,000 grant for the development on Arthera blockchain_
+
+**-** Officially verified on [NFTScan](https://polygon.nftscan.com/0x4d880b6ccc60ab31c20eec96be6b47be4b28bc2a) Explorer\
+\- ZNS Connect integrate [OKX Web3 walle](https://medium.com/@okxweb3/access-zns-connect-using-the-okx-wallet-web-extension-f4e0116a27dd)t\
+\- 45K Followers Milestone Reached in X\
 \
 **Pitch Deck:** [**link**](https://docs.znsconnect.io/pitch-deck)
 
-**TGE** : Q2 2024\
+**TGE**: Q2 2024\
 \
 **Investments Raised:** $40,000\
 \
-**Raising Now**: $1,360,000 in [Seed Round](https://docs.znsconnect.io/tokenomics-and-revenue-streams)&#x20;
+**Raising Now**: $1,500,000 in [Seed Round](https://docs.znsconnect.io/tokenomics-and-revenue-streams)&#x20;
 
 ## More details about top Keypints on ZNS Connect
 
@@ -39,9 +43,9 @@ _- Received a $40,000 grant for the development on Arthera blockchain_\
 \
 3\. Referral System: We've introduced a referral system where users can share their unique referral links. When someone uses the link, the referrer earns a direct 25% of payments to their wallet.\
 \
-4\. Domain Minting: To date, we've minted over **13,000** domains on Zetachain and **1,000** on Polygon. Our commitment to user-friendly domain names has driven significant adoption.
+4\. Domain Minting: To date, we've minted over **40,000** domains on Zetachain and **2,000** on Polygon. Our commitment to user-friendly domain names has driven significant adoption.
 
-<figure><img src="../.gitbook/assets/slide 10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/slide 10 (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 \
@@ -54,13 +58,13 @@ _- Received a $40,000 grant for the development on Arthera blockchain_\
 <figure><img src="../.gitbook/assets/Screenshot 2023-10-03 at 12.25.26.png" alt=""><figcaption><p>Magic Store page for ZNS</p></figcaption></figure>
 
 \
-7\. Hackathon Success: Out of 5,300 projects, we clinched the 4th position at DoraHacks. Explore our achievement [here](https://dorahacks.io/buidl).
+7\. Hackathon Success: Out of 5,300 projects, **we clinched the 3rd position** at DoraHacks. Explore our achievement [here](https://dorahacks.io/buidl).
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-03 at 12.26.17.png" alt=""><figcaption><p>DoraHacks Community Leaderboard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-12-01 at 14.17.47.png" alt=""><figcaption><p>DoraHacks Community Leaderboard</p></figcaption></figure>
 
-8\. Zetachain Testnet Launch: We recently launched the Grand Zetachain testnet, and you can follow our progress [here](https://app.questn.com/event/814810039426527239).
+8\. Zetachain Testnet Launch: We recently launched the Grand Zetachain testnet and Zeta Odyssey Testnet with more than 80,000 participants, and you can follow our progress [here](https://app.questn.com/event/814810039426527239).
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-10-02 at 10.30.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-12-01 at 14.23.08.png" alt=""><figcaption></figcaption></figure>
 
 \
 9\. Zetachain Ecosystem: We are proud to be a part of the Zetachain Ecosystem, which underscores our credibility and reputation within the blockchain community. Explore the ecosystem [here](https://www.zetachain.com/ecosystem).\
@@ -68,6 +72,8 @@ _- Received a $40,000 grant for the development on Arthera blockchain_\
 10\. Explore our roadmap and Version 2 development to learn about our future plans. Get insights into what we're building in the upcoming Version 2 of our application. Discover more details in our comprehensive roadmap [here](https://docs.znsconnect.io/roadmap-and-future-development).
 
 <figure><img src="../.gitbook/assets/Group 8.png" alt=""><figcaption><p>Version 2 of our Application </p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/slide 5.png" alt=""><figcaption><p>V2 ZNS Connect </p></figcaption></figure>
 
 \
 11\. Tokenomics: Get insights into our tokenomics and revenue streams by visiting our documentation [here](https://docs.znsconnect.io/tokenomics-and-revenue-streams).\

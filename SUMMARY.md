@@ -18,4 +18,4 @@
   * [Contract Address](technical-documentation/contract-address.md)
   * [Partners Integration](technical-documentation/partners-integration.md)
   * [Brand Book](technical-documentation/brand-book.md)
-  * [One Pager | ZNS](technical-documentation/one-pager-or-zns.md)
+  * [One Pager | ZNS](technical-documentation/the-pitch-room-or-ep-6.md)
