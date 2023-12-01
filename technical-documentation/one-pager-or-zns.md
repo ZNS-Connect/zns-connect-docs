@@ -2,7 +2,7 @@
 description: ZNS Connect story
 ---
 
-# The Pitch Room | EP 6
+# One Pager | ZNS
 
 **The Product:**\
 ZNS Connect is your go-to platform for seamless Web3 interactions. It simplifies the complexity of Web3 by replacing cumbersome addresses with user-friendly names, making it a breeze for users to navigate and transact.\
@@ -13,13 +13,13 @@ We're on a mission to redefine how you experience the Web3 world. We're creating
 
 
 
-<figure><img src="../.gitbook/assets/slide 01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/slide 7.png" alt=""><figcaption></figcaption></figure>
 
 **Key Points :**\
-\- _Launched on the Polygon Mainnet and Zetachain testnet_\
-_- 10,000+ Domain Minting_\
-_- 4th place out of 5,300 projects at the DoraHacks hackathon_\
-_- 8th place in the NFT category on Magic Store_\
+\- _Launched on the **Polygon Mainnet** and **ZetaChain testnet**_\
+_- **40,000+** Domain Minting:_ [_.zeta_](https://zetachain-athens-3.blockscout.com/token/0xe1e33AeaCdCC0526BeF6985155e8a108D83D1B61) _/_ [_.zero_ ](https://zetachain-athens-3.blockscout.com/token/0xc9AB3aAbfe5C56Fb9e9e63E7d199940588E55c24?tab=inventory)_and_ [_.zeta_](https://polygonscan.com/token/0x4D880B6ccc60AB31C20eec96be6b47BE4B28Bc2A) _/_ [_.zero_](https://polygonscan.com/token/0x2613702fa854dE61c67384C3b787D0795b4481a0) _on Polygon_\
+_- 3th place out of 5,300 projects at the DoraHacks hackathon -_ [_link_](https://dorahacks.io/buidl) \
+_- 8th place in the NFT category on Magic Store -_ [_link_ ](https://magic.store/app/zns-connect)\
 _- Received a $40,000 grant for the development on Arthera blockchain_\
 \
 **Pitch Deck:** [**link**](https://docs.znsconnect.io/pitch-deck)
@@ -28,7 +28,7 @@ _- Received a $40,000 grant for the development on Arthera blockchain_\
 \
 **Investments Raised:** $40,000\
 \
-**Raising Now**: $360,000 in [Seed Round](https://docs.znsconnect.io/tokenomics-and-revenue-streams)&#x20;
+**Raising Now**: $1,360,000 in [Seed Round](https://docs.znsconnect.io/tokenomics-and-revenue-streams)&#x20;
 
 ## More details about top Keypints on ZNS Connect
 
