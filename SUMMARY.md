@@ -19,3 +19,4 @@
   * [Contract Address](technical-documentation/contract-address.md)
   * [Brand Book](technical-documentation/brand-book.md)
   * [One Pager | ZNS](technical-documentation/the-pitch-room-or-ep-6.md)
+  * [Seed Round](technical-documentation/seed-round.md)
