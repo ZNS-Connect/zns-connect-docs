@@ -1,5 +1,7 @@
 ---
-description: Today we will talk about Seed round of ZNS Connect
+description: Today, we'll delve into the details of ZNS Connect's Seed round.
+cover: >-
+  https://images.unsplash.com/photo-1557672172-298e090bd0f1?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8YWJzdHJhY3R8ZW58MHx8fHwxNzAyMDMxMDY2fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
@@ -126,14 +128,15 @@ _**In total, our expenditure will break down as follows: $168,000 for salaries, 
 
 _**The grand total comes to $267,000.**_
 
+***
 
+## Revenue Stream:
 
+Considering all the planned initiatives, we anticipate acquiring approximately 23,000 new users through various campaigns. This could result in a total user base of around 50,000 on Polygon, up to 20,000 on ZetaChain, and 10,000 on Dogechain.
 
+We project generating revenue through **50,000 domain mints priced at $10 each**, resulting in a revenue stream of **$500,000.**
 
-REVENUE STREAM&#x20;
+So, the potential revenue from these initiatives is expected to cover our total expenditure: $500,000 - $267,000 = $233,000 USD.
 
-In case of all this work - we can aspect 23.000 free new users. It can give us aproxiametly 50.000 users in total on Polygon and Up to 20.000 Users on ZetaChain and 10.000 on Dogechain. \
-We expect 50.000 mints for 10 USD - 500.000 usd revenue stream. \
-So will we cover all our spends. 500.000-267.000= 233.000 usd\
-This is minimum Users which will get for 2024&#x20;
+_Please note that these are conservative estimates, and the actual results may vary._
 
