@@ -13,13 +13,13 @@ coverY: 0
 2. CMO salary: $1,800
 3. Moderator 1: $400
 4. Moderator 2: $300
-5. BD (Business Development): $2,000
+5. BD (Business Development): $3,000
 6. Smart Contract Developer: $4,000
 7. Back and Front Developer: $2,500
 
-Monthly Cost: \[3,000 + 1,800 + 400 + 300 + 2,000 + 4,000 + 2,500 = $14,000]
+Monthly Cost: \[3,000 + 1,800 + 400 + 300 + 3,000 + 4,000 + 2,500 = $15,000]
 
-Annual Cost (assuming 12 months): \[14,000 \times 12 = $168,000]
+Annual Cost (assuming 12 months): \[15,000 \times 12 = $180,000]
 
 ## 2. Marketing Plans in ZNS&#x20;
 
@@ -116,17 +116,17 @@ These campaigns collectively aim to cover a broad spectrum of activities, from e
 **Onchain Services:**
 
 * All Socials (Twitter, Discord, Telegram): $300
-* Email Marketing (MailChimp): $150
+* Email Marketing (MailChimp): $900
 * Hosting and Data (Voxel and Amazon Data): $350
-* Extra Services (Gitbook, Github, Galxe): $300
+* Extra Services (Gitbook, Github, Galxe): $350
 
-**Total Cost for Onchain Services per Year: $13,000 USD**
+**Total Cost for Onchain Services per Year: $23,000 USD**
 
 
 
-_**In total, our expenditure will break down as follows: $168,000 for salaries, $50,000 for marketing, $36,000 for conferences, and $13,000 for onchain services.**_&#x20;
+_**In total, our expenditure will break down as follows: $180,000 for salaries, $50,000 for marketing, $36,000 for conferences, and $23,000 for onchain services.**_&#x20;
 
-_**The grand total comes to $267,000.**_
+_**The grand total comes to $289,000.**_
 
 ***
 
@@ -136,7 +136,7 @@ Considering all the planned initiatives, we anticipate acquiring approximately 2
 
 We project generating revenue through **50,000 domain mints priced at $10 each**, resulting in a revenue stream of **$500,000.**
 
-So, the potential revenue from these initiatives is expected to cover our total expenditure: $500,000 - $267,000 = $233,000 USD.
+So, the potential revenue from these initiatives is expected to cover our total expenditure: $500,000 - $289,000 = $211,000 USD.
 
 _Please note that these are conservative estimates, and the actual results may vary._
 
