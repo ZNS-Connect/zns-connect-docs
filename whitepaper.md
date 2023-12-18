@@ -1,5 +1,5 @@
 ---
-description: Zetachain Name Service Whitepaper
+description: ZNS Connect  Whitepaper
 cover: >-
   https://images.unsplash.com/photo-1563089145-599997674d42?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxuZW9ufGVufDB8fHx8MTY4NjU2NDYxOXww&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -7,6 +7,6 @@ coverY: 0
 
 # 📜 Whitepaper
 
-{% embed url="https://drive.google.com/file/d/1M3Zzkuy557jzdYCwFu7MA4pv31v-wP5D/view?usp=sharing" %}
-Zetachain Name Service Whitepaper
-{% endembed %}
+
+
+{% embed url="https://drive.google.com/file/d/10L4i9qeb0kKD0mpWKhcWsyjsfspAZy0w/view?usp=sharing" %}
