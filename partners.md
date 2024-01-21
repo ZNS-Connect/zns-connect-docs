@@ -22,9 +22,13 @@ Together, we're shaping the future of the decentralized web and bringing innovat
 
 {% embed url="https://twitter.com/link3to/status/1729221088125891046" %}
 
-## **Stategic partnerhips with Magic Square**&#x20;
+## **Strategic partnership with Magic Square**&#x20;
 
 {% embed url="https://twitter.com/MagicSquareio/status/1706968710987079730" %}
+
+## Strategic partnership with Bitgert
+
+{% embed url="https://twitter.com/bitgertbrise/status/1748366386311606424" %}
 
 ## Collaboration between ZNS and Silver Pegasus Technology
 
