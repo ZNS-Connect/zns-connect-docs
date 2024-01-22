@@ -21,4 +21,6 @@
   * [Integrations](technical-documentation/integrations/README.md)
     * [Typescript SDK](technical-documentation/integrations/typescript-sdk.md)
     * [Rest API](technical-documentation/integrations/rest-api.md)
+    * [Registration Integration](technical-documentation/integrations/registration-integration.md)
+    * [ZNS Connect Subgraph](technical-documentation/integrations/zns-connect-subgraph.md)
   * [Contract Address](technical-documentation/contract-address.md)
