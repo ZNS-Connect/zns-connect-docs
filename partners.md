@@ -14,6 +14,21 @@ Together, we're shaping the future of the decentralized web and bringing innovat
 
 {% embed url="https://twitter.com/zetablockchain/status/1697362267879411973" %}
 
+**OKX L2 Testnet Integration**&#x20;
+
+{% embed url="https://twitter.com/ZNSConnect/status/1755925039822545090" %}
+
+## Introducing Our Newest Partner: [http://eesee.io](https://t.co/oL11dzZVQV)!&#x20;
+
+{% embed url="https://twitter.com/ZNSConnect/status/1755657853329629350" %}
+
+## Dmail top 10 Project
+
+{% embed url="https://twitter.com/ZNSConnect/status/1754456015070806191" %}
+
+\
+
+
 ## **Debank - top 50 project on ecosystem. Users can mint Badge**&#x20;
 
 {% embed url="https://twitter.com/ZNSConnect/status/1719622476596998624" %}
