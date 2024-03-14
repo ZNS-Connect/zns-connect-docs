@@ -4,7 +4,7 @@ description: Milestones and Integration
 
 # 6️ 6 Roadmap and Future Development
 
-<figure><img src=".gitbook/assets/Roadmap new.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Group 685.png" alt=""><figcaption></figcaption></figure>
 
 ## **ZNS App Version 1 Roadmap (May 2023 - August 2023)**
 
@@ -119,6 +119,8 @@ description: Milestones and Integration
 
 * [ ] Allow community leaders to manage **domain names for groups**.
 * [ ] **Promote collaborative** interactions within communities.
+
+<figure><img src=".gitbook/assets/Screenshot 2024-03-14 at 12.42.52.png" alt=""><figcaption></figcaption></figure>
 
 ## **ZNS App Version 3 Roadmap (May  2024 - December 2024)**
 
