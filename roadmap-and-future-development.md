@@ -8,12 +8,11 @@ description: Milestones and Integration
 
 ## **ZNS App Version 1 Roadmap (May 2023 - August 2023)**
 
-* [x] **1) Wallet Connect (Completed**
+* [x] **1) Wallet Connect (Completed)**
 
 <!---->
 
-* Implemented Wallet Connect feature for seamless integration of external wallets.
-* Users can easily connect their preferred wallets to the ZNS App.
+* **Implemented Wallet Connect:** Users can easily connect their preferred wallets to the ZNS App.
 
 <!---->
 
@@ -21,8 +20,7 @@ description: Milestones and Integration
 
 <!---->
 
-* Introduced the ability to switch between different blockchain networks.
-* Users can conveniently switch between Zetachain and other supported chains.
+* **Switch between different networks:** Users can conveniently switch between Zetachain and other supported chains.
 
 <!---->
 
@@ -30,8 +28,7 @@ description: Milestones and Integration
 
 <!---->
 
-* Integrated a search functionality for quick and efficient domain name discovery.
-* Users can easily search for and find available domain names.
+* **A search functionality:** Users can easily search for and find available domain names.
 
 <!---->
 
@@ -39,8 +36,7 @@ description: Milestones and Integration
 
 <!---->
 
-* Enabled domain registration on the Zetachain network with the .zeta extension.
-* Users can claim and manage their unique domain names.
+* **Enabled domain registration the .zeta:** Users can claim and manage their unique domain names.
 
 <!---->
 
@@ -48,8 +44,7 @@ description: Milestones and Integration
 
 <!---->
 
-* Implemented domain renewal functionality for .zeta domains.
-* Users can renew their domain names to maintain ownership.
+* **Implemented domain renewal functionality for .zeta:** Users can renew their domain names to maintain ownership.
 
 <!---->
 
@@ -57,8 +52,7 @@ description: Milestones and Integration
 
 <!---->
 
-* Introduced domain registration with the .zero extension.
-* Expanded domain options for users on the Zetachain network.
+* **Domain registration with the .zero:** Expanded domain options for users on the Zetachain network.
 
 <!---->
 
@@ -66,8 +60,7 @@ description: Milestones and Integration
 
 <!---->
 
-* Enabled domain renewal for .zero domains.
-* Users can extend the validity of their .zero domain names.
+* **Renewal for .zero domains:** Users can extend the validity of their .zero domain names.
 
 <!---->
 
@@ -75,8 +68,7 @@ description: Milestones and Integration
 
 <!---->
 
-* Implemented domain transfer feature, allowing users to transfer ownership of their domains.
-* Users can easily transfer domain names to other accounts.
+* **Domain transfer feature, allowing users to transfer ownership:** Users can easily transfer domain names to other accounts.
 
 <!---->
 
@@ -84,8 +76,7 @@ description: Milestones and Integration
 
 <!---->
 
-* Introduced domain deletion functionality.
-* Users can delete domain names they no longer wish to keep.
+* **Domain deletion functionality:** Users can delete domain names they no longer wish to keep.
 
 <!---->
 
@@ -109,11 +100,11 @@ description: Milestones and Integration
 
 **2) Cross-Chain Integration and NFT Enhancements (Q2 2024)**
 
-* [x] Integrate ZNS App with **major blockchains - Polygon , Zetachain and Berachain** **(Completed)**
+* [x] Integrate ZNS App with **major blockchains - Polygon, Zetachain, and Berachain** **(Completed)**
 * [ ] Enhance **NFT integration** for associating NFT collections with domains.
 * [x] Enhanced Profile Page: Enjoy a comprehensive profile page featuring your **Name, Description, Location, and Website. Link** and verify your social media accounts for authenticity.
 * [x] **NFT Integration:** Immerse yourself in NFTs by showcasing them on your profile page.
-* [x] **Follow Profiles:** Connect with others by following their profiles, fostering a network of interactions.
+* [ ] **Follow Profiles:** Connect with others by following their profiles, fostering a network of interactions.
 * [ ] **Custom Referral Link**: Invite others to join the community using your unique referral link.
 * [ ] **Top Referrals List:** Gain recognition for your efforts by checking your standing on the top referrals list.
 * [ ] **Badges for Everyone:** Earn badges to showcase your achievements within the community.
@@ -129,7 +120,7 @@ description: Milestones and Integration
 * [ ] Allow community leaders to manage **domain names for groups**.
 * [ ] **Promote collaborative** interactions within communities.
 
-## **ZNS App Version 3 Roadmap (April  2024 - December 2024)**
+## **ZNS App Version 3 Roadmap (May  2024 - December 2024)**
 
 1. **Domain Gift Cards:** Feature related to gifting domain names. Clarify the purpose and usage of these gift cards.
 2. **ZNS SDK Smart Contract:** Smart contract related to ZNS SDK. Provide additional context or details about its functionality.
@@ -144,8 +135,12 @@ description: Milestones and Integration
 11. **Provide developers with API integration:** Offer developers API integration to access and leverage ZNS functionalities effortlessly.
 12. **Domain Management for Communities:** Facilitate domain management for communities to empower leaders and streamline operations.
 13. **Allow community leaders to manage domain names for groups:** Empower community leaders to oversee and manage domain names for their respective groups.
-14. **Promote collaborative interactions within communities:** Foster collaboration within communities by facilitating efficient domain management and interaction.
-15. **Q4 2024 TGE:** Token Generation Event planned between the second and third quarters of 2024. Specify the year for clarity.
+
+
+
+**Q4 2024 TGE:** Token Generation Event planned between the second and third quarters of 2024. Specify the year for clarity.
+
+
 
 **Marketplace and Social Features (Q1 2025):**
 
