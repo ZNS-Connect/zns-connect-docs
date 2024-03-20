@@ -2,7 +2,7 @@
 description: ZNS Connect story
 ---
 
-# One Pager | ZNS
+# 👾 One Pager | ZNS
 
 **The Product:**\
 ZNS Connect is your go-to platform for seamless Web3 interactions. It simplifies the complexity of Web3 by replacing cumbersome addresses with user-friendly names, making it a breeze for users to navigate and transact.\
@@ -30,7 +30,7 @@ _- Received a $40,000 grant for the development on Arthera blockchain_
 
 **TGE**: Q2 2024\
 \
-**Investments Raised:** $40,000\
+**Investments Raised:** $90,000\
 \
 **Raising Now**: $1,500,000 in [Seed Round](https://docs.znsconnect.io/tokenomics-and-revenue-streams)&#x20;
 

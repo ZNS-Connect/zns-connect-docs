@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# Seed Round
+# 💠 Seed Round
 
 ## &#x20;1. Let's calculate the monthly and annual costs for ZNS Connect :
 

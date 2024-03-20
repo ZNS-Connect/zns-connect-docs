@@ -2,7 +2,7 @@
 description: Brand Identity of ZNS
 ---
 
-# Brand Book
+# 📖 Brand Book
 
 <figure><img src="../.gitbook/assets/Brand Book.jpg" alt=""><figcaption><p>Brand Identity of ZNS Connect</p></figcaption></figure>
 

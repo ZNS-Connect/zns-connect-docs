@@ -2,7 +2,7 @@
 description: ZNS Token (ZNT)
 ---
 
-# 5 Tokenomics and Revenue Streams
+# 5️ 5 Tokenomics and Revenue Streams
 
 <figure><img src=".gitbook/assets/seed.png" alt=""><figcaption></figcaption></figure>
 
@@ -47,10 +47,10 @@ The governance mechanism is typically implemented through a voting system where 
 
 ## 5.5  Planned Revenue Streams:
 
-1. **Decentralized Finance (DeFi) Integration**: ZNS aims to integrate with DeFi platforms, enabling users to utilize their domain names as collateral or participate in domain-related financial activities, generating revenue from transaction fees or token staking mechanisms.
-2. **NFT Marketplace:** ZNS plans to launch an NFT marketplace where users can buy, sell, and trade NFTs linked to their ZNS domains, earning revenue through transaction fees or commissions.
-3. **Domain Name Auctions:** ZNS will introduce domain name auctions, allowing users to bid on premium or desirable domain names, generating revenue from auction fees and successful bids.
-4. **Value-Added Services:** ZNS will offer additional services, such as domain name appraisals, premium listing placements, and personalized branding packages, providing users with enhanced features for a fee.
+1. **Premium domain listing:** ZNS will offer additional services, such as domain name appraisals, premium listing placements, and personalized branding packages, providing users with enhanced features for a fee.
+2. **Advertising on the platform**: By offering advertising space to relevant businesses and advertisers, ZNS can generate revenue through sponsored content, banners, or targeted advertisement.
+3. **NFT Marketplace:** ZNS plans to launch an NFT marketplace where users can buy, sell, and trade NFTs linked to their ZNS domains, earning revenue through transaction fees or commissions.
+4. **Domain Name Auctions:** ZNS will introduce domain name auctions, allowing users to bid on premium or desirable domain names ( .luxe , 1-2-3 letters domain) , generating revenue from auction fees and successful bids.
 5. **Token Utility Transactions:** Various ZNT token transactions, including social engagement, staking, and governance, incur nominal fees in ZNT tokens, contributing to the overall revenue pool.
 
 These revenue streams, along with continuous growth and adoption of the ZNS ecosystem, will contribute to the project's financial sustainability and long-term success.
