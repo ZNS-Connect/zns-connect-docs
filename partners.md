@@ -10,6 +10,14 @@ Together, we're shaping the future of the decentralized web and bringing innovat
 
 {% embed url="https://medium.com/@okxweb3/access-zns-connect-using-the-okx-wallet-web-extension-f4e0116a27dd" %}
 
+## LAYER3 Contest - Intro to ZNS&#x20;
+
+{% embed url="https://twitter.com/layer3xyz/status/1763474286638248286" %}
+
+## **TOP 100 in Paris Blockchain Week 2024**&#x20;
+
+{% embed url="https://twitter.com/ZNSConnect/status/1770082575840674219" %}
+
 ## **ZETACHAIN partnership in Ecosystem**
 
 {% embed url="https://twitter.com/zetablockchain/status/1697362267879411973" %}
@@ -22,7 +30,7 @@ Together, we're shaping the future of the decentralized web and bringing innovat
 
 {% embed url="https://twitter.com/ZNSConnect/status/1755657853329629350" %}
 
-## Dmail top 10 Project
+## Dmail top 10 Project and 10.000 followers&#x20;
 
 {% embed url="https://twitter.com/ZNSConnect/status/1754456015070806191" %}
 
