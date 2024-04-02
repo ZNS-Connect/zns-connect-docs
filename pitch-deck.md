@@ -7,7 +7,9 @@ coverY: 0
 
 # 📃 Pitch Deck
 
-<figure><img src=".gitbook/assets/Pitck.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Pitck.jpg" alt=""><figcaption><p>ZNS Connect Pitch Deck</p></figcaption></figure>
+
+Kindly review and share the link to our **Pitch Deck**: [https://docsend.com/view/eaheupi7s8xrrx9d](https://docsend.com/view/eaheupi7s8xrrx9d)
 
 {% embed url="https://drive.google.com/file/d/1sn1KdL_1inqrYrcolOJMcaw8H4FpIF1W/view?usp=drive_link" %}
 
