@@ -1,5 +1,5 @@
 ---
-description: ZNS Connect story
+description: One Pager of ZNS Connect Application
 ---
 
 # 👾 One Pager | ZNS
@@ -11,7 +11,7 @@ ZNS Connect is your go-to platform for seamless Web3 interactions. It simplifies
 **What We're Building:**\
 We're on a mission to redefine how you experience the Web3 world. We're creating a decentralized naming service that spans Omnichain, designed for Web3, Identifiers, and DAOs. Our goal is to empower users with enhanced digital identities and facilitate smooth transactions across various blockchains
 
-<figure><img src=".gitbook/assets/One pager - ZNS Connect.jpg" alt=""><figcaption><p>One Pager ZNS Connect</p></figcaption></figure>
+<figure><img src=".gitbook/assets/One pager - ZNS Connect (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **Key Points :**
 
@@ -38,4 +38,3 @@ We're on a mission to redefine how you experience the Web3 world. We're creating
 
 
 **We look forward to discussing these details further during our call:** [**https://calendly.com/znsconnect**](https://calendly.com/znsconnect)
-
