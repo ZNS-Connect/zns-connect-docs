@@ -18,7 +18,7 @@
 * [📜 Whitepaper](whitepaper.md)
 * [🗞️ Litepaper](litepaper.md)
 * [💼 Partners](partners.md)
-* [👾 One Pager | ZNS](one-pager-or-zns.md)
+* [👾 One Pager | ZNS](one-pager-zns.md)
 * [⚒️ Technical Documentation](technical-documentation/README.md)
   * [🇫🇷 Integrations](technical-documentation/integrations/README.md)
     * [Typescript SDK](technical-documentation/integrations/typescript-sdk.md)
