@@ -12,6 +12,7 @@
 * [8️ 9 Legal](legal/README.md)
   * [Terms of Use](legal/terms-of-use.md)
   * [Refund Policy](legal/refund-policy.md)
+  * [Audit by Solidproof](legal/audit-by-solidproof.md)
   * [Privacy Policy](legal/privacy-policy.md)
 * [🔗 Contact](contact.md)
 * [📃 Pitch Deck](pitch-deck.md)
