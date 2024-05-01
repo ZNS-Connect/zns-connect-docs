@@ -1,76 +1,74 @@
 ---
-description: All the endpoints accept and return a JSON encoded object.
+description: All the endpoints return a JSON encoded object.
 ---
 
 # Rest API
 
-### Base URL: `https://v2.znsconnect.io/api`
+### Base URL: `https://v3.znsconnect.io/api`
 
-## 1. Lookup
+## 1. Resolve Domain
 
 Endpoint:
 
-<pre><code><strong>/lookup
-</strong></code></pre>
-
-Body:
-
-```json
-{
-    "name": "example", // base part of the domain, without TLD
-    "chain": 80001, // Chain ID, currently only Polygon Mumbai
-    "tld": "zeta" // either zeta or zero
-}
+{% code title="GET" %}
+```markup
+/resolveDomain?tld=<CHAIN_TLD>&domain=<YOUR_DOMAIN>
 ```
+{% endcode %}
+
+Query Parameters:
+
+<table><thead><tr><th width="132">Name</th><th width="139">Type</th><th>Description</th></tr></thead><tbody><tr><td>tld</td><td>String</td><td>tld of the domain</td></tr><tr><td>chain</td><td>String</td><td>Base part of domain without the tld</td></tr></tbody></table>
+
+#### Request URL Example:
+
+{% code title="GET" fullWidth="false" %}
+```markup
+v3.znsconnect.io/api/resolveDomain?tld=honey&domain=tonystark
+```
+{% endcode %}
 
 Response:
 
 ```json
 {
-    "success": true,
-    "address": "0x...",
-    "domain": "example",
-    "expiration": 0329209332 // UNIX timestamp
+  "code": 200,
+  "address": "0x9DaA27Ba25B1fa267Fe46D9C9F8b3676A5bc7D1c"
 }
 ```
 
-## 2. Reverse Lookup
+## 2. Resolve Address
 
 Endpoint:
 
+{% code title="GET" %}
+```markup
+/resolveAddress?tld=<CHAIN_TLD>&address=<YOUR_ADDRESS>
 ```
-/reverse-lookup
-```
+{% endcode %}
 
-Body:
+Query Parameters:
 
-```json
-{
-    "address": "0x...", // address to look for
-    "chain": 80001, // Chain ID, currently only Polygon Mumbai
-    "tld": "zeta" // either zeta or zero
-}
+<table><thead><tr><th width="132">Name</th><th width="139">Type</th><th>Description</th></tr></thead><tbody><tr><td>tld</td><td>String</td><td>tld of the domain</td></tr><tr><td>address</td><td>String</td><td>Address to look for</td></tr></tbody></table>
+
+#### Request URL Example:
+
+{% code title="GET" %}
+```markup
+v3.znsconnect.io/api/resolveAddress?tld=honey&address=0x9DaA27Ba25B1fa267Fe46D9C9F8b3676A5bc7D1c
 ```
+{% endcode %}
 
 Response:
 
 ```json
 {
-    "success": true,
-    "address": "0x...",
-    "domains": [
-        {
-            "name": "example",
-            "tokenId": 1
-        },
-        {
-            "name": "another",
-            "tokenId": 2
-        }
-    ],
-    "primaryDomain": {
-        "name": "example",
-        "tokenId": 1
-    }
+  "code": 200,
+  "primaryDomain": "tonystark",
+  "userOwnedDomains": [
+    "tonystark",
+    "nickfury",
+    "thorodinsson"
+  ]
 }
 ```
