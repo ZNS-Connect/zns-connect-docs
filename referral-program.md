@@ -2,7 +2,7 @@
 description: Earn 25% with ZNS Connect's Referral Program
 ---
 
-# 8️ 8 Referral Program
+# 🔣 ZNS Referral Program
 
 <figure><img src=".gitbook/assets/Earn 25% with  ZNS Connect&#x27;s Referral Program.png" alt=""><figcaption></figcaption></figure>
 
