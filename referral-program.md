@@ -1,5 +1,22 @@
 ---
 description: Earn 25% with ZNS Connect's Referral Program
+cover: >-
+  https://images.unsplash.com/photo-1713042451651-42cecb8a2e19?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ2Njk1MDB8&ixlib=rb-4.0.3&q=85
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🔣 ZNS Referral Program
