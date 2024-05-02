@@ -26,6 +26,6 @@
     * [Rest API](technical-documentation/integrations/rest-api.md)
     * [Registration Integration](technical-documentation/integrations/registration-integration.md)
     * [ZNS Connect Subgraph](technical-documentation/integrations/zns-connect-subgraph.md)
-  * [✖️ Contract Address](technical-documentation/contract-address.md)
+  * [✖️ Contract Address of ZNS](technical-documentation/contract-address.md)
   * [💠 Seed Round](technical-documentation/seed-round.md)
   * [📖 Brand Book](technical-documentation/brand-book.md)
