@@ -1,13 +1,10 @@
 ---
-description: Zetachain Name Service Pitch Deck
-cover: >-
-  https://images.unsplash.com/photo-1692544350322-ac70cfd63614?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTQ0MzEzNDd8&ixlib=rb-4.0.3&q=85
+description: ZNS Connect Name Service Pitch Deck
+cover: .gitbook/assets/1990-480 Pitch.png
 coverY: 0
 ---
 
 # 📃 Pitch Deck
-
-<figure><img src=".gitbook/assets/Pitck.jpg" alt=""><figcaption><p>ZNS Connect Pitch Deck</p></figcaption></figure>
 
 Kindly review and share the link to our **Pitch Deck**: [https://docsend.com/view/eaheupi7s8xrrx9d](https://docsend.com/view/eaheupi7s8xrrx9d)
 
