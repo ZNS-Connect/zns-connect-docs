@@ -15,7 +15,7 @@ We're on a mission to redefine how you experience the Web3 world. We're creating
 
 **Key Points :**
 
-— 60,000+ Domains Minted&#x20;
+— 460,000+ Domains Minted on Berachain
 
 — Launched on the Berachain, Polygon, Zetachain — Access to your own [#Web3](tg://search\_hashtag?hashtag=Web3) Page
 
@@ -31,7 +31,7 @@ We're on a mission to redefine how you experience the Web3 world. We're creating
 
 **TGE**: Q4 2024\
 \
-**Investments Raised:** $100,000\
+**Investments Raised:** $120,000\
 \
 **Raising Now**: $1,440,000 in [Seed Round](https://docs.znsconnect.io/tokenomics-and-revenue-streams)&#x20;
 

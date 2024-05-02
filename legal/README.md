@@ -2,7 +2,7 @@
 description: Terms and conditions for using ZNS Connect's services
 ---
 
-# 8️ 9 Legal
+# ™️ Legal
 
 1. **Terms of Service**: This document outlines the terms and conditions governing the use of ZNS Connect's services, including domain registrations and refunds. It specifies the refund policy for domain purchases and outlines ZNS Connect's rights regarding domain sales.
 2. **Refund Policy**: ZNS Connect's refund policy details the conditions under which users can request a refund for domain name registrations and related services. It specifies the timeline for refund requests, payment method for refunds, and exceptions to the refund policy.

@@ -4,6 +4,8 @@ description: ZNS Grant Program for any apps
 
 # 🎓 ZNS Grant Program
 
+<figure><img src=".gitbook/assets/1800-300 Grant (1).png" alt=""><figcaption></figcaption></figure>
+
 **Categories and Tracks The ZNS Grant Program encompasses two primary categories for project proposals:**
 
 1. **Domain Integration:** Projects focusing on the seamless integration of Web3 Name SDK and Web3 domains with ZNS SDK/API.
@@ -21,7 +23,7 @@ description: ZNS Grant Program for any apps
 
 1. Daily Active Users: User engagement levels.
 2. Integration Utility: Project's usefulness.
-3. Integration Strength: Depth of integration with SPACE ID.
+3. Integration Strength: Depth of integration with ZNS Connect
 
 ### Grant Allocation <a href="#f7c9-1" id="f7c9-1"></a>
 
@@ -30,7 +32,7 @@ Following project integration or completion, each submission undergoes individua
 **The evaluation process typically takes 3-5 days post-integration.**\
 
 
-**Submit your application today and seize the opportunity: link**
+**Submit your application today and seize the opportunity to get 200-800 USDt**
 
-Feel free to contact the ZNS Connect team on telegram: _@bond\_zns_
+Feel free to contact the ZNS Connect team on telegram to submit : _@bond\_zns_
 

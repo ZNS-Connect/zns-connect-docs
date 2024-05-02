@@ -12,7 +12,7 @@ coverY: 0
 | Communities    | Links                                                                                                                    |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | Website        | [**http://www.znsconnect.io**](http://www.znsconnect.io/)                                                                |
-| Application    | [**https://app.znsconnect.io/**](https://app.znsconnect.io/)                                                             |
+| Application    | [**https://v3.znsconnect.io/**](https://app.znsconnect.io/)                                                              |
 | Link3.to       | [**https://link3.to/znsconnect**](https://link3.to/znsconnect)                                                           |
 | Twitter        | [**https://twitter.com/znsconnect**](https://twitter.com/znsconnect)                                                     |
 | Discord        | [**https://discord.com/**](https://discord.com/invite/skbA5Ucmmc)[**skbA5Ucmmc**](https://discord.com/invite/skbA5Ucmmc) |
