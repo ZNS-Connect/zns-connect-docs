@@ -1,6 +1,6 @@
 ---
 description: Earn 25% with ZNS Connect's Referral Program
-cover: .gitbook/assets/1990-480 Grant.png
+cover: .gitbook/assets/1990-480 Refferal.png
 coverY: 0
 layout:
   cover:
