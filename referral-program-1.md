@@ -1,10 +1,10 @@
 ---
 description: ZNS Grant Program for any apps
+cover: .gitbook/assets/1990-480 Grant (1).png
+coverY: 0
 ---
 
 # 🎓 ZNS Grant Program
-
-<figure><img src=".gitbook/assets/1800-300 Grant (1).png" alt=""><figcaption></figcaption></figure>
 
 **Categories and Tracks The ZNS Grant Program encompasses two primary categories for project proposals:**
 
