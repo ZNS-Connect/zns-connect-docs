@@ -1,13 +1,10 @@
 ---
 description: Join to our chat channels to discuss all question
-cover: >-
-  https://images.unsplash.com/photo-1550275994-cdc89cd1948f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxuZW9ufGVufDB8fHx8MTY4NzI0MzMyMnww&ixlib=rb-4.0.3&q=85
+cover: .gitbook/assets/1990-480 Links.png
 coverY: 0
 ---
 
-# 🔗 Contact
-
-<figure><img src=".gitbook/assets/Poster Twitter 59.jpg" alt=""><figcaption><p>ZNS Connect Contact information</p></figcaption></figure>
+# 🔗 Links
 
 | Communities    | Links                                                                                                                    |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------ |

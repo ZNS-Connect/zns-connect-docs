@@ -1,8 +1,10 @@
+---
+description: Welcome to the ZNS Learning Center
+cover: .gitbook/assets/1990-490 Welcome.png
+coverY: 0
+---
+
 # 🔰 Welcome
-
-<figure><img src=".gitbook/assets/Poster Twitter 63.jpg" alt=""><figcaption></figcaption></figure>
-
-Welcome to the ZNS Learning Center
 
 Our Getting Started guide covers several typical scenarios where the project can be applied and provides guidance on approaching its integration.
 
