@@ -5,7 +5,7 @@
 * [3️ Technical Implementation](technical-implementation.md)
 * [4️ 4 Use Cases](use-cases.md)
 * [5️ 5 Tokenomics and Revenue Streams](tokenomics-and-revenue-streams.md)
-* [6️ 6 Roadmap and Future Development](roadmap-and-future-development.md)
+* [6️ Roadmap](roadmap-and-future-development.md)
 * [🔣 ZNS Referral Program](referral-program.md)
 * [🎓 ZNS Grant Program](grant-program.md)
 * [🎁 ZNS Gift Cards](gift-cards.md)

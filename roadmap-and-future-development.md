@@ -1,100 +1,32 @@
 ---
-description: Milestones and Integration
+description: Milestones and Integration of ZNS Connect
+cover: .gitbook/assets/1990-480 Roadmap.png
+coverY: 0
 ---
 
-# 6️ 6 Roadmap and Future Development
-
-<figure><img src=".gitbook/assets/Group 685.png" alt=""><figcaption></figcaption></figure>
+# 6️ Roadmap
 
 ## **ZNS App Version 1 Roadmap (May 2023 - August 2023)**
 
-* [x] **1) Wallet Connect (Completed)**
+* [x] **1) Wallet Connect**  Users can easily connect their preferred wallets to the ZNS App.
+* [x] **2) Switch Chain between different networks:** Users can conveniently switch between Zetachain and other supported chains.
+* [x] **3) A search functionality:** Users can easily search for and find available domain names.
+* [x] **4)Enabled domain registration the .zeta:** Users can claim and manage their unique domain names.
+* [x] **5) Implemented domain renewal functionality for .zeta:** Users can renew their domain names to maintain ownership.
+* [x] **6) Domain registration with the .zero:** Expanded domain options for users on the Zetachain network.
+* [x] **7) Renewal for .zero domains:** Users can extend the validity of their .zero domain names.
+* [x] **8)Domain transfer feature, allowing users to transfer ownership:** Users can easily transfer domain names to other accounts.
+* [x] **9) Domain deletion functionality:** Users can delete domain names they no longer wish to keep.
+* [x] **10) Referral System** Launched a referral program to encourage user engagement and growth.
 
-<!---->
-
-* **Implemented Wallet Connect:** Users can easily connect their preferred wallets to the ZNS App.
-
-<!---->
-
-* [x] **2) Switch Chain (Completed)**
-
-<!---->
-
-* **Switch between different networks:** Users can conveniently switch between Zetachain and other supported chains.
-
-<!---->
-
-* [x] **3) Search (Completed)**
-
-<!---->
-
-* **A search functionality:** Users can easily search for and find available domain names.
-
-<!---->
-
-* [x] **4) Register Domain .zeta (Completed)**
-
-<!---->
-
-* **Enabled domain registration the .zeta:** Users can claim and manage their unique domain names.
-
-<!---->
-
-* [x] **5) Renew Domain .zeta (Completed)**
-
-<!---->
-
-* **Implemented domain renewal functionality for .zeta:** Users can renew their domain names to maintain ownership.
-
-<!---->
-
-* [x] **6) Register Domain .zero (Completed)**
-
-<!---->
-
-* **Domain registration with the .zero:** Expanded domain options for users on the Zetachain network.
-
-<!---->
-
-* [x] **7) Renew Domain .zero (Completed)**
-
-<!---->
-
-* **Renewal for .zero domains:** Users can extend the validity of their .zero domain names.
-
-<!---->
-
-* [x] **8) Transfer (Completed)**
-
-<!---->
-
-* **Domain transfer feature, allowing users to transfer ownership:** Users can easily transfer domain names to other accounts.
-
-<!---->
-
-* [x] **9) Delete (Completed)**
-
-<!---->
-
-* **Domain deletion functionality:** Users can delete domain names they no longer wish to keep.
-
-<!---->
-
-* [x] **10) Referral System (Completed)**
-
-<!---->
-
-* Launched a referral program to encourage user engagement and growth.
-* Users can refer others and earn rewards for their contributions.
-
-<figure><img src=".gitbook/assets/Roadmap ZNS.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/roadmap ZNS.jpg" alt=""><figcaption></figcaption></figure>
 
 ## **ZNS App Version 2 Roadmap (September 2023 - April 2024):**
 
 **1) Enhanced User Experience and Functionality (Q1 2024)**
 
 * [x] Improve UI/UX for a **more intuitive** ZNS App. **(Completed)**
-* [ ] **Streamline** domain registration and management.
+* [x] **Streamline** domain registration and management.
 * [x] **NFT as Avatar**: Personalize your profile with an NFT avatar, expressing your uniqueness within the community  **(Completed)**
 * [x] **Photo as Avatar:** Set a personal photo as your profile avatar, making your presence on the ZNS App more relatable  **(Completed)**
 
@@ -104,18 +36,18 @@ description: Milestones and Integration
 * [ ] Enhance **NFT integration** for associating NFT collections with domains.
 * [x] Enhanced Profile Page: Enjoy a comprehensive profile page featuring your **Name, Description, Location, and Website. Link** and verify your social media accounts for authenticity.
 * [x] **NFT Integration:** Immerse yourself in NFTs by showcasing them on your profile page.
-* [ ] **Follow Profiles:** Connect with others by following their profiles, fostering a network of interactions.
-* [ ] **Custom Referral Link**: Invite others to join the community using your unique referral link.
+* [x] **Follow Profiles:** Connect with others by following their profiles, fostering a network of interactions.
+* [x] **Custom Referral Link**: Invite others to join the community using your unique referral link.
 * [ ] **Top Referrals List:** Gain recognition for your efforts by checking your standing on the top referrals list.
-* [ ] **Badges for Everyone:** Earn badges to showcase your achievements within the community.
+* [x] **Badges for Everyone:** Earn badges to showcase your achievements within the community.
 * [ ] **Smart Contract Audits:** We conduct audits for all new smart contracts to ensure security and reliability.
 
-**3) Seamless Login and API Integration (Q1 2024)**
+**3) Seamless Login and API Integration (Q2 2024)**
 
 * [ ] Implement **login with domain name** feature.
 * [ ] Provide developers with **API integration for leveraging** ZNS functionalities.
 
-**4) Domain Management for Communities (Q2 2024)**
+**4) Domain Management for Communities (Q3 2024)**
 
 * [ ] Allow community leaders to manage **domain names for groups**.
 * [ ] **Promote collaborative** interactions within communities.
