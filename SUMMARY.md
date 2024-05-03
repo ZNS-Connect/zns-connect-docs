@@ -9,7 +9,7 @@
 * [6️ 6 Roadmap and Future Development](roadmap-and-future-development.md)
 * [🔣 ZNS Referral Program](referral-program.md)
 * [🎓 ZNS Grant Program](referral-program-1.md)
-* [🎓 ZNS Gift Cards](referral-program-2.md)
+* [🎁 ZNS Gift Cards](referral-program-2.md)
 * [™️ Legal](legal/README.md)
   * [Terms of Use](legal/terms-of-use.md)
   * [Refund Policy](legal/refund-policy.md)

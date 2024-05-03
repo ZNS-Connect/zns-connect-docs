@@ -4,7 +4,7 @@ cover: .gitbook/assets/1990-480 Gift.png
 coverY: 0
 ---
 
-# 🎓 ZNS Gift Cards
+# 🎁 ZNS Gift Cards
 
 ZNS Connect Gift Cards Introducing the ZNS Connect Gift Card feature, offering a versatile way to convey warmth and consideration to others.
 
