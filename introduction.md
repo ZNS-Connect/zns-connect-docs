@@ -2,7 +2,7 @@
 description: The introduction section serves as the opening of the whitepaper
 ---
 
-# 1 Introduction
+# ℹ️ Introduction
 
 <figure><img src=".gitbook/assets/1980-1080.png" alt=""><figcaption></figcaption></figure>
 

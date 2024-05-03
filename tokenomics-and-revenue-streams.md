@@ -1,12 +1,12 @@
 ---
-description: ZNS Token (ZNT)
+description: ZNS Token (ZNT) and Revenue Stream
+cover: .gitbook/assets/1990-480 Token (1).png
+coverY: 0
 ---
 
-# 5️ 5 Tokenomics and Revenue Streams
+# Tokenomics and Revenue
 
-<figure><img src=".gitbook/assets/seed.png" alt=""><figcaption></figcaption></figure>
-
-## 5.1 ZNS Token (ZNT) Utility
+&#x20;ZNS Token (ZNT) Utility
 
 &#x20;The ZNS Connect Name Service (ZNS) has its native utility token called ZNS Token (ZNT). The ZNT token serves multiple purposes within the Zetachain ecosystem. By holding ZNT tokens, users become integral contributors to the ecosystem's growth and sustainability, fostering engagement and incentivizing their active involvement. The introduction of the ZNT token positions ZNS Connect as a prominent player in the Web3 industry, providing users with a comprehensive platform to effectively manage their digital identities.
 
