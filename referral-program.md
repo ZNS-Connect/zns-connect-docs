@@ -47,6 +47,8 @@ Get rewarded for bringing friends on board! With our referral program, earn rewa
 * 60 referrals: 20% reward
 * 100 referrals: 25% reward
 
+We can set a percentage for revenue sharing with KOLs, influencers, and the community, which can be increased up to 30-40%. If you have a large community and can drive at least 1000 domain minting through your referral link, please send a direct message on Telegram to @bond\_zns.
+
 ZNS Connect simplifies Web3 interactions through user-friendly domain names. By joining our Referral Program, you can earn rewards while contributing to a more accessible blockchain world.
 
 #### Join now: [Referral Program Link](https://v3.znsconnect.io/affiliate)
