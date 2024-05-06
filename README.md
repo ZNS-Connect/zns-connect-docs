@@ -1,6 +1,6 @@
 ---
 description: Welcome to the ZNS Learning Center
-cover: .gitbook/assets/1990-490 Welcome.png
+cover: .gitbook/assets/1990-490 Welcome (2).png
 coverY: 0
 ---
 

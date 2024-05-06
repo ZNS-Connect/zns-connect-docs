@@ -2,9 +2,9 @@
 
 * [🔰 Welcome](README.md)
 * [ℹ️ Introduction](introduction.md)
-* [Technical Implementation](technical-implementation.md)
 * [Tokenomics and Revenue](tokenomics-and-revenue-streams.md)
 * [Roadmap](roadmap-and-future-development.md)
+* [👨‍🏫 Guide to ZNS Application](guide.md)
 * [🔣 ZNS Referral Program](referral-program.md)
 * [🎓 ZNS Grant Program](grant-program.md)
 * [🎁 ZNS Gift Cards](gift-cards.md)
