@@ -17,12 +17,12 @@ ZNS Connect Gift Cards Introducing the ZNS Connect Gift Card feature, offering a
 
 ## How to buy and redeem Gift Card <a href="#how-to-purchase-gift-card" id="how-to-purchase-gift-card"></a>
 
-1. Visit your settings at https://v3.znsconnect.io/settings?tab=credits.
+1. Visit your settings at [https://v3.znsconnect.io/settings?tab=credits](https://v3.znsconnect.io/settings?tab=credits)
 2. Enter the desired amount of credits you wish to purchase and click on "Buy "
 
 <figure><img src=".gitbook/assets/Screenshot 2024-05-03 at 13.23.28.png" alt=""><figcaption></figcaption></figure>
 
-3\. Next, navigate to https://v3.znsconnect.io/settings?tab=gift-cards.
+3\. Next, navigate to [https://v3.znsconnect.io/settings?tab=gift-cards](https://v3.znsconnect.io/settings?tab=gift-cards)
 
 4\. Select the gift card of your choice and click "Redeem." Your balance will then increase with credits, allowing you to mint domains using these credits.
 
@@ -40,14 +40,14 @@ After redeeming your ZNS Gift Card, during the domain registration process, you'
 
 ## Here's how to send Credits to another wallet:
 
-1. Visit Settings at https://v3.znsconnect.io/settings?tab=credits.
+1. Visit Settings at [https://v3.znsconnect.io/settings?tab=credits](https://v3.znsconnect.io/settings?tab=credits)
 2. Enter the amount you want to send and the recipient's address.
 
 
 
 <figure><img src=".gitbook/assets/Screenshot 2024-05-03 at 13.46.07.png" alt=""><figcaption></figcaption></figure>
 
-3\. The recipient only needs to redeem at https://v3.znsconnect.io/settings?tab=gift-cards, and the amount of credits will appear on the right side of the menu.
+3\. The recipient only needs to redeem at [https://v3.znsconnect.io/settings?tab=gift-cards](https://v3.znsconnect.io/settings?tab=gift-cards) , and the amount of credits will appear on the right side of the menu.
 
 
 
