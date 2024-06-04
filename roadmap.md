@@ -4,7 +4,7 @@ cover: .gitbook/assets/1990-480 Roadmap.png
 coverY: 0
 ---
 
-# 6️ Roadmap
+# 🛣️ Roadmap
 
 ## **ZNS App Version 1 Roadmap (May 2023 - August 2023)**
 

@@ -4,7 +4,7 @@ cover: .gitbook/assets/1990-480 Token (1).png
 coverY: 0
 ---
 
-# Tokenomics and Revenue
+# 💹 Tokenomics and Revenue
 
 &#x20;ZNS Token (ZNT) Utility
 
