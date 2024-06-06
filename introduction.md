@@ -18,6 +18,26 @@ coverY: 0
 
 **Enjoy personalized Web3 pages,** enhanced security with alphanumeric wallet addresses, and seamless access to DEXs, wallets, and apps using ZNS domain names. By leveraging the power of decentralized technologies, ZNS Connect empowers users to engage with the Web3 world confidently and conveniently, making blockchain technology more accessible and user-friendly. Join us in transforming the digital landscape with ZNS Connect, your gateway to a simplified and integrated Web3 experience.
 
+## **The Problem**&#x20;
+
+The core problem with domain names lies in their limited practicality, often lacking significant utility: 1. Domains designed for one-time use are on the rise.&#x20;
+
+2\. Unutilized domain registrations have dropped to their lowest point since 2022.&#x20;
+
+3\. Social networks rely on centralized solutions.&#x20;
+
+4\. Users face security risks when utilizing domains on blockchain explorers.
+
+## **Solution**
+
+Enjoy personalized Web3 pages, enhanced security with alphanumeric wallet addresses, and seamless access to DEXs, wallets, and apps using ZNS domain names
+
+**1. WEB3 PAGE:** Provide users with personalized Web3 pages for daily engagement, including sharing info, adding social networks, and connecting with others.
+
+**2. NUMERIC TO ALPHABETIC:** Improve security with alphanumeric wallet addresses across chains and transition from numeric to alphanumeric addresses for better safety and usability.
+
+**3.  APP CONNECTION:** Simplify access to DEXs, wallets, and apps using ZNS domain names, facilitating seamless interactions for users, all by connecting true ZNS Domains.
+
 ## **Key Highlights:**
 
 We aim to simplify the Web3 experience by offering user-friendly and memorable domain names.
