@@ -38,6 +38,26 @@ Enjoy personalized Web3 pages, enhanced security with alphanumeric wallet addres
 
 **3.  APP CONNECTION:** Simplify access to DEXs, wallets, and apps using ZNS domain names, facilitating seamless interactions for users, all by connecting true ZNS Domains.
 
+## Product
+
+Connect with like-minded individuals and communities, fostering meaningful interactions and collaborations on the ZNS platform. #ZNSConnect decentralized communication ID platform powered by decentralized addresses with unique domain names.
+
+## Business Model&#x20;
+
+ZNS Connect's strategic business model, revenue sharing, domain giveaways, and custom domain creation, aims to empower users and foster sustainable growth within the blockchain ecosystem.
+
+**Goals :** Increase user base by 50% in six months, Double revenue through partnerships within a year, Launch three new chain integrations within a quarter, and Establish ZNS as a top 3 player in domain name services within two years.
+
+## Benefits for Users
+
+**#WEB3 Page :** Personalized Web3 pages empower users for daily engagement, sharing info, adding social networks, and connecting easily.
+
+**Numeric to alphabetic:** Improve security with alphanumeric wallet addresses across chains and transition from numeric to alphanumeric addresses for better safety and usability.
+
+**Access by connecting true ZNS:** Streamline user interactions with decentralized exchanges (DEXs), wallets, and applications by leveraging ZNS domain names
+
+**Affiliate program:** Get rewarded for bringing friends on board! With our referral program, earn rewards based on the number of successful referrals: 5-25%
+
 ## **Key Highlights:**
 
 We aim to simplify the Web3 experience by offering user-friendly and memorable domain names.
