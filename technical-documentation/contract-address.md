@@ -14,4 +14,12 @@ All contracts are verified on their respective networks.
 
 ### Lists of Testnet chains of ZNS Integration
 
-<table data-view="cards"><thead><tr><th>Chain</th><th>Contract Address</th></tr></thead><tbody><tr><td><strong>Berachain Testnet</strong></td><td><a href="https://artio.beratrail.io/token/0xA4d4d21E6C52F9490D1902CB84DB43eAD89a072D">0xA4d4d21E6C52F9490D1902CB84DB43eAD89a072D</a></td></tr><tr><td><strong>Tabi Testnet</strong></td><td><a href="https://testnet.tabiscan.com/token/0x47D3EbdD10DCd834289484DeD9BfddFdE410b419">0x47D3EbdD10DCd834289484DeD9BfddFdE410b419</a></td></tr><tr><td><strong>Neo X Testnet</strong></td><td><a href="https://xt3scan.ngd.network/token/0xf180136DdC9e4F8c9b5A9FE59e2b1f07265C5D4D">0xf180136DdC9e4F8c9b5A9FE59e2b1f07265C5D4D</a></td></tr><tr><td><strong>XRP Ledger</strong></td><td><a href="https://evm-sidechain.xrpl.org/token/0xf180136DdC9e4F8c9b5A9FE59e2b1f07265C5D4D">0xf180136DdC9e4F8c9b5A9FE59e2b1f07265C5D4D</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th>Chain</th><th>Contract Address</th></tr></thead><tbody><tr><td><strong>Berachain Testnet</strong></td><td><a href="https://artio.beratrail.io/token/0xA4d4d21E6C52F9490D1902CB84DB43eAD89a072D">0xA4d4d21E6C52F9490D1902CB84DB43eAD89a072D</a></td></tr><tr><td><strong>Tabi Testnet</strong></td><td><a href="https://testnet.tabiscan.com/token/0x47D3EbdD10DCd834289484DeD9BfddFdE410b419">0x47D3EbdD10DCd834289484DeD9BfddFdE410b419</a></td></tr><tr><td><strong>Neo X Testnet</strong></td><td><a href="https://xt3scan.ngd.network/token/0xf180136DdC9e4F8c9b5A9FE59e2b1f07265C5D4D">0xf180136DdC9e4F8c9b5A9FE59e2b1f07265C5D4D</a></td></tr><tr><td><strong>XRP Ledger</strong></td><td><a href="https://evm-sidechain.xrpl.org/token/0xf180136DdC9e4F8c9b5A9FE59e2b1f07265C5D4D">0xf180136DdC9e4F8c9b5A9FE59e2b1f07265C5D4D</a></td></tr><tr><td></td><td></td></tr></tbody></table>
+
+
+
+<figure><img src="../.gitbook/assets/1800-300 NFT.png" alt=""><figcaption></figcaption></figure>
+
+### Lists of NFT Marketplaces&#x20;
+
+<table data-view="cards"><thead><tr><th>Chain</th><th>Link to NFT Marketplace</th></tr></thead><tbody><tr><td><strong>Scroll Mainnet</strong></td><td><a href="https://element.market/collections/zns-connect-scroll">ZNS Connect .scroll on Element </a></td></tr><tr><td><strong>Polygon Mainnet</strong></td><td></td></tr><tr><td><strong>BNB Chain Mainnet</strong></td><td><a href="https://element.market/collections/zns-connect-bnb">ZNS Connect .cz on Element</a></td></tr></tbody></table>
