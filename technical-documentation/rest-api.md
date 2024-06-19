@@ -1,5 +1,7 @@
 ---
 description: All the endpoints return a JSON encoded object.
+cover: ../.gitbook/assets/1990-480 API.png
+coverY: 0
 ---
 
 # Rest API
@@ -72,3 +74,13 @@ Response:
   ]
 }
 ```
+
+**Here is an example of partner** [**integration**](https://app.kiloex.io/trade?sCode=zns\&utm\_source=referral\&utm\_medium=zns)&#x20;
+
+{% embed url="https://app.kiloex.io/" %}
+KiloEx integration of ZNS API
+{% endembed %}
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-19 at 08.59.08.png" alt=""><figcaption><p>KiloEx integration of ZNS Rest API</p></figcaption></figure>
