@@ -10,7 +10,7 @@ coverY: 0
 
 <div>
 
-<figure><img src="../.gitbook/assets/Main version 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Main version 1 (1).png" alt=""><figcaption><p>ZNS Connect logo PNG</p></figcaption></figure>
 
  
 
@@ -30,7 +30,7 @@ coverY: 0
 
 <div>
 
-<figure><img src="../.gitbook/assets/Main version 1 (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Main version 1 (1).svg" alt=""><figcaption><p>ZNS Connect Logo SVG</p></figcaption></figure>
 
  
 
@@ -50,7 +50,7 @@ coverY: 0
 
 <div>
 
-<figure><img src="../.gitbook/assets/Shortened version 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Shortened version 1 (1).png" alt=""><figcaption><p>Shortened ZNS logo</p></figcaption></figure>
 
  
 
@@ -74,7 +74,7 @@ coverY: 0
 
 <div>
 
-<figure><img src="../.gitbook/assets/Shortened version 1.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Shortened version 1.svg" alt=""><figcaption><p>Shortened ZNS SVG</p></figcaption></figure>
 
  
 
@@ -98,7 +98,7 @@ coverY: 0
 
 <div>
 
-<figure><img src="../.gitbook/assets/Icon version 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Icon version 1.png" alt=""><figcaption><p>Icon ZNS Logo</p></figcaption></figure>
 
  
 
@@ -126,7 +126,7 @@ coverY: 0
 
  
 
-<figure><img src="../.gitbook/assets/Icon version 2.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Icon version 2.svg" alt=""><figcaption><p>Icon ZNS Logo SVG</p></figcaption></figure>
 
  
 
@@ -150,7 +150,7 @@ coverY: 0
 
  
 
-<figure><img src="../.gitbook/assets/Build on ZNS version 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Build on ZNS version 2.png" alt=""><figcaption><p>Build on ZNS Logo</p></figcaption></figure>
 
  
 
@@ -174,7 +174,7 @@ coverY: 0
 
  
 
-<figure><img src="../.gitbook/assets/Build on ZNS version 2 (1).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Build on ZNS version 2 (1).svg" alt=""><figcaption><p>Build on ZNS logo SVG</p></figcaption></figure>
 
  
 
@@ -286,7 +286,15 @@ coverY: 0
 
 </div>
 
+
+
+<figure><img src="../.gitbook/assets/Color palette of ZNS.png" alt=""><figcaption><p>Color palette of ZNS</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Main font typeface of ZNS.png" alt=""><figcaption><p>Main font typeface of ZNS</p></figcaption></figure>
+
 {% embed url="https://drive.google.com/file/d/1gOq1Wcgvma6-LpF57rGP5csVmcwjnJLE/view?usp=sharing" %}
+Brand Identity Guidelines of ZNS
+{% endembed %}
 
 
 
