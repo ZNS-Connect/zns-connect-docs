@@ -1,53 +1,292 @@
 ---
-description: Brand Identity of ZNS
+description: Brand Identity Guidelines of ZNS
+cover: ../.gitbook/assets/14.png
+coverY: 0
 ---
 
-# 📖 Brand Book
+# 📖 Brand Book of ZNS
 
-<figure><img src="../.gitbook/assets/Brand Book.jpg" alt=""><figcaption><p>Brand Identity of ZNS Connect</p></figcaption></figure>
+#### Main square version PNG  <a href="#gradient-icon" id="gradient-icon"></a>
 
-#### Gradient icon[​](https://docs.arthera.net/build/branding/#gradient-icon) <a href="#gradient-icon" id="gradient-icon"></a>
+<div>
 
-{% file src="../.gitbook/assets/ZNS-round-3.png" %}
+<figure><img src="../.gitbook/assets/Main version 1 (1).png" alt=""><figcaption></figcaption></figure>
 
-{% file src="../.gitbook/assets/ZNS-round-2.png" %}
+ 
 
-{% file src="../.gitbook/assets/ZNS-round-1.png" %}
+<figure><img src="../.gitbook/assets/Main version 2 (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Primary Logo Horizontal  <a href="#primary-logo-vertical-black-wordmark" id="primary-logo-vertical-black-wordmark"></a>
+ 
+
+<figure><img src="../.gitbook/assets/Main version 3 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Main version 4 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### Main square version SVG <a href="#gradient-icon" id="gradient-icon"></a>
+
+<div>
+
+<figure><img src="../.gitbook/assets/Main version 1 (1).svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Main version 2 (1).svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Main version 3 (1).svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Main version 4 (1).svg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### Shortened square version PNG
+
+<div>
+
+<figure><img src="../.gitbook/assets/Shortened version 1 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Shortened version 2 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Shortened version 3 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Shortened version 4 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Shortened version 5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### Shortened square version SVG
+
+<div>
+
+<figure><img src="../.gitbook/assets/Shortened version 1.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Shortened version 2.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Shortened version 3.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Shortened version 4.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Shortened version 5.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### Icon version PNG
+
+<div>
+
+<figure><img src="../.gitbook/assets/Icon version 1.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Icon version 2.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Icon version 3.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Icon version 4.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Icon version 5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### Icon version SVG
+
+<div>
+
+<figure><img src="../.gitbook/assets/Icon version 1.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Icon version 2.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Icon version 3.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Icon version 4.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Icon version 5.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### Build on ZNS Connect PNG <a href="#primary-logo-vertical-black-wordmark" id="primary-logo-vertical-black-wordmark"></a>
+
+<div>
+
+<figure><img src="../.gitbook/assets/Build on ZNS version 1.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Build on ZNS version 2.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Build on ZNS version 3.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Build on ZNS version 4.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Build on ZNS version 5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### Build on ZNS Connect SVG <a href="#primary-logo-vertical-black-wordmark" id="primary-logo-vertical-black-wordmark"></a>
+
+<div>
+
+<figure><img src="../.gitbook/assets/Build on ZNS version 1 (1).svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Build on ZNS version 2 (1).svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Build on ZNS version 3 (1).svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Build on ZNS version 4 (1).svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Build on ZNS version 5 (1).svg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### Additional version SVG
+
+<div>
+
+<figure><img src="../.gitbook/assets/Additional versions 1.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional versions 2.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional versions 3.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional versions 4.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional versions 5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### Additional version PNG
+
+<div>
+
+<figure><img src="../.gitbook/assets/Additional versions 1.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional versions 2.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional versions 3.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional versions 4.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional versions 5.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### Additional Build version SVG
+
+<div>
+
+<figure><img src="../.gitbook/assets/Additional Build versions 1.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional Build versions 2.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional Build versions 3.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional Build versions 4.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional Build versions 5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+#### Additional Build version PNG
+
+<div>
+
+<figure><img src="../.gitbook/assets/Additional Build versions 1.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional Build versions 2.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional Build versions 3.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional Build versions 4.svg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Additional Build versions 5.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+{% embed url="https://drive.google.com/file/d/1gOq1Wcgvma6-LpF57rGP5csVmcwjnJLE/view?usp=sharing" %}
 
 
 
-{% file src="../.gitbook/assets/ZNS-rectangle6.png" %}
-
-{% file src="../.gitbook/assets/ZNS-rectangle5.png" %}
-
-{% file src="../.gitbook/assets/ZNS-rectangle4.png" %}
-
-{% file src="../.gitbook/assets/ZNS-rectangle3.png" %}
-
-{% file src="../.gitbook/assets/ZNS-rectangle2.png" %}
-
-{% file src="../.gitbook/assets/ZNS-rectangle1.png" %}
-
-#### Primary Logo Vertical <a href="#primary-logo-vertical-black-wordmark" id="primary-logo-vertical-black-wordmark"></a>
-
-
-
-{% file src="../.gitbook/assets/ZNS-square-1.png" %}
-
-{% file src="../.gitbook/assets/ZNS-square-2.png" %}
-
-{% file src="../.gitbook/assets/ZNS-square-3.png" %}
-
-{% file src="../.gitbook/assets/Logo Big 3.png" %}
-
-{% file src="../.gitbook/assets/Logo big 2.png" %}
-
-## Poster Templates
-
-
-
-{% file src="../.gitbook/assets/Brand Partnership.svg" %}
-
-{% file src="../.gitbook/assets/Brand.svg" %}

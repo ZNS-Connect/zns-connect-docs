@@ -16,7 +16,7 @@
   * [Typescript SDK](technical-documentation/typescript-sdk.md)
   * [Registration Integration](technical-documentation/registration-integration.md)
   * [⛓️ Contract Address of ZNS](technical-documentation/contract-address.md)
-  * [📖 Brand Book](technical-documentation/brand-book.md)
+  * [📖 Brand Book of ZNS](technical-documentation/brand-book.md)
   * [💠 Seed Round](technical-documentation/seed-round.md)
   * [🔗 Links](technical-documentation/contact.md)
 * [📃 Pitch Deck](pitch-deck.md)
