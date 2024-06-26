@@ -38,6 +38,8 @@ Enjoy personalized Web3 pages, enhanced security with alphanumeric wallet addres
 
 **3.  APP CONNECTION:** Simplify access to DEXs, wallets, and apps using ZNS domain names, facilitating seamless interactions for users, all by connecting true ZNS Domains.
 
+<figure><img src=".gitbook/assets/IMG_4695 copy.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Product
 
 Connect with like-minded individuals and communities, fostering meaningful interactions and collaborations on the ZNS platform. #ZNSConnect decentralized communication ID platform powered by decentralized addresses with unique domain names.
@@ -64,7 +66,7 @@ We aim to simplify the Web3 experience by offering user-friendly and memorable d
 
 \#ZNSConnect decentralized communication ID platform powered by decentralized addresses with unique domain names.
 
-**Traction**:  77K+ Twitter, 22K+ in Discord, 550K Domains Berachain, 35K Domains Scroll
+**Traction**:  90K+ Twitter, 22K+ in Discord, 550K Domains Berachain, 50K Domains Scroll
 
 **DappRadar Onchain Tractions:** https://dappradar.com/dapp/zns-connect
 

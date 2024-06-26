@@ -22,7 +22,7 @@ coverY: 0
 ### **Assessment Criteria and Judging Projects will be evaluated by the ZNS core team based on:**
 
 1. Daily Active Users: User engagement levels.
-2. Integration Utility: Project's usefulness.
+2. Integration Utility: Project's usefulness ( [link to example integration](https://x.com/ZNSConnect/status/1803719460395581896) with KiloEx )
 3. Integration Strength: Depth of integration with ZNS Connect
 
 ### Grant Allocation <a href="#f7c9-1" id="f7c9-1"></a>
