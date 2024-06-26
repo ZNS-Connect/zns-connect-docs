@@ -1,16 +1,16 @@
 ---
 description: Lists of NFT Marketplaces for ZNS Connect
-cover: ../.gitbook/assets/1990-480 NFT.png
+cover: .gitbook/assets/1990-480 NFT.png
 coverY: 0
 ---
 
-# ⛓️ Lists of NFT Marketplaces
+# 🎨 NFT Marketplaces
 
 All NFT marketplaces are authenticated on their respective networks, enabling users to trade domain names on ZNS Connect securely.
 
 
 
-<figure><img src="../.gitbook/assets/1800-300 NFT.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1800-300 NFT.png" alt=""><figcaption></figcaption></figure>
 
 ### Lists of NFT Marketplaces&#x20;
 
@@ -44,10 +44,10 @@ This version captures the essence of selling domain names as NFTs in a succinct 
 
 <div>
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-26 at 13.16.06.png" alt=""><figcaption><p>Element ZNS Connect</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2024-06-26 at 13.16.06.png" alt=""><figcaption><p>Element ZNS Connect</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-26 at 13.16.31.png" alt=""><figcaption><p>Sell ZNS Domain on Element</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2024-06-26 at 13.16.31.png" alt=""><figcaption><p>Sell ZNS Domain on Element</p></figcaption></figure>
 
 </div>

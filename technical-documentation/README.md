@@ -2,9 +2,23 @@
 description: Create a custom link
 cover: ../.gitbook/assets/1990-480 Developer.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# ⚒️ Developer Guide
+# ⚒️ - Developer Guide
 
 We offer **custom domain creation** for your community with the domain extension .<mark style="color:orange;">yourname</mark> on **Your chain**.  Like **.cz** on BNB Chain , **.poly** on Polygon , **.gold** on Zora.&#x20;
 
