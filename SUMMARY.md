@@ -18,6 +18,7 @@
   * [ZNS Connect Subgraph](technical-documentation/zns-connect-subgraph.md)
   * [Registration Integration](technical-documentation/registration-integration.md)
   * [⛓️ Contract Address of ZNS](technical-documentation/contract-address.md)
+  * [⛓️ Lists of NFT Marketplaces](technical-documentation/nft.md)
   * [📖 Brand Book](technical-documentation/brand-book.md)
   * [💠 Seed Round](technical-documentation/seed-round.md)
   * [🔗 Links](technical-documentation/contact.md)
