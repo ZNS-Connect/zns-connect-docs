@@ -296,5 +296,5 @@ coverY: 0
 Brand Identity Guidelines of ZNS
 {% endembed %}
 
-
+<mark style="color:orange;">Also, you can find all files here :</mark> [<mark style="color:orange;">link</mark>](https://drive.google.com/drive/folders/1xUKsuU2G86cMz3A36qWE7EOBXcKb1hFh?usp=sharing)
 
