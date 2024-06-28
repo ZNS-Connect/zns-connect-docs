@@ -8,8 +8,8 @@ coverY: 0
 
 Kindly review and share the link to our **Pitch Deck**: [https://docsend.com/view/eaheupi7s8xrrx9d](https://docsend.com/view/eaheupi7s8xrrx9d)
 
-{% embed url="https://drive.google.com/file/d/1sn1KdL_1inqrYrcolOJMcaw8H4FpIF1W/view?usp=drive_link" %}
+{% embed url="https://drive.google.com/file/d/1hvrBji5ZYFrov6sZmvTCemtKm5D3x7wI/view?usp=sharing" %}
 
 
 
-{% file src=".gitbook/assets/ZNS Connect - Pitch Deck V2.pdf" %}
+{% file src=".gitbook/assets/ZNS Connect Pitch deck.pdf" %}
