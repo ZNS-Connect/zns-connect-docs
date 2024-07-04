@@ -1,18 +1,98 @@
+---
+description: Partners of ZNS Connect
+cover: .gitbook/assets/1990-480 Partners.png
+coverY: 0
+---
+
 # 💼 Partners
 
-<figure><img src=".gitbook/assets/Poster Twitter 77.jpg" alt=""><figcaption><p>List of Partners of ZNs Connect</p></figcaption></figure>
-
-🚀 We're thrilled to share the incredible journey ahead with our esteemed partners.&#x20;
+We're thrilled to share the incredible journey ahead with our esteemed partners.&#x20;
 
 Together, we're shaping the future of the decentralized web and bringing innovation to new heights.
+
+### **Scroll Blockchain Ecosystem Partner**&#x20;
+
+<figure><img src=".gitbook/assets/Screenshot 2024-07-04 at 11.08.08.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://x.com/BuildWithScroll/status/1791381377830793252" %}
+
+**Taiko  Blockchain Ecosystem Partner**&#x20;
+
+<figure><img src=".gitbook/assets/Screenshot 2024-07-04 at 11.06.51.png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://x.com/BuiltOnTaiko/status/1797544195324060138" %}
+
+### **Berachain  Blockchain Ecosystem Partner**&#x20;
+
+<figure><img src=".gitbook/assets/Screenshot 2024-07-04 at 11.12.46.png" alt=""><figcaption></figcaption></figure>
+
+### **NEO X Official domain name Provider**
+
+{% embed url="https://x.com/Neo_Blockchain/status/1795395417460593125" %}
+
+{% embed url="https://smartliquidity.info/2024/05/30/neo-collaborates-with-zns-connect-to-delve-into-web3-identity-innovations-on-neo-x/" %}
+
+### **ZK Candt Official domain name Provider**
+
+{% embed url="https://x.com/ZKcandyHQ/status/1795789212610171017" %}
+
+### **Boba Network Official domain name Provider**&#x20;
+
+{% embed url="https://x.com/bobanetwork/status/1802717835959148766" %}
+
+### **Arthera  Official domain name Provider**
+
+{% embed url="https://x.com/artherachain/status/1807693913387417951" %}
+
+### **5ire  Blockchain Official domain name Provider**
+
+{% embed url="https://x.com/5ireChain/status/1804572478876045624" %}
+
+### **KiloEx Strategic Partner and API Integration**
+
+{% embed url="https://x.com/KiloEx_perp/status/1805591061961883906" %}
+
+### **KOI BTC Cooperation**
+
+{% embed url="https://x.com/Koi_BTC/status/1794206275104072145" %}
+
+## **ZOTH RWA AMA Cooperation**
+
+{% embed url="https://x.com/zothdotio/status/1789993109280973111" %}
+
+### **TARS Ai Protocol and ZNS**&#x20;
+
+{% embed url="https://x.com/tarsprotocol/status/1786416630374789125" %}
+
+### **Audit from Solidproof**
+
+{% embed url="https://x.com/solidproof_news/status/1783369874661630417" %}
+
+## **Marketing Partners of ZNS Connect**
+
+### **Galxe Quest Partner**
+
+{% embed url="https://x.com/GalxeQuest/status/1801378822476206139" %}
+
+### **Mirco3 and Built on Taiko**&#x20;
+
+{% embed url="https://x.com/BuiltOnTaiko/status/1802773211240702443" %}
+
+## **Ventory NFT Marketplace**
+
+{% embed url="https://x.com/Ventory_gg/status/1792960172140441954" %}
 
 ## **OKX WEB3 Wallet inregration**&#x20;
 
 {% embed url="https://medium.com/@okxweb3/access-zns-connect-using-the-okx-wallet-web-extension-f4e0116a27dd" %}
 
+## Bitget Wallet Integration&#x20;
+
+{% embed url="https://x.com/BitgetWallet/status/1808128301187080290" fullWidth="true" %}
+
 ## LAYER3 Contest - Intro to ZNS&#x20;
 
-{% embed url="https://twitter.com/layer3xyz/status/1763474286638248286" %}
+{% embed url="https://twitter.com/layer3xyz/status/1763474286638248286" fullWidth="true" %}
 
 ## **TOP 100 in Paris Blockchain Week 2024**&#x20;
 
