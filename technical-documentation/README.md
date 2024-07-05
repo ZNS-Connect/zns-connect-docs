@@ -1,6 +1,5 @@
 ---
 description: Create a custom link for your application or brand
-cover: ../.gitbook/assets/1990-480 Developer.png
 coverY: 0
 layout:
   cover:

@@ -12,6 +12,10 @@ Visit our website at [https://znsconnect.io/](https://znsconnect.io/) to learn m
 
 Ready to mint your own domain? Head over to [https://app.znsconnect.io/](https://app.znsconnect.io/) and get started today!
 
+
+
+{% embed url="https://www.youtube.com/watch?v=i6VwZsD12T0" %}
+
 ### Technical Questions
 
 If you have any technical questions that were not answered in the documentation, [please join to  one of our chat channels.](technical-documentation/contact.md)

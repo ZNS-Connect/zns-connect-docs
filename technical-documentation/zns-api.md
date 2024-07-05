@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/1990-480 API.png
 coverY: 0
 ---
 
-# Rest API
+# ➡️ ZNS API
 
 ### Base URL: `https://v3.znsconnect.io/api`
 

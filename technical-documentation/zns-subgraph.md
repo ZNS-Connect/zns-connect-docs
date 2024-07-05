@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# ZNS Connect Subgraph
+# ➡️ ZNS Subgraph
 
 Developing a subgraph for the ZNS protocol, which is based on ENS contracts, requires providing specific additional information.
 

@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/1990-480 web3.png
 coverY: 0
 ---
 
-# Web3 Name SDK ZNS Connect
+# ➡️ ZNS SDK
 
 ### ZNS Connect SDK Overview
 
