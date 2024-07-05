@@ -2,7 +2,7 @@
 description: AGREEMENT TO TERMS
 ---
 
-# Terms of Use
+# ↘️ Terms of Use
 
 Terms of Use Last Updated: 03/03/2024
 

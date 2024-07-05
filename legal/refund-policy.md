@@ -2,7 +2,7 @@
 description: REFUND POLICY FOR ZNS CONNECT
 ---
 
-# Refund Policy
+# ↘️ Refund Policy
 
 Unless explicitly stated otherwise in this Terms of Service, all fees for domain name registrations and associated domain name Service(s) are eligible for a full refund of the purchase price within 14 days of purchase. However, domains purchased with cryptocurrency must be requested for a refund within 5 days of purchase. Refunds will be processed using the same payment method used for the purchase, based on the USD value at the time of refund.
 

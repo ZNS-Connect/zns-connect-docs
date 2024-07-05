@@ -2,7 +2,7 @@
 description: Private policy of ZNS Connect
 ---
 
-# Privacy Policy
+# ↘️ Privacy Policy
 
 This privacy policy ("Policy") outlines how ZNS Connect Inc. and its affiliated entities ("Company") collect, use, and share personal information of users of this website, [https://znsconnect.io/](https://znsconnect.io/), as well as any other media form, channel, mobile website, or application related, linked, or otherwise connected thereto, which is controlled by the Company (the "Site"), and any associated features, functions, products, services, materials, or other information made available through this website and the Company’s APIs (collectively, the "Services"). This Policy also pertains to any of our other websites that reference this Policy. However, this Policy does not apply to websites that link to different statements.
 
