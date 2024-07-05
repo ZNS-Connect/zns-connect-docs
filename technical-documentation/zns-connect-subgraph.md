@@ -24,7 +24,11 @@ Developing a subgraph for the ZNS protocol, which is based on ENS contracts, req
 
 The ZNS protocol has a constant variable called `identifier` that uniquely describes the protocol across multiple chains. This value is crucial for the calculation of the namehash, and therefore, the subgraph should be aware of it.
 
-Blockscout now supports Name Services for various chains, including ZNS for **Polygon and Blast.** Users can search by name in the search bar or use the dedicated Name Services lookup page accessible from the Blockscout Explorer: [Polygon Blockscout Name Domains](https://polygon.blockscout.com/name-domains).
+Blockscout now supports Name Services for various chains, including ZNS for **Polygon and Blast.** Users can search by name in the search bar or use the dedicated Name Services lookup page accessible from the Blockscout Explorer:&#x20;
+
+[Polygon Blockscout Name Domains](https://polygon.blockscout.com/name-domains)
+
+Blast Blockscout Name Domains
 
 For more details, visit: [ZNS Subgraph on GitHub](https://github.com/blockscout/blockscout-rs/tree/main/blockscout-ens/graph-node/subgraphs/zns-subgraph)
 
