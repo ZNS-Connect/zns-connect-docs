@@ -1,6 +1,0 @@
----
-layout: landing
----
-
-# Info
-

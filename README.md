@@ -18,4 +18,4 @@ Ready to mint your own domain? Head over to [https://app.znsconnect.io/](https:/
 
 ### Technical Questions
 
-If you have any technical questions that were not answered in the documentation, [please join to  one of our chat channels.](technical-documentation/contact.md)
+If you have any technical questions that were not answered in the documentation, [please join to  one of our chat channels.](contact.md)
