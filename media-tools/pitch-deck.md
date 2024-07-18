@@ -1,6 +1,6 @@
 ---
 description: ZNS Connect Name Service Pitch Deck
-cover: .gitbook/assets/1990-480 Pitch.png
+cover: ../.gitbook/assets/1990-480 Pitch.png
 coverY: 0
 ---
 
@@ -12,4 +12,4 @@ Kindly review and share the link to our **Pitch Deck**: [https://docsend.com/vie
 
 
 
-{% file src=".gitbook/assets/ZNS Connect Pitch deck.pdf" %}
+{% file src="../.gitbook/assets/ZNS Connect Pitch deck.pdf" %}

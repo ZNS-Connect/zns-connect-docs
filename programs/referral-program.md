@@ -1,6 +1,6 @@
 ---
 description: Earn 25% with ZNS Connect's Referral Program
-cover: .gitbook/assets/1990-480 Refferal.png
+cover: ../.gitbook/assets/1990-480 Refferal.png
 coverY: 0
 layout:
   cover:
@@ -24,7 +24,7 @@ layout:
 
 Exciting news from ZNS Connect! We're thrilled to introduce our Referral Program and invite you to participate in this opportunity.
 
-<figure><img src=".gitbook/assets/Affiliate Program.png" alt=""><figcaption><p>Reffe</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Affiliate Program.png" alt=""><figcaption><p>Reffe</p></figcaption></figure>
 
 Hello Influencers,
 
@@ -35,7 +35,7 @@ Exciting news from ZNS Connect! We're thrilled to introduce our Referral Program
 1. **Sign up for our Referral Program using this link:** [**https://v3.znsconnect.io/affiliate**](https://v3.znsconnect.io/affiliate)
 2. **Create your custom link and share it with your friends : ( example :** [v3.znsconnect.io/?ref=get25](https://v3.znsconnect.io/?ref=get25))&#x20;
 
-<figure><img src=".gitbook/assets/Screenshot 2024-05-02 at 18.53.44.png" alt=""><figcaption><p>ZNS Referral Program</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-02 at 18.53.44.png" alt=""><figcaption><p>ZNS Referral Program</p></figcaption></figure>
 
 3. Whenever someone mints a Polygon domain using your link, **you instantly earn from 5 till 25%, sent directly to your wallet!**
 
@@ -47,7 +47,7 @@ Get rewarded for bringing friends on board! With our referral program, earn rewa
 * 60 referrals: 20% reward
 * 100 referrals: 25% reward
 
-<figure><img src=".gitbook/assets/Screenshot 2024-06-26 at 15.32.38.png" alt=""><figcaption><p>100 referrals: 25% reward for users directrly on wallet</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-26 at 15.32.38.png" alt=""><figcaption><p>100 referrals: 25% reward for users directrly on wallet</p></figcaption></figure>
 
 We can set a percentage for revenue sharing with KOLs, influencers, and the community, which can be increased up to **30-40%**. If you have a large community and can drive **at least 1000 domain** minting through your referral link, please send a direct message on Telegram to @bond\_zns.
 

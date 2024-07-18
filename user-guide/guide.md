@@ -1,6 +1,6 @@
 ---
 description: Technical Implementation of ZNS
-cover: .gitbook/assets/1990-490 Welcome (1).png
+cover: ../.gitbook/assets/1990-490 Welcome (1).png
 coverY: 0
 ---
 

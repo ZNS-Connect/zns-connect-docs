@@ -1,6 +1,6 @@
 ---
 description: Lists of NFT Marketplaces for ZNS Connect
-cover: .gitbook/assets/1990-480 NFT.png
+cover: ../.gitbook/assets/1990-480 NFT.png
 coverY: 0
 ---
 
@@ -8,7 +8,7 @@ coverY: 0
 
 All NFT marketplaces are authenticated on their respective networks, enabling users to trade domain names on ZNS Connect securely.
 
-<figure><img src=".gitbook/assets/1800-300 NFT.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1800-300 NFT.png" alt=""><figcaption></figcaption></figure>
 
 ### Lists of NFT Marketplaces&#x20;
 
@@ -22,11 +22,11 @@ All NFT marketplaces are authenticated on their respective networks, enabling us
 
 <div>
 
-<figure><img src=".gitbook/assets/standart-1 - blast.png" alt=""><figcaption><p>1 letter domain name on ZNS</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/standart-1 - blast.png" alt=""><figcaption><p>1 letter domain name on ZNS</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/standart-2 - blast.png" alt=""><figcaption><p>2 letters domain name on ZNS</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/standart-2 - blast.png" alt=""><figcaption><p>2 letters domain name on ZNS</p></figcaption></figure>
 
 </div>
 
@@ -34,19 +34,19 @@ All NFT marketplaces are authenticated on their respective networks, enabling us
 
 <div>
 
-<figure><img src=".gitbook/assets/standart-6  - blast.png" alt=""><figcaption><p>24 letters domain name on ZNS</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/standart-6  - blast.png" alt=""><figcaption><p>24 letters domain name on ZNS</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/standart-5  - blast.png" alt=""><figcaption><p>5 letters domain name on ZNS</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/standart-5  - blast.png" alt=""><figcaption><p>5 letters domain name on ZNS</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/standart-4  - blast.png" alt=""><figcaption><p>4 letters domain name on ZNS</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/standart-4  - blast.png" alt=""><figcaption><p>4 letters domain name on ZNS</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/standart-3  - blast.png" alt=""><figcaption><p>3 letters domain name on ZNS</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/standart-3  - blast.png" alt=""><figcaption><p>3 letters domain name on ZNS</p></figcaption></figure>
 
 </div>
 
@@ -54,19 +54,19 @@ All NFT marketplaces are authenticated on their respective networks, enabling us
 
 <div>
 
-<figure><img src=".gitbook/assets/standart-5  - scroll.png" alt=""><figcaption><p>5 letters domain name on ZNS on BNB Chain</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/standart-5  - scroll.png" alt=""><figcaption><p>5 letters domain name on ZNS on BNB Chain</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/standart-1 - poly.png" alt=""><figcaption><p>2 letters domain name on ZNS on Polygon Chain</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/standart-1 - poly.png" alt=""><figcaption><p>2 letters domain name on ZNS on Polygon Chain</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/standart-4  - scroll.png" alt=""><figcaption><p>4 letters domain name on ZNS on Taiko Chain</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/standart-4  - scroll.png" alt=""><figcaption><p>4 letters domain name on ZNS on Taiko Chain</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/standart-6  - scroll.png" alt=""><figcaption><p>13 letters domain name on ZNS on Scroll Network</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/standart-6  - scroll.png" alt=""><figcaption><p>13 letters domain name on ZNS on Scroll Network</p></figcaption></figure>
 
 </div>
 
@@ -94,10 +94,10 @@ Domain names are now tradable as NFTs (Non-Fungible Tokens) on platforms like El
 
 <div>
 
-<figure><img src=".gitbook/assets/Screenshot 2024-06-26 at 13.16.06.png" alt=""><figcaption><p>Element ZNS Connect</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-26 at 13.16.06.png" alt=""><figcaption><p>Element ZNS Connect</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/Screenshot 2024-06-26 at 13.16.31.png" alt=""><figcaption><p>Sell ZNS Domain on Element</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-26 at 13.16.31.png" alt=""><figcaption><p>Sell ZNS Domain on Element</p></figcaption></figure>
 
 </div>

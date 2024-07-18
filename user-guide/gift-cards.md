@@ -1,6 +1,6 @@
 ---
 description: ZNS Gift Cards for every user
-cover: .gitbook/assets/1990-480 Gift.png
+cover: ../.gitbook/assets/1990-480 Gift.png
 coverY: 0
 ---
 
@@ -20,13 +20,13 @@ ZNS Connect Gift Cards Introducing the ZNS Connect Gift Card feature, offering a
 1. Visit your settings at [https://v3.znsconnect.io/settings?tab=credits](https://v3.znsconnect.io/settings?tab=credits)
 2. Enter the desired amount of credits you wish to purchase and click on "Buy "
 
-<figure><img src=".gitbook/assets/Screenshot 2024-05-03 at 13.23.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-03 at 13.23.28.png" alt=""><figcaption></figcaption></figure>
 
 3\. Next, navigate to [https://v3.znsconnect.io/settings?tab=gift-cards](https://v3.znsconnect.io/settings?tab=gift-cards)
 
 4\. Select the gift card of your choice and click "Redeem." Your balance will then increase with credits, allowing you to mint domains using these credits.
 
-<figure><img src=".gitbook/assets/Screenshot 2024-05-03 at 13.24.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-03 at 13.24.51.png" alt=""><figcaption></figcaption></figure>
 
 ## How to register your domain using Gift Cards
 
@@ -36,7 +36,7 @@ After redeeming your ZNS Gift Card, during the domain registration process, you'
 1. Use the maximum amount to purchase the domain.
 2. Alternatively, choose any amount by clicking on the plus or minus buttons.
 
-<figure><img src=".gitbook/assets/Screenshot 2024-05-03 at 13.34.49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-03 at 13.34.49.png" alt=""><figcaption></figcaption></figure>
 
 ## Here's how to send Credits to another wallet:
 
@@ -45,13 +45,13 @@ After redeeming your ZNS Gift Card, during the domain registration process, you'
 
 
 
-<figure><img src=".gitbook/assets/Screenshot 2024-05-03 at 13.46.07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-03 at 13.46.07.png" alt=""><figcaption></figcaption></figure>
 
 3\. The recipient only needs to redeem at [https://v3.znsconnect.io/settings?tab=gift-cards](https://v3.znsconnect.io/settings?tab=gift-cards) , and the amount of credits will appear on the right side of the menu.
 
 
 
-<figure><img src=".gitbook/assets/Screenshot 2024-05-03 at 13.47.02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-05-03 at 13.47.02.png" alt=""><figcaption></figcaption></figure>
 
 
 
