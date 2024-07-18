@@ -10,13 +10,18 @@
 * [🎁 ZNS Gift Cards](gift-cards.md)
 * [🎨 NFT Marketplaces](nft.md)
 * [💼 Partners](partners.md)
-* [⚒️ - Developer Guide](technical-documentation/README.md)
-  * [➡️ ZNS SDK](technical-documentation/sdk.md)
-  * [➡️ ZNS API](technical-documentation/zns-api.md)
-  * [➡️ ZNS Subgraph](technical-documentation/zns-subgraph.md)
-  * [➡️ ZNS Registration Integration](technical-documentation/zns-registration-integration.md)
-  * [⛓️ ZNS Contract Address](technical-documentation/contract-address.md)
-  * [💠 Seed Round](technical-documentation/seed-round.md)
+
+## Developer Guide
+
+* [⚒️ What we build?](developer-guide/technical-documentation.md)
+* [➡️ ZNS SDK](developer-guide/sdk.md)
+* [➡️ ZNS API](developer-guide/zns-api.md)
+* [➡️ ZNS Subgraph](developer-guide/zns-subgraph.md)
+* [➡️ ZNS Registration Integration](developer-guide/zns-registration-integration.md)
+* [⛓️ ZNS Contract Address](developer-guide/contract-address.md)
+
+***
+
 * [📃 Pitch Deck](pitch-deck.md)
 * [👾 One Pager | ZNS](one-pager-zns.md)
 * [📜 Whitepaper](whitepaper.md)

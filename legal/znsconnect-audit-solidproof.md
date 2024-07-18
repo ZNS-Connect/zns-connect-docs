@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Audit by Solidproof
+# 🕴️ Audit by Solidproof
 
 The Team provided us with the files that should be tested in the security assessment. This audit covered the following files listed below with an **SHA-1 Hash**.
 
