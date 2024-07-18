@@ -41,7 +41,7 @@
 * [↘️ Privacy Policy](legal/privacy-policy.md)
 * [🕴️ Audit by Solidproof](legal/znsconnect-audit-solidproof.md)
 
-***
+## LINKS
 
 * [Website](https://znsconnect.io/)
 * [Twitter](https://twitter.com/ZNSConnect)
