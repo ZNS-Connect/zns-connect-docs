@@ -32,7 +32,7 @@
 * [👾 One Pager | ZNS](media-tools/one-pager-zns.md)
 * [📜 Whitepaper](media-tools/whitepaper.md)
 * [📖 Brand Book of ZNS](media-tools/brand-book.md)
-* [🔗 Links](media-tools/contact.md)
+* [🔗 All links](media-tools/links.md)
 
 ## LEGAL
 
@@ -44,6 +44,7 @@
 ## LINKS
 
 * [Website](https://znsconnect.io/)
+* [Application](https://app.znsconnect.io/)
 * [Twitter](https://twitter.com/ZNSConnect)
 * [Discord](https://discord.gg/2rrkuqT8pB)
 * [Telegram](https://t.me/znsconnect)
