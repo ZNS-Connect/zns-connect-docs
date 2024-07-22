@@ -77,6 +77,8 @@ Response:
 
 **Here is an example of partner** [**integration**](https://app.kiloex.io/trade?sCode=zns\&utm\_source=referral\&utm\_medium=zns)&#x20;
 
+## <mark style="color:orange;">**KiloEx Platform from Binance Labs**</mark>
+
 {% embed url="https://app.kiloex.io/" %}
 KiloEx integration of ZNS API
 {% endembed %}
@@ -84,3 +86,13 @@ KiloEx integration of ZNS API
 
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-06-19 at 08.59.08.png" alt=""><figcaption><p>KiloEx integration of ZNS Rest API</p></figcaption></figure>
+
+## <mark style="color:orange;">The Trailblazers platform from Taiko Team</mark>&#x20;
+
+{% embed url="https://trailblazers.taiko.xyz/" %}
+API integration of ZNS Taiko to Trailblazers portal
+{% endembed %}
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-22 at 17.44.42.png" alt=""><figcaption><p>Link your wallet to the Trailblazers website to update your profile with your new domain names</p></figcaption></figure>
