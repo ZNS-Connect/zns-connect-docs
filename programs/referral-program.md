@@ -32,12 +32,14 @@ Exciting news from ZNS Connect! We're thrilled to introduce our Referral Program
 
 #### **Here's how it works:**
 
-1. **Sign up for our Referral Program using this link:** [**https://v3.znsconnect.io/affiliate**](https://v3.znsconnect.io/affiliate)
-2. **Create your custom link and share it with your friends : ( example :** [v3.znsconnect.io/?ref=get25](https://v3.znsconnect.io/?ref=get25))&#x20;
+1. **Sign up for our Referral Program using this link:** [**https://zns.bio/referrals**](https://zns.bio/referrals)
+2. **Create your custom link and share it with friends : ( example:**[ ](https://zns.bio/?ref=OTkzZjQ0OT)[**https://zns.bio?ref=OTkzZjQ0OT**](https://zns.bio/?ref=OTkzZjQ0OT))&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-05-02 at 18.53.44.png" alt=""><figcaption><p>ZNS Referral Program</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-08-14 at 12.47.54.png" alt=""><figcaption><p>ZNS Referral Program</p></figcaption></figure>
 
-3. Whenever someone mints a Polygon domain using your link, **you instantly earn from 5 till 25%, sent directly to your wallet!**
+3. Whenever someone mints a domain using your link, **you instantly earn from 5 till 25%, sent directly to your wallet!** You can see the leaderboard on different networks.&#x20;
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-08-14 at 12.48.35.png" alt=""><figcaption></figcaption></figure>
 
 Get rewarded for bringing friends on board! With our referral program, earn rewards based on the number of successful referrals:
 
@@ -53,4 +55,4 @@ We can set a percentage for revenue sharing with KOLs, influencers, and the comm
 
 ZNS Connect simplifies Web3 interactions through user-friendly domain names. By joining our Referral Program, you can earn rewards while contributing to a more accessible blockchain world.
 
-#### Join now: [Referral Program Link](https://v3.znsconnect.io/affiliate)
+#### [Join now: Referral Program Link](https://zns.bio/referrals)
