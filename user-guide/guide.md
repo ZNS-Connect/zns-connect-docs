@@ -10,6 +10,8 @@ coverY: 0
 
 > Are you ready to take your experience with ZNS Connect to the next level? Let’s dive into the key features and functionalities that will enhance your journey: [https://zns.bio/](https://zns.bio/)
 
+{% embed url="https://youtu.be/AaE49xVHfzs?feature=shared" %}
+
 1. **Smart Search:** Utilize the smart search function to effortlessly identify unoccupied domains, streamlining your search process and saving you valuable time.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-08-17 at 12.04.07.png" alt=""><figcaption></figcaption></figure>
