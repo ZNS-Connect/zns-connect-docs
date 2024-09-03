@@ -13,11 +13,15 @@ We're on a mission to redefine how you experience the Web3 world. We're creating
 
 <figure><img src="../.gitbook/assets/One pager - ZNS Connect (1).jpg" alt=""><figcaption></figcaption></figure>
 
+
+
+{% file src="../.gitbook/assets/One Pager ZNS.pdf" %}
+
 **Key Points :**
 
-— 460,000+ Domains Minted on Berachain
+— 130,000+ Domains Minted on Scroll
 
-— Launched on the Berachain, Polygon, Zetachain — Access to your own [#Web3](tg://search\_hashtag?hashtag=Web3) Page
+— Launched on the Berachain, Polygon, Taiko — Access to your own [#Web3](tg://search\_hashtag?hashtag=Web3) Page
 
 &#x20;— 1st place out of 5,300 projects at the DoraHacks hackathon&#x20;
 
@@ -25,7 +29,7 @@ We're on a mission to redefine how you experience the Web3 world. We're creating
 
 — Officially verified on NFTScan Explorer&#x20;
 
-— Integrated OKX Web3 wallet\
+— Integrated OKX Web3 wallet, Gate Wallet and Fox Wallet\
 \
 **Pitch Deck:** [**link**](https://docs.znsconnect.io/pitch-deck)
 
