@@ -44,7 +44,7 @@
 ## LINKS
 
 * [Website](https://znsconnect.io/)
-* [Application](https://app.znsconnect.io/)
+* [Application](https://zns.bio/)
 * [Twitter](https://twitter.com/ZNSConnect)
 * [Discord](https://discord.gg/2rrkuqT8pB)
 * [Telegram](https://t.me/znsconnect)
