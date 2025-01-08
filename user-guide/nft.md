@@ -12,7 +12,7 @@ All NFT marketplaces are authenticated on their respective networks, enabling us
 
 ### Lists of NFT Marketplaces&#x20;
 
-<table data-view="cards"><thead><tr><th>Chain</th><th>Link to NFT Marketplace</th></tr></thead><tbody><tr><td><strong>Scroll Mainnet</strong></td><td><a href="https://element.market/collections/zns-connect-scroll">ZNS Connect .scroll on <strong>Element</strong> </a></td></tr><tr><td><strong>Polygon Mainnet</strong></td><td><a href="https://element.market/collections/zns-connect-poly">ZNS Connect .poly on <strong>Element</strong></a><br><br><a href="https://opensea.io/collection/zns-connect-polygon">ZNS Connect .poly on <strong>OpenSea</strong></a></td></tr><tr><td><strong>BNB Chain Mainnet</strong></td><td><a href="https://element.market/collections/zns-connect-bnb">ZNS Connect .cz on <strong>Element</strong></a><br><br><a href="https://opensea.io/collection/zns-connect-bnb">ZNS Connect .cz on <strong>OpenSea</strong></a></td></tr><tr><td><strong>Blast Mainnet</strong></td><td><a href="https://element.market/collections/zns-connect-blast">ZNS Connect .blast on <strong>Element</strong></a> <br><br><a href="https://opensea.io/collection/zns-connect-blast">ZNS Connect .blast on <strong>OpenSea</strong></a></td></tr><tr><td><strong>Zora Mainnet</strong></td><td>Soon</td></tr><tr><td> <strong>X Layer Mainnet</strong></td><td>Soon</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th>Chain</th><th>Link to NFT Marketplace</th></tr></thead><tbody><tr><td><strong>Scroll Mainnet</strong></td><td><a href="https://element.market/collections/zns-connect-scroll">ZNS Connect .scroll on <strong>Element</strong> </a></td></tr><tr><td><strong>Polygon Mainnet</strong></td><td><a href="https://element.market/collections/zns-connect-poly">ZNS Connect .poly on <strong>Element</strong></a><br><br><a href="https://opensea.io/collection/zns-connect-polygon">ZNS Connect .poly on <strong>OpenSea</strong></a></td></tr><tr><td><strong>BNB Chain Mainnet</strong></td><td><a href="https://element.market/collections/zns-connect-bnb">ZNS Connect .cz on <strong>Element</strong></a><br><br><a href="https://opensea.io/collection/zns-connect-bnb">ZNS Connect .cz on <strong>OpenSea</strong></a></td></tr><tr><td><strong>Blast Mainnet</strong></td><td><a href="https://element.market/collections/zns-connect-blast">ZNS Connect .blast on <strong>Element</strong></a> <br><br><a href="https://opensea.io/collection/zns-connect-blast">ZNS Connect .blast on <strong>OpenSea</strong></a></td></tr><tr><td><strong>Base Mainnet</strong></td><td><a href="https://element.market/collections/zns-connect-base">ZNS Connect .boss on <strong>Element</strong></a></td></tr><tr><td><strong>Zora Mainnet</strong></td><td>Soon</td></tr></tbody></table>
 
 ***
 
@@ -20,55 +20,15 @@ All NFT marketplaces are authenticated on their respective networks, enabling us
 
 * **Premium:** 1 and 2 letters
 
-<div>
-
-<figure><img src="../.gitbook/assets/standart-1 - blast.png" alt=""><figcaption><p>1 letter domain name on ZNS</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/standart-2 - blast.png" alt=""><figcaption><p>2 letters domain name on ZNS</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/standart-1 - blast.png" alt=""><figcaption><p>1 letter domain name on ZNS</p></figcaption></figure> <figure><img src="../.gitbook/assets/standart-2 - blast.png" alt=""><figcaption><p>2 letters domain name on ZNS</p></figcaption></figure></div>
 
 * **Standard:** 3, 4, 5, and 6+ letters
 
-<div>
-
-<figure><img src="../.gitbook/assets/standart-6  - blast.png" alt=""><figcaption><p>24 letters domain name on ZNS</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/standart-5  - blast.png" alt=""><figcaption><p>5 letters domain name on ZNS</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/standart-4  - blast.png" alt=""><figcaption><p>4 letters domain name on ZNS</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/standart-3  - blast.png" alt=""><figcaption><p>3 letters domain name on ZNS</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/standart-6  - blast.png" alt=""><figcaption><p>24 letters domain name on ZNS</p></figcaption></figure> <figure><img src="../.gitbook/assets/standart-5  - blast.png" alt=""><figcaption><p>5 letters domain name on ZNS</p></figcaption></figure> <figure><img src="../.gitbook/assets/standart-4  - blast.png" alt=""><figcaption><p>4 letters domain name on ZNS</p></figcaption></figure> <figure><img src="../.gitbook/assets/standart-3  - blast.png" alt=""><figcaption><p>3 letters domain name on ZNS</p></figcaption></figure></div>
 
 * **Additionally**, the design color and prefix depend on the chain, such as **.cz, .blast, .gold, etc.**
 
-<div>
-
-<figure><img src="../.gitbook/assets/standart-5  - scroll.png" alt=""><figcaption><p>5 letters domain name on ZNS on BNB Chain</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/standart-1 - poly.png" alt=""><figcaption><p>2 letters domain name on ZNS on Polygon Chain</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/standart-4  - scroll.png" alt=""><figcaption><p>4 letters domain name on ZNS on Taiko Chain</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/standart-6  - scroll.png" alt=""><figcaption><p>13 letters domain name on ZNS on Scroll Network</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/standart-5  - scroll.png" alt=""><figcaption><p>5 letters domain name on ZNS on BNB Chain</p></figcaption></figure> <figure><img src="../.gitbook/assets/standart-1 - poly.png" alt=""><figcaption><p>2 letters domain name on ZNS on Polygon Chain</p></figcaption></figure> <figure><img src="../.gitbook/assets/standart-4  - scroll.png" alt=""><figcaption><p>4 letters domain name on ZNS on Taiko Chain</p></figcaption></figure> <figure><img src="../.gitbook/assets/standart-6  - scroll.png" alt=""><figcaption><p>13 letters domain name on ZNS on Scroll Network</p></figcaption></figure></div>
 
 ***
 
@@ -92,12 +52,4 @@ Domain names are now tradable as NFTs (Non-Fungible Tokens) on platforms like El
 
 ***
 
-<div>
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-26 at 13.16.06.png" alt=""><figcaption><p>Element ZNS Connect</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-26 at 13.16.31.png" alt=""><figcaption><p>Sell ZNS Domain on Element</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/Screenshot 2024-06-26 at 13.16.06.png" alt=""><figcaption><p>Element ZNS Connect</p></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2024-06-26 at 13.16.31.png" alt=""><figcaption><p>Sell ZNS Domain on Element</p></figcaption></figure></div>
