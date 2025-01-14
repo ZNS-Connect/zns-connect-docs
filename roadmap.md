@@ -54,7 +54,7 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/Screenshot 2024-03-14 at 12.42.52.png" alt=""><figcaption></figcaption></figure>
 
-## **ZNS App Version 3 Roadmap (May  2024 - December 2024)**
+## **ZNS App Version 3 Roadmap (May  2024 - March 2025)**
 
 1. **Domain Gift Cards:** Feature related to gifting domain names. Clarify the purpose and usage of these gift cards.
 2. **ZNS SDK Smart Contract:** Smart contract related to ZNS SDK. Provide additional context or details about its functionality.
@@ -72,12 +72,12 @@ coverY: 0
 
 
 
-**Q4 2024 TGE:** Token Generation Event planned between the second and third quarters of 2024. Specify the year for clarity.
+**Q2 2025 TGE:** Token Generation Event planned between the second and third quarters of 2024. Specify the year for clarity.
 
 
 
-**Marketplace and Social Features (Q1 2025):**
+**Marketplace and Social Features (Q2 2025):**
 
-* **Develop a Marketplace:** In the latter half of 2024, we have exciting plans to launch a marketplace within ZNS. This marketplace will enable users to buy, sell, and trade domain names easily and securely.
+* **Human Identity Pass:** In the latter half of 2025, we have exciting plans to launch a marketplace within ZNS. This marketplace will enable users to buy, sell, and trade domain names easily and securely.
 
 This roadmap outlines our achievements from September 2023 to March 2025 and provides insights into the exciting developments we have planned for the future. We're committed to enhancing the ZNS App experience and providing valuable features to our users. Stay tuned for a year of innovation and growth!
