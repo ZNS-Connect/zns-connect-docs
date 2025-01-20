@@ -28,9 +28,17 @@ The initial distribution of ZNT tokens is typically conducted through a combinat
 
 The token allocation is carefully designed to support the long-term sustainability and growth of the ZNS ecosystem. The distribution may include allocations for the development team, advisors, marketing initiatives, liquidity pools, and community incentives. The exact token distribution and allocation details are typically outlined in the project's whitepaper or tokenomics documentation.
 
-**Link to** [**TOKENOMICS**](https://docs.google.com/spreadsheets/d/1a606JN2QmRI\_vPcA\_uQfpwmf4izUXx-vNu5zRativmM/edit?usp=sharing)&#x20;
+Link to check Revenue on Dune: [**Dune Analytics** ](https://dune.com/zns/zns-connect)
 
-<figure><img src=".gitbook/assets/ZNS Connect - Tokenomics.png" alt=""><figcaption><p>Tokenomics ZNS</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2025-01-20 at 18.04.42.png" alt=""><figcaption></figcaption></figure>
+
+Link to check Revenue on Defilama: [**Defilama ZNS Analytics**](https://defillama.com/protocol/zns-connect)
+
+<figure><img src=".gitbook/assets/Screenshot 2025-01-20 at 18.03.26.png" alt=""><figcaption></figcaption></figure>
+
+**Link to**[ **TOKENOMICS**](https://docs.google.com/spreadsheets/d/1cN8863A6sMBvZYKYS8faTlnjbZqEcK19nqqD4TeT9Dk/edit?usp=sharing) **of ZNS**
+
+<figure><img src=".gitbook/assets/Screenshot 2025-01-20 at 18.00.23.png" alt=""><figcaption><p>Tokenomics ZNS</p></figcaption></figure>
 
 ## 5.3 Governance Mechanism
 
