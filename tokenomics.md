@@ -40,6 +40,50 @@ Link to check Revenue on Defilama: [**Defilama ZNS Analytics**](https://defillam
 
 <figure><img src=".gitbook/assets/Screenshot 2025-01-20 at 18.00.23.png" alt=""><figcaption><p>Tokenomics ZNS</p></figcaption></figure>
 
+### **ZNT Tokenomics - Key Metrics**
+
+* **Total Supply:** 1,000,000,000 ZNT
+* **Token Price:** $0.011
+* **Initial Circulating Supply:** 205,000,000 ZNT
+* **Tokens at TGE (Without liquidity):** 85,000,000 ZNT
+* **Initial Market Cap (Without liquidity):** $935,000
+* **Fully Diluted Market Cap:** $11,000,000
+
+***
+
+**Token Allocation**
+
+| **Category**               | **Allocation %** | **Tokens**  |
+| -------------------------- | ---------------- | ----------- |
+| Launchpad                  | 21%              | 210,000,000 |
+| Private Sale               | 5%               | 50,000,000  |
+| Marketing                  | 4%               | 40,000,000  |
+| Foundation                 | 4%               | 40,000,000  |
+| Rewards & Contributors     | 13%              | 130,000,000 |
+| Exchange Listing/Liquidity | 12%              | 120,000,000 |
+| Team & Advisors            | 15%              | 150,000,000 |
+| Ecosystem                  | 14%              | 140,000,000 |
+| Early Adopters & Airdrop   | 12%              | 120,000,000 |
+
+***
+
+**Fundraising Breakdown**
+
+* **Launchpad Raise:** $2,310,000
+* **Private Sale Raise:** $450,000
+* **Total Raise:** $2,760,000
+
+***
+
+**Vesting Overview**
+
+* **Launchpad:** 30% TGE, 6 months linear vesting.
+* **Private Sale:** 20% TGE, 12 months linear vesting.
+* **Marketing, Foundation, Rewards, Ecosystem:** 0% TGE, vested over 12–18 months.
+* **Team & Advisors:** 0% TGE, 6-month cliff, 18 months linear vesting.
+* **Liquidity:** 100% TGE.
+* **Early Adopters & Airdrop:** 10% TGE, 6 months linear vesting.
+
 ## 5.3 Governance Mechanism
 
 The governance mechanism of the ZNS protocol ensures that the community has a say in the decision-making process. Token holders can actively participate in the governance process by voting on proposals and protocol upgrades. These proposals can cover a wide range of topics, including network upgrades, parameter adjustments, fee structures, and platform improvements.
