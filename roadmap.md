@@ -66,7 +66,7 @@ coverY: 0
 
 1️⃣ **Human Identity Pass (HIP):**
 
-* Launching in **Q1 2025**, HIP will introduce **on-chain identity verification** and **XP-based reputation scoring**, enabling users to enhance credibility and unlock exclusive Web3 rewards.
+* &#x20;Launching in **Q1 2025**, HIP will introduce **on-chain identity verification** and **XP-based reputation scoring**, enabling users to enhance credibility and unlock exclusive Web3 rewards.
 
 2️⃣ **ZNS Messaging System:**
 
@@ -103,7 +103,7 @@ coverY: 0
 
 * Enabling **domain-based authentication**, allowing users to log in to supported applications with their **ZNS domain names** instead of wallet addresses.
 
-This roadmap sets the foundation for **ZNS Connect’s next evolution**, empowering Web3 users with **enhanced identity solutions, seamless integrations, and a robust ecosystem**. Stay tuned for more updates! 🚀💡
+This roadmap sets the foundation for **ZNS Connect’s next evolution**, empowering Web3 users with **enhanced identity solutions, seamless integrations, and a robust ecosystem**.&#x20;
 
-**Q2 2025 TGE:** Token Generation Event planned between the second and third quarters of 2024. Specify the year for clarity.
+**Q2 2025 TGE:** Token Generation Event planned soon.&#x20;
 
