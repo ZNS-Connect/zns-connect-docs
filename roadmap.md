@@ -44,8 +44,8 @@ coverY: 0
 
 **3) Seamless Login and API Integration (Q2 2024)**
 
-* [ ] Implement **login with domain name** feature.
-* [ ] Provide developers with **API integration for leveraging** ZNS functionalities.
+* [x] Implement **login with domain name** feature.
+* [x] Provide developers with **API integration for leveraging** ZNS functionalities.
 
 **4) Domain Management for Communities (Q3 2024)**
 
@@ -54,30 +54,56 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/Screenshot 2024-03-14 at 12.42.52.png" alt=""><figcaption></figcaption></figure>
 
-## **ZNS App Version 3 Roadmap (May  2024 - March 2025)**
+## **ZNS App Version 3 Roadmap (May  2024 - January 2025)**
 
-1. **Domain Gift Cards:** Feature related to gifting domain names. Clarify the purpose and usage of these gift cards.
-2. **ZNS SDK Smart Contract:** Smart contract related to ZNS SDK. Provide additional context or details about its functionality.
-3. **ZNS Subgraph**: The ZNS Subgraph is a data indexing and querying system that provides a comprehensive view of activity and data within the ZNS ecosystem.
-4. **Subdomain Customization:** Customize subdomains with unique names, allowing for more personalized and branded web addresses.
-5. **Supporting 6+ Chains:** Indicates support for multiple blockchain networks. Specify the exact number of supported chains for precision.
-6. **Possibility to post news in V3 ZNS Platform:** Feature allowing users to post news articles on ZNS platform version 2. Clarify any specific functionalities related to this feature.
-7. **Official Verification of User Accounts and Premium Services:** Process of verifying user accounts officially and offering premium services. Provide details about what official verification entails.
-8. **Message between ZNS Accounts:** Feature allowing communication between ZNS platform users. Specify any unique aspects or functionalities of this messaging system.
-9. **Seamless Login and API Integration:** Simplify user experience with seamless login and robust API integration.
-10. **Implement login with domain name feature:** Enable login using domain names, enhancing user convenience and identity management.
-11. **Provide developers with API integration:** Offer developers API integration to access and leverage ZNS functionalities effortlessly.
-12. **Domain Management for Communities:** Facilitate domain management for communities to empower leaders and streamline operations.
-13. **Allow community leaders to manage domain names for groups:** Empower community leaders to oversee and manage domain names for their respective groups.
+* [x] **Domain Gift Cards:** Feature related to gifting domain names. Clarify the purpose and usage of these gift cards.
+* [x] **ZNS SDK Smart Contract:** Smart contract related to ZNS SDK. Provide additional context or details about its functionality.
+* [x] **ZNS Subgraph**: The ZNS Subgraph is a data indexing and querying system that provides a comprehensive view of activity and data within the ZNS ecosystem.
+* [x] **Supporting 6+ Chains:** Indicates support for multiple blockchain networks. Specify the exact number of supported chains for precision.
+* [x] **Provide developers with API integration:** Offer developers API integration to access and leverage ZNS functionalities effortlessly.
 
+## **ZNS App Version 4  (February  2025 - September 2025)**
 
+1️⃣ **Human Identity Pass (HIP):**
+
+* Launching in **Q1 2025**, HIP will introduce **on-chain identity verification** and **XP-based reputation scoring**, enabling users to enhance credibility and unlock exclusive Web3 rewards.
+
+2️⃣ **ZNS Messaging System:**
+
+* Direct **message exchange between ZNS accounts** for seamless communication.
+* Potential for **on-chain encrypted messaging** with enhanced privacy features.
+
+3️⃣ **News Posting on ZNS:**
+
+* Users will be able to **publish and share news articles** directly on the ZNS platform.
+* Potential **community-driven content curation** for Web3 updates and discussions.
+
+4️⃣ **Mobile Application:**
+
+* A **dedicated ZNS mobile app** for easy **domain management, minting, and interaction** on the go.
+
+5️⃣ **NFT Marketplace Integration:**
+
+* A **fully integrated marketplace** for **buying, selling, and trading domains as NFTs**, ensuring liquidity and easy access to Web3 identities.
+
+6️⃣ **Domain Management for Communities:**
+
+* Empower community leaders with tools to **manage domains, set permissions, and create custom subdomains** for their members.
+
+7️⃣ **Subdomain Customization:**
+
+* Users will have the ability to **create personalized subdomains**, allowing for unique branding and **multi-use Web3 identities**.
+
+8️⃣ **Seamless Login & API Integration:**
+
+* Simplified user experience through **single sign-on (SSO) via domain names**.
+* Expanded API support for **Web3 apps, dApps, and wallets**.
+
+9️⃣ **Login with Domain Name Feature:**
+
+* Enabling **domain-based authentication**, allowing users to log in to supported applications with their **ZNS domain names** instead of wallet addresses.
+
+This roadmap sets the foundation for **ZNS Connect’s next evolution**, empowering Web3 users with **enhanced identity solutions, seamless integrations, and a robust ecosystem**. Stay tuned for more updates! 🚀💡
 
 **Q2 2025 TGE:** Token Generation Event planned between the second and third quarters of 2024. Specify the year for clarity.
 
-
-
-**Marketplace and Social Features (Q2 2025):**
-
-* **Human Identity Pass:** In the latter half of 2025, we have exciting plans to launch a marketplace within ZNS. This marketplace will enable users to buy, sell, and trade domain names easily and securely.
-
-This roadmap outlines our achievements from September 2023 to March 2025 and provides insights into the exciting developments we have planned for the future. We're committed to enhancing the ZNS App experience and providing valuable features to our users. Stay tuned for a year of innovation and growth!
