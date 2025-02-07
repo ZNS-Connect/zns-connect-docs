@@ -38,6 +38,12 @@ After redeeming your ZNS Gift Card, during the domain registration process, you'
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-08-14 at 12.53.28.png" alt=""><figcaption></figcaption></figure>
 
+
+
+{% embed url="https://youtu.be/y1uI5Q6MDMo?feature=shared" %}
+How to Claim ZNS Connect Gift Cards & Mint Domains for Free
+{% endembed %}
+
 ## Here's how to send Credits to another wallet:
 
 1. Visit Settings at [https://zns.bio/settings?tab=credits](https://zns.bio/settings?tab=credits)
