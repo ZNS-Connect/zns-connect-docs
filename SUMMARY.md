@@ -15,6 +15,7 @@
 ## PROGRAMS
 
 * [🔣 ZNS Referral Program](programs/referral-program.md)
+* [ Human Identity Pass](programs/human-identity-pass.md)
 * [🎓 ZNS Grant Program](programs/grant-program.md)
 
 ## Developer Guide
