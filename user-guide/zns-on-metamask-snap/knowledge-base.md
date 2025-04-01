@@ -2,6 +2,8 @@
 description: >-
   Yes — using ZNS domains to send assets is secure and simple. Here’s how
   resolution works:
+cover: ../../.gitbook/assets/Snap MM 4.png
+coverY: 0
 ---
 
 # 🏫 Knowledge Base
