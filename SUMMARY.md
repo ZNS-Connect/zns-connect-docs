@@ -12,8 +12,8 @@
 * [🎁 ZNS Gift Cards](user-guide/gift-cards.md)
 * [🎨 NFT Marketplaces](user-guide/nft.md)
 * [🦊 ZNS on MetaMask Snap](user-guide/zns-on-metamask-snap/README.md)
-  * [Page 1](user-guide/zns-on-metamask-snap/page-1.md)
-  * [Page 2](user-guide/zns-on-metamask-snap/page-2.md)
+  * [🏫 Knowledge Base](user-guide/zns-on-metamask-snap/knowledge-base.md)
+  * [⏩ General FAQ](user-guide/zns-on-metamask-snap/general-faq.md)
 
 ## PROGRAMS
 
