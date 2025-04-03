@@ -24,15 +24,13 @@ The Team provided us with the files that should be tested in the security assess
 
 **Please note:** Files with a different hash value than in this table have been modified after the security check, either intentionally or unintentionally. A different hash value may (but need not) be an indication of a changed state or potential vulnerability that was not the subject of this scan.
 
-File Name:  SHA-1 Hash
-
-**on XLayer Network :** [\
+File Name:  SHA-1 Hash[\
 ](https://www.oklink.com/xlayer/address/0x5F2760817940bC0A3e3974e117506d1Dd7855C4e/contracthttps://www.oklink.com/xlayer/address/0x7846766Fe7a1031E7E9211C9276445155ff9cD92/contracthttps://www.oklink.com/xlayer/address/0x71709A5f1831bA48C414375Fb6a58662A40C01b5/contract)\
-ZNS Connect Registry - [OKlink explorer](https://www.oklink.com/xlayer/address/0x71709A5f1831bA48C414375Fb6a58662A40C01b5)
+ZNS Connect Registry - [link to explorer](https://www.oklink.com/xlayer/address/0x71709A5f1831bA48C414375Fb6a58662A40C01b5)
 
-ZNS Connect Gift Card - [OKlink explorer](https://www.oklink.com/xlayer/address/0x7846766Fe7a1031E7E9211C9276445155ff9cD92/contract)
+ZNS Connect Gift Card -[ link to explorer](https://www.oklink.com/xlayer/address/0x7846766Fe7a1031E7E9211C9276445155ff9cD92/contract)
 
-ZNS Connect Oracle - [OKlink explorer](https://www.oklink.com/xlayer/address/0x5F2760817940bC0A3e3974e117506d1Dd7855C4e/contract)
+ZNS Connect Oracle - [link to explorer ](https://www.oklink.com/xlayer/address/0x7846766Fe7a1031E7E9211C9276445155ff9cD92/contract)
 
 
 
