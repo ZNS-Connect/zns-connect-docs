@@ -23,15 +23,23 @@ The ZNS Connect SDK offers a robust set of functionalities to interact with bloc
 * **Check Domain Availability:** Determine whether a domain name is already registered or available.
 * **Manage Domains:** Perform various operations such as registering new domains and resolving domain ownership.
 
-**Link to NPM :** [https://www.npmjs.com/package/zns-sdk](https://www.npmjs.com/package/zns-sdk)
+<mark style="color:orange;">**Link to NPM**</mark>**&#x20;:** [https://www.npmjs.com/package/zns-sdk](https://www.npmjs.com/package/zns-sdk)
 
-**Link to GitHub**: [https://github.com/ZNS-Connect/zns-sdk-v3](https://github.com/ZNS-Connect/zns-sdk-v3)
+<mark style="color:blue;">**Link to GitHub**</mark><mark style="color:blue;">:</mark> [https://github.com/ZNS-Connect/zns-sdk-v3](https://github.com/ZNS-Connect/zns-sdk-v3)
 
 Below is the detailed documentation for each function available in the SDK:
 
 ### Functions
 
+The ZNSConnect SDK provides a set of functionalities to interact with blockchain domain names, including resolving addresses, getting metadata, checking domain availability, and more. Below is the documentation for each function available in the SDK.
+
+### Functions
+
+
+
 #### `resolveAddress`
+
+
 
 Resolves the blockchain address for a given top-level domain (TLD) and address.
 
@@ -44,8 +52,8 @@ Resolves the blockchain address for a given top-level domain (TLD) and address.
 
 **Example:**
 
-```javascript
-const result = await ZNSConnectClass.resolveAddress('nft', '0x123...');
+```
+const result = await ZNSConnect.resolveAddress('ink', '0x123...');
 console.log(result);
 ```
 
@@ -64,11 +72,13 @@ Resolves the owner of a given domain.
 **Example:**
 
 ```
-const owner = await ZNSConnectClass.resolveDomain('example.nft');
+const owner = await ZNSConnect.resolveDomain('example.ink');
 console.log(owner);
 ```
 
 #### `getRegistry`
+
+
 
 Gets the registry information for a given domain.
 
@@ -80,12 +90,14 @@ Gets the registry information for a given domain.
 
 **Example:**
 
-```javascript
-const registry = await ZNSConnectClass.getRegistry('example.nft');
+```
+const registry = await ZNSConnect.getRegistry('example.ink');
 console.log(registry);
 ```
 
 #### `getMetadata`
+
+
 
 Retrieves metadata for a given domain.
 
@@ -97,8 +109,8 @@ Retrieves metadata for a given domain.
 
 **Example:**
 
-```javascript
-const metadata = await ZNSConnectClass.getMetadata('example.nft');
+```
+const metadata = await ZNSConnect.getMetadata('example.ink');
 console.log(metadata);
 ```
 
@@ -106,7 +118,7 @@ console.log(metadata);
 
 
 
-Check if a domain is already registered.
+Checks if a domain is already registered.
 
 | Parameter | Type     | Description          |
 | --------- | -------- | -------------------- |
@@ -116,12 +128,14 @@ Check if a domain is already registered.
 
 **Example:**
 
-```javascript
-const isRegistered = await ZNSConnectClass.checkDomain('example.nft');
+```
+const isRegistered = await ZNSConnect.checkDomain('example.ink');
 console.log(isRegistered ? 'Registered' : 'Available');
 ```
 
 #### `getPrice`
+
+
 
 Gets the total price for registering a list of domains under a specific TLD.
 
@@ -134,12 +148,14 @@ Gets the total price for registering a list of domains under a specific TLD.
 
 **Example:**
 
-```javascript
-const price = await ZNSConnectClass.getPrice(['example1', 'example2'], 'nft');
+```
+const price = await ZNSConnect.getPrice(['example1', 'example2'], 'ink');
 console.log(price);
 ```
 
 #### `register`
+
+
 
 Registers a list of domains under a specific TLD to specified owner addresses.
 
@@ -154,17 +170,22 @@ Registers a list of domains under a specific TLD to specified owner addresses.
 
 **Example:**
 
-```javascript
-await ZNSConnectClass.register(walletClient, ['example1', 'example2'], ['0x123...', '0x456...'], 'nft');
 ```
+await ZNSConnect.register(
+  walletClient,
+  ['example1', 'example2'],
+  ['0x123...', '0x456...'],
+  'ink'
+);
+```
+
+This documentation provides a comprehensive guide to using the ZNSConnect SDK for interacting with blockchain domains.
 
 ### The Web3 Name SDK ZNS Connect
 
-The Web3 Name SDK is designed to simplify domain name resolution and reverse resolution. It supports various top-level domains (TLDs) such as .cz on BNB Chain, .scroll on Scroll Network, .blast on Blast Chain, and .poly on Polygon. For a full list of supported TLDs, visit [here](https://docs.znsconnect.io/technical-documentation/contract-address).&#x20;
+The Web3 Name SDK is designed to simplify domain name resolution and reverse resolution. It supports various top-level domains (TLDs) such as .cz on BNB Chain, .scroll on Scroll Network, .blast on Blast Chain, and .poly on Polygon. For a full list of supported TLDs, visit [here](https://docs.znsconnect.io/developer-guide/contract-address).&#x20;
 
 The SDK also supports verified domains launched through the ZNS ID Toolkit and dynamically integrates new TLDs as they are verified.
-
-For more details and examples, visit the [ZNS Connect SDK Documentation](https://docs.znsconnect.io/technical-documentation/sdk).
 
 
 
