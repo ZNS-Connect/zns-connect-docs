@@ -56,13 +56,7 @@ Users have full control over what is shared. During the signature process, users
 
 ***
 
-#### 8. Has the ZNS Snap been audited?
-
-The Snap will undergo standard auditing practices, with third-party reviews planned before mainnet rollout.
-
-***
-
-#### 9. How can I get support?
+#### 8. How can I get support?
 
 For any issues, questions, or integration help:
 
