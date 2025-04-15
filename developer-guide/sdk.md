@@ -45,7 +45,7 @@ Resolves the blockchain address for a given top-level domain (TLD) and address.
 
 | Parameter | Type     | Description                                             |
 | --------- | -------- | ------------------------------------------------------- |
-| `tld`     | `string` | The top-level domain (e.g., 'nft', 'xterio').           |
+| `tld`     | `string` | The top-level domain (e.g., 'ink', 'future').           |
 | `address` | `string` | The blockchain address to resolve (prefixed with `0x`). |
 
 **Returns:** `Promise<any>` - The resolution result.
