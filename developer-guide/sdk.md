@@ -23,7 +23,7 @@ The ZNS Connect SDK offers a robust set of functionalities to interact with bloc
 * **Check Domain Availability:** Determine whether a domain name is already registered or available.
 * **Manage Domains:** Perform various operations such as registering new domains and resolving domain ownership.
 
-**Link to NPM :** [https://npm.io/package/zns-sdk/v/0.0.6-2](https://npm.io/package/zns-sdk/v/0.0.6-2)
+**Link to NPM :** [https://www.npmjs.com/package/zns-sdk](https://www.npmjs.com/package/zns-sdk)
 
 **Link to GitHub**: [https://github.com/ZNS-Connect/zns-sdk-v3](https://github.com/ZNS-Connect/zns-sdk-v3)
 
