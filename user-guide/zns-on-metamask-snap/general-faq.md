@@ -12,11 +12,17 @@ coverY: 0
 
 MetaMask Snaps are modular extensions that allow developers to add custom functionality to MetaMask in a secure, permissioned way. The **ZNS Connect Web3 Domain Snap** is a MetaMask extension that allows users to resolve and interact with **ZNS domains** directly inside their MetaMask wallet.
 
+**Link to install:** [https://snaps.metamask.io/snap/npm/zns-connect/](https://snaps.metamask.io/snap/npm/zns-connect/)
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-05-23 at 11.58.41.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 #### 2. How does the ZNS Connect Web3 Domain Snap work?
 
 The Snap allows users to resolve **.zns domains** (and other supported ZNS TLDs) across EVM-compatible chains directly into wallet addresses within MetaMask. This means users can send assets simply by typing in a domain (e.g., `alice.zns`) instead of a long wallet address — improving both user experience and transaction safety.
+
+<div><figure><img src="../../.gitbook/assets/Screenshot 2025-05-23 at 11.59.51.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot 2025-05-23 at 11.59.58.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot 2025-05-23 at 12.00.03.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -26,18 +32,14 @@ The Snap supports all domain names issued by **ZNS Connect** that are deployed o
 
 You can explore and mint domains here: [https://zns.bio](https://zns.bio/)
 
-***
-
-#### 4. What is ZNS Connect’s version of “Payment ID”?
-
-While ZNS doesn't use a centralized Payment ID format (like `user@exchange`), our naming system serves a similar function — offering readable, universal addresses for wallet interactions across wallets and dApps. For example, `nina.hvm` or `vitalik.defi` can be used for direct transfers via MetaMask once the Snap is enabled.
+<div><figure><img src="../../.gitbook/assets/Screenshot 2025-05-23 at 12.03.25.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot 2025-05-23 at 12.02.45.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot 2025-05-23 at 12.01.49.png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
 #### 5. How do I enable the ZNS Connect Web3 Domain Snap?
 
 1. Make sure you're using **MetaMask Extension v12.4.2 or higher**.
-2. Visit the ZNS Snap install page (coming soon) or find it in the MetaMask Snap Directory.
+2. Visit the [ZNS Snap install page](https://snaps.metamask.io/snap/npm/zns-connect/) or find it in the MetaMask Snap Directory.
 3. Approve the Snap installation when prompted.
 4. Your MetaMask will now resolve ZNS domains automatically when entered in the “Send To” field.
 
