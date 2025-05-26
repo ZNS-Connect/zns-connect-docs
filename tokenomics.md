@@ -1,5 +1,6 @@
 ---
 description: ZNS Token (ZNT) and Revenue Stream
+hidden: true
 cover: .gitbook/assets/1990-480 Token (1).png
 coverY: 0
 ---
