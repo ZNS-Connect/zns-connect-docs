@@ -4,7 +4,7 @@ description: AGREEMENT TO TERMS
 
 # ↘️ Terms of Use
 
-Terms of Use Last Updated: 03/03/2024
+Terms of Use Last Updated: 25/05/2025
 
 **AGREEMENT TO TERMS**
 
