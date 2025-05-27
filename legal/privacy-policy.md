@@ -61,22 +61,7 @@ In summary, we will either delete or anonymize personal data that is no longer n
 
 ### YOUR RIGHTS AND CHOICES
 
-You have certain **rights** regarding your personal data. We aim to extend the same core data protection rights to all our users, regardless of their location, in line with global privacy principles (such as GDPR). These rights include:
-
-* **Right to Access:** You can request confirmation of whether we are processing your personal information and, if so, request a copy of the personal data we hold about you. This allows you to know and review the information we have collected.
-* **Right to Rectification:** You have the right to ask us to correct or update any inaccurate or incomplete personal data in our records. We will make corrections as requested to ensure your data is accurate and up-to-date.
-* **Right to Erasure:** You can request that we delete your personal data. We will erase the information we hold about you without undue delay, provided we have no legal obligation or overriding legitimate interest to retain it. (Keep in mind that this right applies to data in our systems; data recorded on the blockchain cannot be removed by us, as explained above.)
-* **Right to Restrict Processing:** You may ask us to limit the processing of your personal data in certain circumstances – for example, if you contest the accuracy of your data or if you want to object to processing pending a verification or exercise of another right.
-* **Right to Object:** You have the right to object to certain processing of your data, such as processing for direct marketing purposes or when we are relying on a legitimate interest basis. If you object, we will re-evaluate our processing and, except for compelling legitimate grounds, will cease processing your data for that purpose. You can always object to marketing communications, and if you do so, we will stop sending you marketing emails.
-* **Right to Data Portability:** For data you have provided to us, you can request that we provide it to you or transfer it to another service provider in a structured, commonly used, machine-readable format, where technically feasible. This typically applies to data processed based on your consent or for the performance of a contract.
-* **Right to Withdraw Consent:** If we rely on your consent for any processing (for instance, if you explicitly consented to receive marketing emails), you have the right to withdraw that consent at any time. Withdrawal of consent will not affect the lawfulness of any processing done before you withdrew, and it will only affect future processing of that specific type. For example, you can unsubscribe from our newsletter at any time to stop receiving further marketing emails.
-* **Right to Lodge a Complaint:** If you believe your data protection rights have been violated, you have the right to file a complaint with a supervisory authority. If you are in the European Union or another jurisdiction with a data protection regulator, you can contact your local data protection authority about any concerns. We encourage you to contact us first, and we will do our best to resolve your issue.
-
-To exercise any of these rights, please contact us using the contact information provided in the “Contact Us” section below. We may need to verify your identity before fulfilling certain requests (for example, by asking you to provide information or identification). This is to ensure that we do not disclose personal data to an unauthorized person. We will respond to your request within a reasonable timeframe and in accordance with applicable law.
-
-Please note that these rights are subject to some conditions and exceptions. In some cases, we may legally or legitimately decline your request (for example, if fulfilling it would violate another person’s rights or if we must retain data for legal compliance). If we deny your request, we will explain why, provided it is lawful for us to do so.
-
-
+Depending on your jurisdiction, you may have certain rights regarding your personal data, including access, correction, deletion, or restriction of processing. You can exercise these rights by contacting us at: legal@znsconnect.io
 
 ### DATA SECURITY
 
