@@ -140,8 +140,24 @@ We reserve the right to update these Terms at any time. Changes will be effectiv
 
 Knowingly acquiring or attempting to acquire domains identical to third-party trademarks is prohibited and may lead to account termination.
 
+#### 16. Disclaimers
+
+The Site is provided on an “AS IS” and “AS AVAILABLE” basis. You agree that your use of the Site and our services is at your sole risk.
+
+To the fullest extent permitted by law, ALTBridge Labs S.A., its affiliates, and its service providers expressly disclaim all warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, title, and any warranties arising from course of dealing or usage of trade.
+
+We do not guarantee that the Site will be uninterrupted, error-free, secure, or free from viruses or harmful components. We make no warranties or representations about the accuracy, completeness, or reliability of the Site’s content or any third-party websites linked through it.
+
+You agree that we will not be responsible or liable for:
+
+* Any personal injury, property damage, data loss, or unauthorized access;
+* Errors, bugs, viruses, or the like transmitted by third parties;
+* Service interruptions or malfunctions;
+* Third-party services, ads, links, or software connected to or accessible through the Site;
+* Any transactions you engage in with third-party providers.
+
 ***
 
-#### 16. Contact
+#### 17. Contact
 
 For any questions about these Terms, please contact: &#x20;
