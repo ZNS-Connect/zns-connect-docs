@@ -1,10 +1,10 @@
 # ↘️ Privacy Policy
 
-**Introduction:** ALTBridge Labs S.A. (“ALTBridge”, “Company”, “**we**”, or “**us”), a** Panamanian legal entity, is committed to protecting your privacy. This Privacy Policy describes how we collect, use, share, and protect personal data when you use ZNS Connect and related services, including our websites **zns.bio** and **znsconnect.io** (collectively, the “**Services**”). It also explains your rights regarding your personal data. By using our Services, you agree to the collection and use of information as described in this Policy. If you do not agree, please discontinue use of the Services.
+**Introduction:** ALTBridge Labs S.A. (“ALTBridge”, “Company”, “**we**”, or “**us”), a** Panamanian legal entity, is committed to protecting your privacy. This Privacy Policy describes how we collect, use, share, and protect personal data when you use ZNS Connect and related services, including our websites **zns.bio** and **znsconnect.io** (collectively, the “Services”). It also explains your rights regarding your personal data. By using our Services, you agree to the collection and use of information as described in this Policy. If you do not agree, please discontinue use of the Services.
 
 PERSONAL DATA WE COLLECT
 
-We collect **personal data** (information that can identify you) in the following ways:
+We collect personal data (information that can identify you) in the following ways:
 
 * Information You Provide: When you interact with our Services, you may provide certain information directly. This includes:
   * Wallet Address: If you connect a blockchain wallet to use ZNS Connect, we collect your public wallet address (a blockchain identifier tied to your account). This is used as your user identifier within our Service.
@@ -12,9 +12,7 @@ We collect **personal data** (information that can identify you) in the followin
 * Information Collected Automatically: We collect certain data automatically when you use our websites:
   * IP Address and Device Information: We log your Internet Protocol (IP) address, device type, operating system, browser type, and similar technical information when you access our sites.
   * Usage Data: We monitor your activity on our sites, such as pages visited, features used, time spent on pages, and click-stream data. This usage information is collected to help us understand how users engage with our Services and to improve user experience. We utilize cookies and similar tracking technologies (described below) to gather some of this data.
-* Cookies and Tracking: Our websites use cookies, pixels, and analytics tools (such as **Google Tag Manager** and **Google Analytics**) to collect usage data. Cookies are small data files stored on your device that help us recognize you and remember your preferences. For example, we use Google Analytics (via Google Tag Manager) to collect information about how visitors use our site, which helps us analyze traffic and improve the Services. These third-party analytics services may receive your IP address and other usage data when you visit our site, and their use of your data is governed by their own privacy policies.
-
-No Social Login or Third-Party Identity Services: We do **not** use any social media logins or third-party identity verification services for authentication. You do not need to log in with Google, Facebook, or any similar provider to use ZNS Connect. Your blockchain wallet (and optional email) are the primary identifiers we use. This means we do not collect information from social networks or external identity providers as part of your use of the Services.
+* Cookies and Tracking: Our websites use cookies, pixels, and analytics tools (such as Google Tag Manager and Google Analytics) to collect usage data. Cookies are small data files stored on your device that help us recognize you and remember your preferences. For example, we use Google Analytics (via Google Tag Manager) to collect information about how visitors use our site, which helps us analyze traffic and improve the Services. These third-party analytics services may receive your IP address and other usage data when you visit our site, and their use of your data is governed by their own privacy policies.
 
 **USE OF PERSONAL INFORMATION**
 
