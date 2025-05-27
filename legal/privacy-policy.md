@@ -1,10 +1,8 @@
----
-description: Private policy of ZNS Connect
----
-
 # ↘️ Privacy Policy
 
-This privacy policy ("Policy") outlines how ZNS Connect Inc. and its affiliated entities ("Company") collect, use, and share personal information of users of this website, [https://znsconnect.io/](https://znsconnect.io/), as well as any other media form, channel, mobile website, or application related, linked, or otherwise connected thereto, which is controlled by the Company (the "Site"), and any associated features, functions, products, services, materials, or other information made available through this website and the Company’s APIs (collectively, the "Services"). This Policy also pertains to any of our other websites that reference this Policy. However, this Policy does not apply to websites that link to different statements.
+**Introduction:** ALTBridge Labs S.A. (“**ALTBridge**”, “**Company**”, “**we**”, or “**us**”), a Panamanian legal entity, is committed to protecting your privacy. This Privacy Policy describes how we collect, use, share, and protect personal data when you use ZNS Connect and related services, including our websites **zns.bio** and **znsconnect.io** (collectively, the “**Services**”). It also explains your rights regarding your personal data. By using our Services, you agree to the collection and use of information as described in this Policy. If you do not agree, please discontinue use of the Services.
+
+
 
 **WHAT WE COLLECT**
 
@@ -40,7 +38,7 @@ For questions or comments about this Privacy Policy, please contact us at:  priv
 
 **Complaint to Data Protection Authority**
 
-You retain the right to file a complaint with your local data protection authority. If you reside in the European Union, information on how to contact your local data protection authority can be found [here](https://edpb.europa.eu/about-edpb/about-edpb/members\_en).
+You retain the right to file a complaint with your local data protection authority. If you reside in the European Union, information on how to contact your local data protection authority can be found [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en).
 
 For individuals based in the UK or Switzerland, your local data protection authorities are the UK Information Commissioner's Office ([ICO](https://ico.org.uk/global/contact-us/)) and the Swiss Federal Data Protection and Information Commissioner ([FDPIC](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact/address.html)).
 
