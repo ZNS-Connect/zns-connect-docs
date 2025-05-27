@@ -8,13 +8,23 @@ Terms of Use Last Updated: 03/03/2024
 
 **AGREEMENT TO TERMS**
 
-These Terms of Use constitute a legally binding agreement between you and ZNS Connect Inc. ("Company") regarding your access to and use of the [https://app.znsconnect.io/](https://app.znsconnect.io/) website and related media channels controlled by the Company (collectively, the "Site"). However, please note that blockchain networks, although ZNS Connect Inc. may publish Domain Names or other records to them, are controlled by third parties and are not included in the definition of the “Site”. By accessing the Site, you agree to be bound by all of these Terms of Use. If you do not agree with these Terms of Use, you are prohibited from using the Site and must discontinue use immediately.
+#### ABOUT THESE TERMS
 
-Supplemental terms and conditions or documents posted on the Site are expressly incorporated herein by reference. We reserve the right to make changes or modifications to these Terms of Use at any time and for any reason. You will be subject to, and deemed to have accepted, the changes in any revised Terms of Use by your continued use of the Site after the date such revised Terms of Use are posted.
+These Terms of Use constitute a legally binding agreement between you and **ALTBridge Labs S.A.** (operating as ZNS Connect) (“Company,” “we,” or “us”) regarding your access to and use of the ZNS Connect websites including https://znsconnect.io, https://zns.bio, and https://app.znsconnect.io, and all related content, products, and services (collectively, the “Site”).
 
-The information provided on the Site is not intended for distribution or use in any jurisdiction or country where such distribution or use would be contrary to law or regulation or would subject us to any registration requirement. Those accessing the Site from other locations are solely responsible for compliance with local laws.
+Please note: While ZNS Connect may publish Domain Names or other records to public blockchain networks, these networks are operated by independent third parties and are not part of the Site.
 
-The Site is intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to use or register for the Site.
+By accessing the Site, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree with these Terms, you must discontinue use of the Site immediately.
+
+Supplemental terms, policies, or disclosures linked on the Site are incorporated into these Terms by reference.
+
+We reserve the right to modify these Terms at any time. By continuing to use the Site after such modifications are posted, you agree to the revised Terms.
+
+The Site is not intended for distribution or use in any jurisdiction where such use would violate law or require regulatory registration. Users are responsible for compliance with their local laws.
+
+The Site is intended only for users aged 18 years and older. By using the Site, you represent that you are at least 18 years of age.
+
+
 
 **INTELLECTUAL PROPERTY RIGHTS**
 
