@@ -55,8 +55,6 @@ You agree not to use the Site to:
 * Use the Site for market manipulation or money laundering;
 * Upload malicious code or engage in any activity intended to disrupt the Site.
 
-***
-
 4\. No Financial Advice or Offerings
 
 ZNS Connect does not offer investment advice, does not conduct token sales, and does not operate or promote any financial products. The services provided by ZNS Connect are purely utility-based and should not be construed as investment opportunities or solicitations.
