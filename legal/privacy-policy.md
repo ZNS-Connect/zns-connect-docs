@@ -61,8 +61,6 @@ In summary, we will either delete or anonymize personal data that is no longer n
 
 ### YOUR RIGHTS AND CHOICES
 
-### Your Rights and Choices
-
 You have certain **rights** regarding your personal data. We aim to extend the same core data protection rights to all our users, regardless of their location, in line with global privacy principles (such as GDPR). These rights include:
 
 * **Right to Access:** You can request confirmation of whether we are processing your personal information and, if so, request a copy of the personal data we hold about you. This allows you to know and review the information we have collected.
@@ -88,9 +86,7 @@ However, please be aware that **no method of transmission over the Internet or m
 
 ### INTERNATIONAL DATA TRANSFERS
 
-ALTBridge Labs S.A. is based in Panama, and our Services are global. When you use ZNS Connect, your personal data may be transferred to or stored on servers located in countries **outside** of your own. This includes the **United States**, **Europe**, **Asia**, or other jurisdictions where our company or our service providers maintain facilities. Different countries may have different data protection laws, which might not be as protective as those in your home jurisdiction.
-
-Regardless of where your data is processed, we handle your personal information in accordance with this Privacy Policy and take steps to ensure it remains protected. If you are located in the European Economic Area (EEA), United Kingdom, or other regions with data transfer restrictions, we implement appropriate safeguards for cross-border data transfers as required by applicable law. These may include relying on your consent, using European Commission-approved Standard Contractual Clauses, or ensuring that the recipient of the data is certified under frameworks like the EU-U.S. Data Privacy agreements (if applicable).
+ALTBridge Labs S.A. is based in Panama, and our Services are global. When you use ZNS Connect, your personal data may be transferred to or stored on servers located in countries **outside** of your own. Different countries may have different data protection laws, which might not be as protective as those in your home jurisdiction.
 
 By using our Services and providing information to us, you acknowledge the transfer of your personal data to countries outside of your country of residence. We will take all measures reasonably necessary to ensure that your data is treated securely and in accordance with this Policy.
 
@@ -100,7 +96,7 @@ Our Services are **not intended for children** under the age of 16 (or the equiv
 
 ### CHANGES TO THIS PRIVACY POLICY
 
-We may update or modify this Privacy Policy from time to time to reflect changes in our business, legal obligations, or the features of our Services. When we make changes, we will revise the “Last Updated” date at the top of this Policy. If the changes are significant, we may also provide a more prominent notice (such as on our website homepage or via email notification).
+We may update or modify this Privacy Policy from time to time to reflect changes in our business, legal obligations, or the features of our Services.&#x20;
 
 We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your information. Your continued use of the Services after any modifications to this Policy will constitute your acknowledgment of the changes and agreement to be bound by the updated Policy.
 
