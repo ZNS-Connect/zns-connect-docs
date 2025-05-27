@@ -46,13 +46,11 @@ We do **not sell** your personal data. However, we may **share** your data with 
 
 When we share data with service providers or other third parties, we only provide the minimum amount of personal data necessary for them to carry out their responsibilities. Third parties who receive personal data from us are expected to handle it with an appropriate level of confidentiality and security, and they are not permitted to use it for any purpose other than the specific service they are providing to us (unless they are independently data controllers, such as Google in the case of analytics data, in which case their own privacy terms apply as well).
 
-BLOCKCHAIN DATA AND ON-CHAIN DISCLOSURES&#x20;
+### **BLOCKCHAIN DATA AND ON-CHAIN DISCLOSURES**&#x20;
 
 Public Blockchain Records: ZNS Connect is a Web3 / blockchain-based service. This means that certain actions you take through our Services (such as registering a domain name or adding information to your decentralized profile) involve writing data to public blockchain networks. **Any data that you choose to publish on a blockchain becomes public, immutable, and outside of our control**. For example, if you attach personal information (like a display name, avatar, or other profile data) to your blockchain domain and that information is written to the blockchain, it will be visible to anyone who inspects the blockchain and **we cannot alter or delete that on-chain data**. Blockchains are distributed ledgers designed to **record information permanently**; once a transaction (containing your data) is confirmed on the network, it **cannot be unpublished or erased** by us or any other entity.
 
 Please treat your blockchain domain profile as a **public profile**. Only include information on-chain that you are comfortable sharing with the world indefinitely. **ALTBridge** has no ability to remove personal data from a blockchain once you have broadcast it; this is an inherent aspect of decentralized networks and not a result of our IT systems. While this Policy covers how we handle any off-chain copies of that data (e.g. if cached in our databases for display), it does not cover the persistence of data on the blockchain itself, which by design is outside the scope of data protection erasure rights.
-
-Off-Chain Storage: Generally, we try to minimize the personal data we write to the blockchain. Most personal data you provide (like your email address) is kept off-chain in our controlled databases to maintain privacy and allow modification or deletion if needed. Data on our servers is subject to the rights and practices described in this Policy. However, certain identifiers like your wallet address or domain name are inherently on-chain data and part of the public blockchain ecosystem.
 
 ### DATA RETENTION
 
