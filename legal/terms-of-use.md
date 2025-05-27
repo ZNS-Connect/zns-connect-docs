@@ -85,13 +85,13 @@ Users are solely responsible for determining and fulfilling their tax obligation
 
 ***
 
-7\. User-Generated Content
+#### 7. User-Generated Content
 
 Users are solely responsible for any content they upload or display on the Site. You must ensure that your content complies with all applicable laws and does not violate any third-party rights.
 
 ***
 
-8\. Social Media and Third-Party Accounts
+#### 8. Social Media and Third-Party Accounts
 
 As part of the functionality of the Site, you may link your account with third-party services (each a “Third Party Account”). By doing so, you grant us permission to access, store, and use information from your Third Party Account, such as your profile and connections, in accordance with your settings and applicable law. You acknowledge that:
 
@@ -102,7 +102,7 @@ As part of the functionality of the Site, you may link your account with third-p
 
 ***
 
-9\. Submissions
+#### 9. Submissions
 
 Any questions, comments, suggestions, ideas, or feedback you provide regarding the Site or related services (“Submissions”) are non-confidential and shall become the exclusive property of ZNS Connect. You waive any moral rights to such Submissions and grant ZNS Connect full rights to use them for any lawful purpose.
 
@@ -164,7 +164,7 @@ You agree that we will not be responsible or liable for:
 
 ***
 
-17\. Term and Termination
+#### 17. Term and Termination
 
 These Terms of Use remain in full force and effect while you use the Site.
 
