@@ -164,6 +164,21 @@ You agree that we will not be responsible or liable for:
 
 ***
 
-#### 17. Contact
+17\. Term and Termination
+
+These Terms of Use remain in full force and effect while you use the Site.
+
+We reserve the right, at our sole discretion, to suspend or terminate your access to the Site or any part thereof at any time, for any reason, including but not limited to violation of these Terms, suspected fraudulent or abusive behavior, or use of the Site in a manner that may cause legal liability or disrupt others' use.
+
+You may terminate your use of the Site at any time by discontinuing access.
+
+Upon termination:
+
+* Your right to use the Site will immediately cease.
+* Any provisions of these Terms that by their nature should survive termination shall survive, including but not limited to intellectual property rights, disclaimers, limitations of liability, and dispute resolution provisions.
+
+We are not liable for any loss or damage arising from your inability to access the Site after termination.
+
+#### 18. Contact
 
 For any questions about these Terms, please contact: &#x20;
