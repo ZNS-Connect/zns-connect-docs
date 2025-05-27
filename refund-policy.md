@@ -1,5 +1,6 @@
 ---
 description: REFUND POLICY FOR ZNS CONNECT
+hidden: true
 ---
 
 # ↘️ Refund Policy

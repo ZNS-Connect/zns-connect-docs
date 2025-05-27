@@ -2,9 +2,9 @@
 
 * [🔰 Welcome](README.md)
 * [ℹ️ Introduction](introduction.md)
-* [💹 Tokenomics and Revenue](tokenomics.md)
 * [🛣️ Roadmap](roadmap.md)
 * [💼 Partners](partners.md)
+* [💹 Tokenomics and Revenue](tokenomics.md)
 
 ## USER GUIDE
 
@@ -34,16 +34,19 @@
 
 * [📃 Pitch Deck](media-tools/pitch-deck.md)
 * [👾 One Pager | ZNS](media-tools/one-pager-zns.md)
-* [📜 Whitepaper](media-tools/whitepaper.md)
 * [📖 Brand Book of ZNS](media-tools/brand-book.md)
 * [🔗 All links](media-tools/links.md)
+* [📜 Whitepaper](media-tools/whitepaper.md)
 
 ## LEGAL
 
 * [↘️ Terms of Use](legal/terms-of-use.md)
-* [↘️ Refund Policy](legal/refund-policy.md)
 * [↘️ Privacy Policy](legal/privacy-policy.md)
 * [🕴️ Audit by Solidproof](legal/znsconnect-audit-solidproof.md)
+
+***
+
+* [↘️ Refund Policy](refund-policy.md)
 
 ## LINKS
 
