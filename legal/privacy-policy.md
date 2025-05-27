@@ -1,8 +1,8 @@
 # ↘️ Privacy Policy
 
-**Introduction:** ALTBridge Labs S.A. (“ALTBridge”, “Company”, “we”, or “u&#x73;**”),** a Panamanian legal entity, is committed to protecting your privacy. This Privacy Policy describes how we collect, use, share, and protect personal data when you use ZNS Connect and related services, including our websites **zns.bio** and **znsconnect.io** (collectively, the “Services”). It also explains your rights regarding your personal data. By using our Services, you agree to the collection and use of information as described in this Policy. If you do not agree, please discontinue use of the Services.
+**Introduction:** ALTBridge Labs S.A. (“ALTBridge”, “Company”, “we”, or “u&#x73;**”**)**,** a Panamanian legal entity, is committed to protecting your privacy. This Privacy Policy describes how we collect, use, share, and protect personal data when you use ZNS Connect and related services, including our websites **zns.bio** and **znsconnect.io** (collectively, the “Services”). It also explains your rights regarding your personal data. By using our Services, you agree to the collection and use of information as described in this Policy. If you do not agree, please discontinue use of the Services.
 
-**PERSONAL DATA WE COLLECT**
+### **PERSONAL DATA WE COLLECT**
 
 We collect personal data (information that can identify you) in the following ways:
 
@@ -14,9 +14,22 @@ We collect personal data (information that can identify you) in the following wa
   * Usage Data: We monitor your activity on our sites, such as pages visited, features used, time spent on pages, and click-stream data. This usage information is collected to help us understand how users engage with our Services and to improve user experience. We utilize cookies and similar tracking technologies (described below) to gather some of this data.
 * Cookies and Tracking: Our websites use cookies, pixels, and analytics tools (such as Google Tag Manager and Google Analytics) to collect usage data. Cookies are small data files stored on your device that help us recognize you and remember your preferences. For example, we use Google Analytics (via Google Tag Manager) to collect information about how visitors use our site, which helps us analyze traffic and improve the Services. These third-party analytics services may receive your IP address and other usage data when you visit our site, and their use of your data is governed by their own privacy policies.
 
-**USE OF PERSONAL INFORMATION**
+### HOW WE USE YOUR PERSONAL DATA
 
-The information you input on our Site or Services may be published to the blockchain through our software, enabling you to broadcast a transaction to the blockchain network. Once published, we cannot control how others use your personal information. Your blockchain domain is akin to a "Public Profile," and any information you direct us to publish will be accessible to others. We use your personal information for various purposes, including but not limited to operating, maintaining, and improving our Sites, products, and Services; responding to comments and questions; providing customer service; sending information such as confirmations, invoices, updates, and support messages; and communicating about promotions and other news.
+We use the collected personal data for the following purposes:
+
+* Providing and Improving Services: To operate, maintain, and improve ZNS Connect and our related websites, products, and Services. For example, your wallet address is used to enable domain registration and management features, and usage data helps us optimize our user interface and performance.
+* Communication: To communicate with you about your use of the Services. If you provided an email, we may send service-related communications (e.g., confirmations of domain registrations, technical notices, updates or security alerts) and respond to your inquiries or support requests. We may also send promotional updates or newsletters about new features or offers **with your consent**, and you can opt out of these marketing emails at any time.
+* Analytics and Research: To analyze usage of our websites and Services (via cookies and third-party analytics like Google Analytics) in order to understand user behavior and trends. This helps us make informed decisions on improving functionality and content.
+* Security and Fraud Prevention: To monitor, prevent, and detect fraud, unauthorized activities, and other potential misuse of the Services. For example, we may use IP addresses and other identifiers to detect multiple accounts or suspicious behavior and to **protect the integrity** of our platform.
+* Legal Compliance: To comply with applicable legal obligations and regulatory requirements. For instance, we may use or preserve certain data to fulfill record-keeping obligations, enforce our Terms of Use, or handle any disputes.
+* Other Operational Purposes: We may use data for internal purposes such as auditing, data analysis, testing, and research to maintain and improve service quality. If we ever need to use personal data for a purpose that is incompatible with those listed above, we will obtain your consent or provide the required notice.
+
+
+
+
+
+
 
 **SHARING OF PERSONAL INFORMATION**
 
