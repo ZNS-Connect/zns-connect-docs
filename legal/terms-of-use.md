@@ -108,9 +108,15 @@ To the maximum extent permitted by law, ZNS Connect and its affiliates shall not
 
 You agree to defend, indemnify, and hold harmless ZNS Connect and its affiliates from and against any claims, damages, liabilities, and expenses arising out of your use of the Site or your violation of these Terms.
 
+14. Governing Law and Arbitration
 
+These Terms shall be governed by and construed in accordance with the laws of the Republic of Panama, without regard to its conflict of law principles.
 
-#### 14. Changes to the Terms
+Any disputes or claims arising out of or relating to these Terms shall be submitted to binding arbitration under the rules of the Panama Conciliation and Arbitration Center (Centro de Conciliación y Arbitraje de Panamá, CECAP) in Panama City, Panama. The arbitration shall be conducted in English.
+
+You agree that any dispute resolution proceedings will be conducted on an individual basis and not in a class, consolidated or representative action.
+
+#### 15. Changes to the Terms
 
 We reserve the right to update these Terms at any time. Changes will be effective upon posting on the Site. Your continued use of the Site constitutes your acceptance of any revised Terms.
 
@@ -118,6 +124,6 @@ Knowingly acquiring or attempting to acquire domains identical to third-party tr
 
 ***
 
-#### 15. Contact
+#### 16. Contact
 
 For any questions about these Terms, please contact: &#x20;
