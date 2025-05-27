@@ -46,26 +46,40 @@ You further represent and warrant that you are not subject to sanctions or other
 
 #### 3. Prohibited Activities
 
-You agree not to use the Site to:
+Your use of the Site must align with its intended utility and non-commercial nature. You may not access or use the Site for any purpose other than that for which we make it available.
+
+You agree not to:
 
 * Violate any applicable law, regulation, or ordinance;
-* Infringe on the intellectual property rights of others;
-* Attempt to interfere with or compromise the integrity or security of the Site;
-* Engage in fraudulent, illegal, or unauthorized financial transactions;
-* Use the Site for market manipulation or money laundering;
-* Upload malicious code or engage in any activity intended to disrupt the Site.
+* Infringe on the intellectual property or proprietary rights of others;
+* Access the Site using automated means (such as bots, spiders, or scrapers) without prior written authorization;
+* Circumvent, disable, or interfere with any security-related features of the Site;
+* Systematically collect or harvest user data or site content to create a database or directory without written permission;
+* Use the Site for any unauthorized commercial purpose, including competition or monetization;
+* Misrepresent your identity or impersonate another person or organization;
+* Upload or transmit viruses, Trojan horses, spyware, or any code designed to disrupt or damage functionality;
+* Reverse engineer, disassemble, or attempt to bypass any technical limitation of the Site;
+* Frame or link to the Site without explicit permission;
+* Harass, threaten, intimidate, or abuse our staff, partners, or users;
+* Remove or alter any copyright notices or proprietary rights symbols from Site content;
+* Claim multiple promotional offers or credits by fraudulent means;
+* Upload or transmit any tracking technologies (e.g., pixel tags, cookies) without disclosure;
+* Use the Site to promote hatred, discrimination, or illegal activity;
+* Disparage or harm the reputation of ZNS Connect or interfere with its operations.
 
-4\. No Financial Advice or Offerings
+We reserve the right to suspend or permanently block any user who violates these terms or misuses the Site in any way.
+
+#### 4. No Financial Advice or Offerings
 
 ZNS Connect does not offer investment advice, does not conduct token sales, and does not operate or promote any financial products. The services provided by ZNS Connect are purely utility-based and should not be construed as investment opportunities or solicitations.
 
-5\. Risk Disclosure
+#### 5. Risk Disclosure
 
 Users acknowledge that blockchain technologies and digital assets involve inherent risks, including but not limited to market volatility, loss of funds, cyber threats, and regulatory changes. Users assume all risks associated with the use of our services.
 
 ***
 
-6\. Tax Obligations
+#### 6. Tax Obligations
 
 Users are solely responsible for determining and fulfilling their tax obligations in relation to any transactions conducted through our services. ZNS Connect does not provide tax advice.
 
