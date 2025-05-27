@@ -6,10 +6,19 @@ coverY: 0
 
 # 📃 Pitch Deck
 
-Kindly review and share the link to our **Pitch Deck**: [https://docsend.com/view/eaheupi7s8xrrx9d](https://docsend.com/view/eaheupi7s8xrrx9d)
+#### ZNS is a multi-chain name service + identity platform built for wallets, dApps & ecosystems:
 
-{% embed url="https://drive.google.com/file/d/1hvrBji5ZYFrov6sZmvTCemtKm5D3x7wI/view?usp=sharing" %}
+✅ Domains across 25+ chains\
+✅ Web3 pages (ZNS.bio) with NFT/social integrations\
+✅ Affiliate rewards (5–25%) + Revenue Sharing\
+✅ SDK & API for devs
 
+**Coming Summer 2025:**\
+• Mobile App (iOS + Android)\
+• NFT Marketplace\
+• Tweet-style ZNS Posts\
+• New rollouts on Solana, Monad, more
 
+📎 [View Product Pitch Deck](https://docsend.com/v/4cbkc/zns-product)
 
-{% file src="../.gitbook/assets/ZNS Connect Pitch deck.pdf" %}
+***
