@@ -92,9 +92,13 @@ As part of the functionality of the Site, you may link your account with third-p
 
 Any questions, comments, suggestions, ideas, or feedback you provide regarding the Site or related services (“Submissions”) are non-confidential and shall become the exclusive property of ZNS Connect. You waive any moral rights to such Submissions and grant ZNS Connect full rights to use them for any lawful purpose.
 
-10. Intellectual Property
+10. Intellectual Property Rights
 
-All content on the Site, including but not limited to logos, trademarks, service marks, and software, are the property of ZNS Connect or its licensors and are protected by applicable intellectual property laws.
+Unless otherwise indicated, the Site, including all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics (collectively, the “Content”) and the trademarks, service marks, and logos contained therein (the “Marks”) are owned or controlled by ALTBridge Labs S.A. and are protected by copyright, trademark, and other intellectual property laws.
+
+The Content and Marks are provided on the Site “AS IS” for your personal, non-commercial use only. Except as expressly provided in these Terms, no part of the Site and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose without our express prior written permission.
+
+We reserve all rights not expressly granted to you in and to the Site, the Content, and the Marks.
 
 11. Third-Party Services and Content
 
