@@ -120,7 +120,13 @@ The Site may contain links to third-party websites and content. We do not contro
 
 12. Limitation of Liability
 
-To the maximum extent permitted by law, ZNS Connect and its affiliates shall not be liable for any indirect, incidental, special, or consequential damages, including loss of profits, data, or other intangible losses arising out of or related to your use or inability to use the Site. ZNS Connect’s total liability for any claims under these Terms shall not exceed of fifty U.S. dollars (u.s. $50).
+To the maximum extent permitted by law, in no event shall ALTBridge Labs S.A., its affiliates, directors, employees, licensors, service providers, or partners be liable to you or any third party for any indirect, incidental, special, consequential, exemplary, or punitive damages, including but not limited to loss of profits, lost revenue, loss of data, device damage, or other intangible losses, arising out of or related to your access to or use of the Site or your inability to access or use the Site, even if we have been advised of the possibility of such damages.
+
+Access to and use of the Site is at your own discretion and risk, and you will be solely responsible for any damage to your computer system or device or loss of data resulting therefrom.
+
+To the maximum extent permitted by applicable law, notwithstanding anything to the contrary contained herein, our total liability to you for any damages arising from or related to these Terms or your use of the Site will at all times be limited to fifty U.S. dollars (USD $50). The existence of more than one claim will not enlarge this limit.
+
+You agree that our third-party service providers and suppliers shall have no liability of any kind arising from or relating to this agreement.
 
 13. Indemnification
 
