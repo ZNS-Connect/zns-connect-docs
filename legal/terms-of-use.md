@@ -113,7 +113,9 @@ As part of the functionality of the Site, you may link your account with third-p
 
 Any questions, comments, suggestions, ideas, or feedback you provide regarding the Site or related services (“Submissions”) are non-confidential and shall become the exclusive property of ZNS Connect. You waive any moral rights to such Submissions and grant ZNS Connect full rights to use them for any lawful purpose.
 
-10. Intellectual Property Rights
+***
+
+10. **Intellectual Property Rights**
 
 Unless otherwise indicated, the Site, including all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics (collectively, the “Content”) and the trademarks, service marks, and logos contained therein (the “Marks”) are owned or controlled by ALTBridge Labs S.A. and are protected by copyright, trademark, and other intellectual property laws.
 
@@ -121,9 +123,13 @@ The Content and Marks are provided on the Site “AS IS” for your personal, no
 
 We reserve all rights not expressly granted to you in and to the Site, the Content, and the Marks.
 
+***
+
 11. Third-Party Services and Content
 
 The Site may contain links to third-party websites and content. We do not control or endorse such third-party content and are not responsible for its accuracy, legality, or appropriateness. You access third-party sites at your own risk and should review their respective terms and privacy policies. ZNS Connect shall not be held liable for any damages or losses arising from your use of or reliance on third-party services or content.
+
+***
 
 12. Limitation of Liability
 
@@ -135,9 +141,13 @@ To the maximum extent permitted by applicable law, notwithstanding anything to t
 
 You agree that our third-party service providers and suppliers shall have no liability of any kind arising from or relating to this agreement.
 
-13. Indemnification
+***
+
+13. **Indemnification**
 
 You agree to defend, indemnify, and hold harmless ZNS Connect and its affiliates from and against any claims, damages, liabilities, and expenses arising out of your use of the Site or your violation of these Terms.
+
+***
 
 14. Governing Law and Arbitration
 
@@ -146,6 +156,8 @@ These Terms shall be governed by and construed in accordance with the laws of th
 Any disputes or claims arising out of or relating to these Terms shall be submitted to binding arbitration under the rules of the Panama Conciliation and Arbitration Center (Centro de Conciliación y Arbitraje de Panamá, CECAP) in Panama City, Panama. The arbitration shall be conducted in English.
 
 You agree that any dispute resolution proceedings will be conducted on an individual basis and not in a class, consolidated or representative action.
+
+***
 
 #### 15. Changes to the Terms
 
