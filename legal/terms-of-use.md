@@ -6,9 +6,9 @@ description: AGREEMENT TO TERMS
 
 Terms of Use Last Updated: 25/05/2025
 
-**AGREEMENT TO TERMS**
+#### **AGREEMENT TO TERMS**
 
-#### ABOUT THESE TERMS
+ABOUT THESE TERMS
 
 These Terms of Use constitute a legally binding agreement between you and **ALTBridge Labs S.A.** (operating as ZNS Connect) (“Company,” “we,” or “us”) regarding your access to and use of the ZNS Connect websites including https://znsconnect.io, https://zns.bio, and https://app.znsconnect.io, and all related content, products, and services (collectively, the “Site”).
 
