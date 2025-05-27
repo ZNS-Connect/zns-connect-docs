@@ -33,8 +33,6 @@ The analytics tools we use (such as Google Analytics) place their own cookies to
 
 Your Choices: Most web browsers automatically accept cookies, but you can typically modify your browser settings to decline cookies or alert you when cookies are being sent. If you prefer not to accept cookies, you can **disable** them by adjusting your browser settings (for example, you may have the option to block all cookies or to receive a notification before a cookie is stored). Please note that if you disable or reject cookies, some features of our Services may not function properly or your experience may be degraded.
 
-For Google Analytics specifically, Google provides an opt-out mechanism (such as a browser add-on) if you wish to prevent your data from being used by Google Analytics. Additionally, we honor any applicable settings or signals (like “Do Not Track” preferences) to the extent required by law.
-
 ### HOW WE SHARE YOUR PERSONAL DATA
 
 We do **not sell** your personal data. However, we may **share** your data with select third parties in the following circumstances:
