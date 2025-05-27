@@ -77,8 +77,47 @@ Users are solely responsible for any content they upload or display on the Site.
 
 ***
 
-####
+8\. Social Media and Third-Party Accounts
+
+As part of the functionality of the Site, you may link your account with third-party services (each a “Third Party Account”). By doing so, you grant us permission to access, store, and use information from your Third Party Account, such as your profile and connections, in accordance with your settings and applicable law. You acknowledge that:
+
+* You are authorized to link these accounts;
+* We may access and store related content and data;
+* If the Third Party Account is disabled, certain features may become unavailable;
+* Your relationship with such third-party providers is governed solely by your agreement with them. We are not responsible for the content or accuracy of information from any Third Party Account.
+
+***
+
+9\. Submissions
+
+Any questions, comments, suggestions, ideas, or feedback you provide regarding the Site or related services (“Submissions”) are non-confidential and shall become the exclusive property of ZNS Connect. You waive any moral rights to such Submissions and grant ZNS Connect full rights to use them for any lawful purpose.
+
+10. Intellectual Property
+
+All content on the Site, including but not limited to logos, trademarks, service marks, and software, are the property of ZNS Connect or its licensors and are protected by applicable intellectual property laws.
+
+11. Third-Party Services and Content
+
+The Site may contain links to third-party websites and content. We do not control or endorse such third-party content and are not responsible for its accuracy, legality, or appropriateness. You access third-party sites at your own risk and should review their respective terms and privacy policies. ZNS Connect shall not be held liable for any damages or losses arising from your use of or reliance on third-party services or content.
+
+12. Limitation of Liability
+
+To the maximum extent permitted by law, ZNS Connect and its affiliates shall not be liable for any indirect, incidental, special, or consequential damages, including loss of profits, data, or other intangible losses arising out of or related to your use or inability to use the Site. ZNS Connect’s total liability for any claims under these Terms shall not exceed of fifty U.S. dollars (u.s. $50).
+
+13. Indemnification
+
+You agree to defend, indemnify, and hold harmless ZNS Connect and its affiliates from and against any claims, damages, liabilities, and expenses arising out of your use of the Site or your violation of these Terms.
 
 
+
+#### 14. Changes to the Terms
+
+We reserve the right to update these Terms at any time. Changes will be effective upon posting on the Site. Your continued use of the Site constitutes your acceptance of any revised Terms.
 
 Knowingly acquiring or attempting to acquire domains identical to third-party trademarks is prohibited and may lead to account termination.
+
+***
+
+#### 15. Contact
+
+For any questions about these Terms, please contact: &#x20;
