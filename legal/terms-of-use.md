@@ -57,15 +57,22 @@ You agree not to:
 * Systematically collect or harvest user data or site content to create a database or directory without written permission;
 * Use the Site for any unauthorized commercial purpose, including competition or monetization;
 * Misrepresent your identity or impersonate another person or organization;
+* Submit false reports, abuse customer support, or attempt to defraud ZNS Connect or other users;
 * Upload or transmit viruses, Trojan horses, spyware, or any code designed to disrupt or damage functionality;
-* Reverse engineer, disassemble, or attempt to bypass any technical limitation of the Site;
+* Reverse engineer, decompile, or attempt to bypass any technical limitation of the Site;
 * Frame or link to the Site without explicit permission;
 * Harass, threaten, intimidate, or abuse our staff, partners, or users;
 * Remove or alter any copyright notices or proprietary rights symbols from Site content;
 * Claim multiple promotional offers or credits by fraudulent means;
 * Upload or transmit any tracking technologies (e.g., pixel tags, cookies) without disclosure;
 * Use the Site to promote hatred, discrimination, or illegal activity;
-* Disparage or harm the reputation of ZNS Connect or interfere with its operations.
+* Disparage or harm the reputation of ZNS Connect or interfere with its operations;
+* Attempt to gain unauthorized access to other users’ accounts or backend infrastructure;
+* Use the Site in violation of export control laws, including U.S. export control restrictions;
+* Upload or transmit unlawful, defamatory, obscene, offensive, or otherwise objectionable content;
+* Interfere with the normal functioning of the Site or place an unreasonable load on our infrastructure;
+* Use any automated system to send requests to the Site in a volume exceeding what a human user could reasonably produce;
+* Use the Site in, or for the benefit of, a jurisdiction that is sanctioned or otherwise restricted by applicable law.
 
 We reserve the right to suspend or permanently block any user who violates these terms or misuses the Site in any way.
 
