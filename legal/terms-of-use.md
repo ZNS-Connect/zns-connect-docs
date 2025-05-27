@@ -188,4 +188,4 @@ We are not liable for any loss or damage arising from your inability to access t
 
 #### 18. Contact
 
-For any questions about these Terms, please contact: &#x20;
+For any questions about these Terms, please contact:  legal@znsconnect.io
