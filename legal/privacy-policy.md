@@ -48,62 +48,67 @@ We do **not sell** your personal data. However, we may **share** your data with 
 
 When we share data with service providers or other third parties, we only provide the minimum amount of personal data necessary for them to carry out their responsibilities. Third parties who receive personal data from us are expected to handle it with an appropriate level of confidentiality and security, and they are not permitted to use it for any purpose other than the specific service they are providing to us (unless they are independently data controllers, such as Google in the case of analytics data, in which case their own privacy terms apply as well).
 
+BLOCKCHAIN DATA AND ON-CHAIN DISCLOSURES&#x20;
+
+Public Blockchain Records: ZNS Connect is a Web3 / blockchain-based service. This means that certain actions you take through our Services (such as registering a domain name or adding information to your decentralized profile) involve writing data to public blockchain networks. **Any data that you choose to publish on a blockchain becomes public, immutable, and outside of our control**. For example, if you attach personal information (like a display name, avatar, or other profile data) to your blockchain domain and that information is written to the blockchain, it will be visible to anyone who inspects the blockchain and **we cannot alter or delete that on-chain data**. Blockchains are distributed ledgers designed to **record information permanently**; once a transaction (containing your data) is confirmed on the network, it **cannot be unpublished or erased** by us or any other entity.
+
+Please treat your blockchain domain profile as a **public profile**. Only include information on-chain that you are comfortable sharing with the world indefinitely. **ALTBridge** has no ability to remove personal data from a blockchain once you have broadcast it; this is an inherent aspect of decentralized networks and not a result of our IT systems. While this Policy covers how we handle any off-chain copies of that data (e.g. if cached in our databases for display), it does not cover the persistence of data on the blockchain itself, which by design is outside the scope of data protection erasure rights.
+
+Off-Chain Storage: Generally, we try to minimize the personal data we write to the blockchain. Most personal data you provide (like your email address) is kept off-chain in our controlled databases to maintain privacy and allow modification or deletion if needed. Data on our servers is subject to the rights and practices described in this Policy. However, certain identifiers like your wallet address or domain name are inherently on-chain data and part of the public blockchain ecosystem.
+
+### DATA RETENTION
+
+We retain personal data for as long as necessary to fulfill the purposes described in this Privacy Policy, **unless a longer retention period is required or permitted by law**. For example, we will keep your account information and contact details while your blockchain domain remains active or as long as needed to provide you with Services. If you delete information or request deletion, we will promptly remove or anonymize your personal data from our active databases, except where retention is legally required or for legitimate business purposes (e.g. recordkeeping, fraud prevention).
+
+* Wallet Address and Domain Data: Because blockchain domain ownership is recorded on public networks, we cannot directly delete or modify that on-chain record. However, if you cease using our Services, your wallet address will simply remain as a historical entry on the blockchain. We do not have the ability to erase it from the blockchain, but we can delete any off-chain associations to your identity in our systems upon request.
+* Email and Contact Information: If you unsubscribe from communications or request deletion of your email, we will remove it from our mailing and user database, retaining only whatever minimal information might be required to honor your opt-out or to comply with legal obligations.
+* Usage Data: Analytics data may be stored in aggregate form indefinitely to help us analyze trends over time, but any data tied to an identifiable user will be either anonymized or deleted when it’s no longer needed for our legitimate interests. Third-party analytics providers like Google Analytics have their own retention practices; we configure our Google Analytics data retention to comply with best practices, and we don’t personally retain identifiable log data longer than necessary.
+* Backups and Archives: Please note that copies of your data may persist in routine backups for a short period (even after active deletion). If so, we will continue to safeguard such data and purge it according to our backup retention schedules. During this interim period, your personal data will **not** be used or shared except if needed for disaster recovery or for security integrity checks.
+
+In summary, we will either delete or anonymize personal data that is no longer needed for any legitimate purpose. If deletion or anonymization is not immediately feasible (for example, if the data is stored in backups), we will securely store and isolate it from further use until deletion is possible.
+
+### YOUR RIGHTS AND CHOICES
+
+### Your Rights and Choices
+
+You have certain **rights** regarding your personal data. We aim to extend the same core data protection rights to all our users, regardless of their location, in line with global privacy principles (such as GDPR). These rights include:
+
+* **Right to Access:** You can request confirmation of whether we are processing your personal information and, if so, request a copy of the personal data we hold about you. This allows you to know and review the information we have collected.
+* **Right to Rectification:** You have the right to ask us to correct or update any inaccurate or incomplete personal data in our records. We will make corrections as requested to ensure your data is accurate and up-to-date.
+* **Right to Erasure:** You can request that we delete your personal data. We will erase the information we hold about you without undue delay, provided we have no legal obligation or overriding legitimate interest to retain it. (Keep in mind that this right applies to data in our systems; data recorded on the blockchain cannot be removed by us, as explained above.)
+* **Right to Restrict Processing:** You may ask us to limit the processing of your personal data in certain circumstances – for example, if you contest the accuracy of your data or if you want to object to processing pending a verification or exercise of another right.
+* **Right to Object:** You have the right to object to certain processing of your data, such as processing for direct marketing purposes or when we are relying on a legitimate interest basis. If you object, we will re-evaluate our processing and, except for compelling legitimate grounds, will cease processing your data for that purpose. You can always object to marketing communications, and if you do so, we will stop sending you marketing emails.
+* **Right to Data Portability:** For data you have provided to us, you can request that we provide it to you or transfer it to another service provider in a structured, commonly used, machine-readable format, where technically feasible. This typically applies to data processed based on your consent or for the performance of a contract.
+* **Right to Withdraw Consent:** If we rely on your consent for any processing (for instance, if you explicitly consented to receive marketing emails), you have the right to withdraw that consent at any time. Withdrawal of consent will not affect the lawfulness of any processing done before you withdrew, and it will only affect future processing of that specific type. For example, you can unsubscribe from our newsletter at any time to stop receiving further marketing emails.
+* **Right to Lodge a Complaint:** If you believe your data protection rights have been violated, you have the right to file a complaint with a supervisory authority. If you are in the European Union or another jurisdiction with a data protection regulator, you can contact your local data protection authority about any concerns. We encourage you to contact us first, and we will do our best to resolve your issue.
+
+To exercise any of these rights, please contact us using the contact information provided in the “Contact Us” section below. We may need to verify your identity before fulfilling certain requests (for example, by asking you to provide information or identification). This is to ensure that we do not disclose personal data to an unauthorized person. We will respond to your request within a reasonable timeframe and in accordance with applicable law.
+
+Please note that these rights are subject to some conditions and exceptions. In some cases, we may legally or legitimately decline your request (for example, if fulfilling it would violate another person’s rights or if we must retain data for legal compliance). If we deny your request, we will explain why, provided it is lawful for us to do so.
 
 
 
+### DATA SECURITY
 
+We take **data security** seriously and have implemented appropriate technical and organizational measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction. These measures include encryption of data in transit (e.g., using HTTPS on our website), firewalls and access controls to our servers and databases, and limiting access to personal data to employees and contractors on a need-to-know basis. We also regularly review our information collection, storage, and processing practices to prevent unauthorized access and to improve security.
 
+However, please be aware that **no method of transmission over the Internet or method of electronic storage is completely secure**. While we strive to protect your personal data, we **cannot guarantee absolute security**. Users are encouraged to take steps on their end as well, such as using strong passwords for any accounts, protecting their wallet private keys, and logging out after using shared devices. If we become aware of a data breach that affects your personal data, we will notify you and the appropriate authorities as required by law.
 
+### INTERNATIONAL DATA TRANSFERS
 
+ALTBridge Labs S.A. is based in Panama, and our Services are global. When you use ZNS Connect, your personal data may be transferred to or stored on servers located in countries **outside** of your own. This includes the **United States**, **Europe**, **Asia**, or other jurisdictions where our company or our service providers maintain facilities. Different countries may have different data protection laws, which might not be as protective as those in your home jurisdiction.
 
-Our marketing emails provide instructions for opting out, though you may still receive non-marketing emails. You can request changes to your personal information and opt out of sharing with others. Most browsers allow you to manage cookies and limit interest-based advertising. However, altering these settings may affect your experience on our Site.
+Regardless of where your data is processed, we handle your personal information in accordance with this Privacy Policy and take steps to ensure it remains protected. If you are located in the European Economic Area (EEA), United Kingdom, or other regions with data transfer restrictions, we implement appropriate safeguards for cross-border data transfers as required by applicable law. These may include relying on your consent, using European Commission-approved Standard Contractual Clauses, or ensuring that the recipient of the data is certified under frameworks like the EU-U.S. Data Privacy agreements (if applicable).
 
-**LINKS TO THIRD-PARTY WEBSITES AND SERVICES**
+By using our Services and providing information to us, you acknowledge the transfer of your personal data to countries outside of your country of residence. We will take all measures reasonably necessary to ensure that your data is treated securely and in accordance with this Policy.
 
-Our Site or Services may contain links to third-party websites or services. Your interactions with these are subject to their rules and policies, not ours. We encourage you to review their privacy policies before providing any personal information.
+### CHILDREN PRIVACY
 
-**CHILDREN'S PRIVACY**
+Our Services are **not intended for children** under the age of 16 (or the equivalent minimum age in the relevant jurisdiction), and we do not knowingly collect personal information from anyone under this age. If you are under 16, please do not use the Services or submit any personal data to us. If we learn that we have inadvertently collected personal information from a child under 16, we will take steps to delete that information as soon as possible. Parents or guardians who believe that we might have information about a child should contact us so we can investigate and remove any unauthorized data.
 
-Our Services are not intended for children under 16. We do not knowingly solicit or collect personal information from children under 16. If we discover such information has been collected inadvertently, we will promptly delete it.
+### CHANGES TO THIS PRIVACY POLICY
 
-**CHANGES TO PRIVACY POLICY**
+We may update or modify this Privacy Policy from time to time to reflect changes in our business, legal obligations, or the features of our Services. When we make changes, we will revise the “Last Updated” date at the top of this Policy. If the changes are significant, we may also provide a more prominent notice (such as on our website homepage or via email notification).
 
-We reserve the right to change this Privacy Policy at our discretion. Material changes will be communicated to you through email or by prominently posting on our Site. It is your responsibility to review this Policy periodically.
+We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your information. Your continued use of the Services after any modifications to this Policy will constitute your acknowledgment of the changes and agreement to be bound by the updated Policy.
 
-**CONTACT INFORMATION**
-
-For questions or comments about this Privacy Policy, please contact us at:  privacy@znsconnect.io
-
-**Complaint to Data Protection Authority**
-
-You retain the right to file a complaint with your local data protection authority. If you reside in the European Union, information on how to contact your local data protection authority can be found [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en).
-
-For individuals based in the UK or Switzerland, your local data protection authorities are the UK Information Commissioner's Office ([ICO](https://ico.org.uk/global/contact-us/)) and the Swiss Federal Data Protection and Information Commissioner ([FDPIC](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact/address.html)).
-
-Should you wish to exercise any of these rights, please contact us using the details provided at the end of these Privacy Disclosures. Due to the confidential nature of data processing, we may request proof of identity when exercising the aforementioned rights. This can be accomplished by providing a scanned copy of a valid identity document or a signed photocopy of such a document.
-
-**Cookies and Similar Technologies on Our European Services**
-
-Our European Services employ cookies and similar technologies, such as pixels and Local Storage Objects (LSOs) like HTML5, to distinguish you from other users and enhance your browsing experience. These technologies also enable us to monitor and analyze your interactions with our European Services, aiding us in ongoing improvements.
-
-Cookies, small data files transferred to your computer's hard disk, are used for personalization and record-keeping purposes. The types of cookies we use include:
-
-1. **Strictly necessary cookies**: Essential for the operation of our European Services.
-2. **Analytical/performance cookies**: Enable us to analyze user activity and enhance functionality.
-3. **Functionality cookies**: Recognize you upon return and personalize content.
-4. **Targeting cookies**: Record your visit, page views, and links followed to improve relevance.
-
-Third-party cookies may also be utilized by advertisers and other parties, subject to their own policies. Consent is sought for non-essential cookies, and you can adjust your settings accordingly. However, note that refusing all cookies may impact service functionality.
-
-For more information about managing cookies, consult your browser's settings or visit the following links:
-
-* [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
-* [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
-* [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop\&hl=en)
-* [Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
-
-**Tracking Technologies in Our Emails**
-
-Our emails may contain tracking pixels to gauge open rates, click-throughs, and overall effectiveness. These pixels help refine our marketing strategies and tailor content to your interests. Most email clients offer settings to block such pixels, enhancing privacy and control over tracking.
-
-Additionally, some browsers support extensions to block tracking technologies beyond email.
