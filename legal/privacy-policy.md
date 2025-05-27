@@ -23,7 +23,7 @@ We use the collected personal data for the following purposes:
 * Analytics and Research: To analyze usage of our websites and Services (via cookies and third-party analytics like Google Analytics) in order to understand user behavior and trends. This helps us make informed decisions on improving functionality and content.
 * Security and Fraud Prevention: To monitor, prevent, and detect fraud, unauthorized activities, and other potential misuse of the Services. For example, we may use IP addresses and other identifiers to detect multiple accounts or suspicious behavior and to **protect the integrity** of our platform.
 * Legal Compliance: To comply with applicable legal obligations and regulatory requirements. For instance, we may use or preserve certain data to fulfill record-keeping obligations, enforce our Terms of Use, or handle any disputes.
-* Other Operational Purposes: We may use data for internal purposes such as auditing, data analysis, testing, and research to maintain and improve service quality. If we ever need to use personal data for a purpose that is incompatible with those listed above, we will obtain your consent or provide the required notice.
+* Other Operational Purposes: We may use data for internal purposes such as auditing, data analysis, testing, and research to maintain and improve service quality.&#x20;
 
 ### COOKIES AND TRACKING TECHNOLOGIES
 
