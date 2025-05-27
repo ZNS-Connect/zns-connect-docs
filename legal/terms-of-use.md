@@ -59,7 +59,21 @@ You agree not to use the Site to:
 
 ZNS Connect does not offer investment advice, does not conduct token sales, and does not operate or promote any financial products. The services provided by ZNS Connect are purely utility-based and should not be construed as investment opportunities or solicitations.
 
+5\. Risk Disclosure
 
+Users acknowledge that blockchain technologies and digital assets involve inherent risks, including but not limited to market volatility, loss of funds, cyber threats, and regulatory changes. Users assume all risks associated with the use of our services.
+
+***
+
+6\. Tax Obligations
+
+Users are solely responsible for determining and fulfilling their tax obligations in relation to any transactions conducted through our services. ZNS Connect does not provide tax advice.
+
+***
+
+7\. User-Generated Content
+
+Users are solely responsible for any content they upload or display on the Site. You must ensure that your content complies with all applicable laws and does not violate any third-party rights.
 
 ***
 
