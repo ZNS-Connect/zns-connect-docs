@@ -25,17 +25,36 @@ We use the collected personal data for the following purposes:
 * Legal Compliance: To comply with applicable legal obligations and regulatory requirements. For instance, we may use or preserve certain data to fulfill record-keeping obligations, enforce our Terms of Use, or handle any disputes.
 * Other Operational Purposes: We may use data for internal purposes such as auditing, data analysis, testing, and research to maintain and improve service quality. If we ever need to use personal data for a purpose that is incompatible with those listed above, we will obtain your consent or provide the required notice.
 
+### COOKIES AND TRACKING TECHNOLOGIES
+
+Cookies and Similar Technologies: We and our third-party partners use cookies, web beacons, and similar tracking technologies to collect information about your interaction with our Services. Cookies help us remember your preferences and recognize you across sessions. Some cookies are **essential** for site functionality (for example, to keep you logged in or remember settings), while others are used for **analytics** and improvement (e.g., understanding which pages are popular).
+
+The analytics tools we use (such as Google Analytics) place their own cookies to collect data on user behaviors. This data may include your IP address, browser type, referral URL, and on-site interactions. We use this information to compile reports and to help us improve the site. We do **not** use cookies for advertising or profiling purposes at this time, and we do not allow third-party advertising networks to track you on our sites.
+
+Your Choices: Most web browsers automatically accept cookies, but you can typically modify your browser settings to decline cookies or alert you when cookies are being sent. If you prefer not to accept cookies, you can **disable** them by adjusting your browser settings (for example, you may have the option to block all cookies or to receive a notification before a cookie is stored). Please note that if you disable or reject cookies, some features of our Services may not function properly or your experience may be degraded.
+
+For Google Analytics specifically, Google provides an opt-out mechanism (such as a browser add-on) if you wish to prevent your data from being used by Google Analytics. Additionally, we honor any applicable settings or signals (like “Do Not Track” preferences) to the extent required by law.
+
+### HOW WE SHARE YOUR PERSONAL DATA
+
+We do **not sell** your personal data. However, we may **share** your data with select third parties in the following circumstances:
+
+* Service Providers: We share information with trusted third-party companies that perform services on our behalf. This includes, for example, infrastructure and hosting providers, technical service providers, analytics vendors, and email delivery services. These partners process data only as necessary to provide their services to us and are contractually obligated to protect it. For instance, we use Google Analytics (a service provided by Google LLC) for usage analytics, which means Google may process certain usage data and IP addresses for that purpose.
+* Affiliates: If ALTBridge Labs S.A. has affiliate companies or subsidiaries, we may share your information within our corporate family. Any such entities will handle your data in accordance with this Policy.
+* With Your Consent or Direction: We will share your personal data with third parties if you have given us your consent to do so, or if you intentionally use our Services to share information with others. **For example, if you publish personal information to a blockchain via our Service, you are consenting to make that information public and share it with anyone who can access the blockchain**. _(See the “Blockchain Data” section below.)_
+* Business Transfers: If we undergo a business transaction such as a merger, acquisition, reorganization, or sale of assets, your personal data may be transferred as part of that deal. We will ensure any successor entity honors the commitments in this Privacy Policy or provides you notice and choices before your data is subject to a different policy.
+* Legal Compliance and Protection: We may disclose personal information when we believe in good faith that such disclosure is necessary to comply with a legal obligation or request (e.g., a court order, subpoena, or law enforcement request), or to protect our rights, property, and safety, or those of our users or others. This includes enforcing our Terms of Use or other agreements, detecting and addressing fraud or security issues, and reducing credit risk.
+* Emergency Situations: If someone’s life, health, or security is at risk, and disclosure of data could potentially prevent harm, we might share information as reasonably necessary to protect individuals’ vital interests.
+
+When we share data with service providers or other third parties, we only provide the minimum amount of personal data necessary for them to carry out their responsibilities. Third parties who receive personal data from us are expected to handle it with an appropriate level of confidentiality and security, and they are not permitted to use it for any purpose other than the specific service they are providing to us (unless they are independently data controllers, such as Google in the case of analytics data, in which case their own privacy terms apply as well).
 
 
 
 
 
 
-**SHARING OF PERSONAL INFORMATION**
 
-We may share personal information with your consent or as required by law. This includes sharing information in the context of a business deal, for legal protection and safety purposes, to respond to lawful requests and legal processes, to protect our rights and property, and in emergencies. We may also share information with those who need it to perform work for us.
 
-**INFORMATION CHOICES AND CHANGES**
 
 Our marketing emails provide instructions for opting out, though you may still receive non-marketing emails. You can request changes to your personal information and opt out of sharing with others. Most browsers allow you to manage cookies and limit interest-based advertising. However, altering these settings may affect your experience on our Site.
 
