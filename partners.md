@@ -42,7 +42,7 @@ Please check the list of all partners here: [link to sheet](https://docs.google.
 
 {% embed url="https://x.com/bobanetwork/status/1802717835959148766" %}
 
-## ZNS is LIVE on MONAD
+## ZNS is live on MONAD
 
 <figure><img src=".gitbook/assets/Gkjo9ncW0AA0AgQ.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -57,10 +57,6 @@ Please check the list of all partners here: [link to sheet](https://docs.google.
 ## **ZOTH RWA AMA Cooperation**
 
 {% embed url="https://x.com/zothdotio/status/1789993109280973111" %}
-
-### **TARS Ai Protocol and ZNS**&#x20;
-
-{% embed url="https://x.com/tarsprotocol/status/1786416630374789125" %}
 
 ### **Audit from Solidproof**
 
