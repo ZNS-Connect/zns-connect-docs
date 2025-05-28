@@ -70,6 +70,7 @@ You agree not to:
 * Attempt to gain unauthorized access to other users’ accounts or backend infrastructure;
 * Use the Site in violation of export control laws, including U.S. export control restrictions;
 * Upload or transmit unlawful, defamatory, obscene, offensive, or otherwise objectionable content;
+* Accessing or using the Services from a restricted jurisdiction (including the USA or EU) where such use is prohibited
 * Interfere with the normal functioning of the Site or place an unreasonable load on our infrastructure;
 * Use any automated system to send requests to the Site in a volume exceeding what a human user could reasonably produce;
 * Use the Site in, or for the benefit of, a jurisdiction that is sanctioned or otherwise restricted by applicable law.
@@ -154,6 +155,8 @@ You agree to defend, indemnify, and hold harmless ZNS Connect and its affiliates
 These Terms shall be governed by and construed in accordance with the laws of the Republic of Panama, without regard to its conflict of law principles.
 
 Any disputes or claims arising out of or relating to these Terms shall be submitted to binding arbitration under the rules of the Panama Conciliation and Arbitration Center (Centro de Conciliación y Arbitraje de Panamá, CECAP) in Panama City, Panama. The arbitration shall be conducted in English.
+
+This Agreement and any related matters shall be governed under the laws of the Republic of Panama. Users from restricted jurisdictions including the USA, EU, or similarly regulated regions may not use the Site or Services.
 
 You agree that any dispute resolution proceedings will be conducted on an individual basis and not in a class, consolidated or representative action.
 
