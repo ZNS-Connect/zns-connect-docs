@@ -66,9 +66,9 @@ We aim to simplify the Web3 experience by offering user-friendly and memorable d
 
 \#ZNSConnect decentralized communication ID platform powered by decentralized addresses with unique domain names.
 
-**Traction**:  90K+ Twitter, 22K+ in Discord, 550K Domains Berachain, 50K Domains Scroll
+**Traction**:  126K+ Twitter, 22K+ in Discord, 1M Domains Berachain, 180K Domains Scroll, 25K Domains Taiko, 35K Domains INK
 
-**DappRadar Onchain Tractions:** https://dappradar.com/dapp/zns-connect
+**Defilama Tractions:** [https://defillama.com/protocol/zns-connect#fees-revenue](https://defillama.com/protocol/zns-connect#fees-revenue)
 
 ## **Grants**:&#x20;
 
@@ -78,7 +78,7 @@ We aim to simplify the Web3 experience by offering user-friendly and memorable d
 
 🔥 Paris Blockchain Week TOP100
 
-🔥 Scroll and Taiko official partner
+🔥 Scroll, Taiko and INK official partner
 
 ## ⚡ Main Features:
 
@@ -93,6 +93,10 @@ We aim to simplify the Web3 experience by offering user-friendly and memorable d
 — Ranks No.1 in NFTs on the Magic Store
 
 — Scroll and Taiko Ecosystem project
+
+> **Disclaimer:** Users are solely responsible for ensuring that their use of ZNS Connect complies with all applicable laws and regulations in their respective jurisdictions. ZNS Connect disclaims all liability for any unauthorized or unlawful use of its services.
+
+> For more information, please review our [Terms of Use](https://docs.znsconnect.io/legal/terms-of-use) and [Privacy Policy](https://docs.znsconnect.io/legal/privacy-policy).
 
 **More info:** [**https://znsconnect.io/**](https://znsconnect.io/) and our [One Pager](https://docs.znsconnect.io/one-pager-zns)\
 **Application:** [**https://v3**](https://v3.znsconnect.io/)[**.**](https://v3.znsconnect.io/)[**znsconnect.io**](https://v3.znsconnect.io/)\
