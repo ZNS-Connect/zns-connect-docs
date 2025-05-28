@@ -34,7 +34,7 @@ Please check the list of all partners here: [link to sheet](https://docs.google.
 
 {% embed url="https://smartliquidity.info/2024/05/30/neo-collaborates-with-zns-connect-to-delve-into-web3-identity-innovations-on-neo-x/" %}
 
-### **ZK Candt Official domain name Provider**
+### **ZK Candy Official domain name Provider**
 
 {% embed url="https://x.com/ZKcandyHQ/status/1795789212610171017" %}
 
@@ -42,15 +42,11 @@ Please check the list of all partners here: [link to sheet](https://docs.google.
 
 {% embed url="https://x.com/bobanetwork/status/1802717835959148766" %}
 
-### **Arthera  Official domain name Provider**
+## ZNS is LIVE on MONAD
 
-{% embed url="https://x.com/artherachain/status/1807693913387417951" %}
+<figure><img src=".gitbook/assets/Gkjo9ncW0AA0AgQ.jpeg" alt=""><figcaption></figcaption></figure>
 
-### **5ire  Blockchain Official domain name Provider**
-
-{% embed url="https://x.com/5ireChain/status/1804572478876045624" %}
-
-### **KiloEx Strategic Partner and API Integration**
+## **KiloEx Strategic Partner and API Integration**
 
 {% embed url="https://x.com/KiloEx_perp/status/1805591061961883906" %}
 
@@ -80,10 +76,6 @@ Please check the list of all partners here: [link to sheet](https://docs.google.
 
 {% embed url="https://x.com/BuiltOnTaiko/status/1802773211240702443" %}
 
-## **Ventory NFT Marketplace**
-
-{% embed url="https://x.com/Ventory_gg/status/1792960172140441954" %}
-
 ## **OKX WEB3 Wallet inregration**&#x20;
 
 {% embed url="https://medium.com/@okxweb3/access-zns-connect-using-the-okx-wallet-web-extension-f4e0116a27dd" %}
@@ -100,11 +92,7 @@ Please check the list of all partners here: [link to sheet](https://docs.google.
 
 {% embed url="https://twitter.com/ZNSConnect/status/1770082575840674219" %}
 
-## **ZETACHAIN partnership in Ecosystem**
-
-{% embed url="https://twitter.com/zetablockchain/status/1697362267879411973" %}
-
-**OKX L2 Testnet Integration**&#x20;
+## **OKX L2 Testnet Integration**&#x20;
 
 {% embed url="https://twitter.com/ZNSConnect/status/1755925039822545090" %}
 
@@ -138,10 +126,6 @@ Please check the list of all partners here: [link to sheet](https://docs.google.
 ## Collaboration between ZNS and Silver Pegasus Technology
 
 {% embed url="https://twitter.com/SpbLabs/status/1732353780392345763" %}
-
-## Explore the Top 13 Apps on ZetaChain's Grand Odyssey!
-
-{% embed url="https://twitter.com/ZNSConnect/status/1730876588172906637" %}
 
 ## 3th place out of 5,300 projects at the [DoraHacks](https://dorahacks.io/buidl) hackathon
 
