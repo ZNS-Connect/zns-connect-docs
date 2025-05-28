@@ -58,7 +58,7 @@ ZNS Connect's strategic business model, revenue sharing, domain giveaways, and c
 
 **Access by connecting true ZNS:** Streamline user interactions with decentralized exchanges (DEXs), wallets, and applications by leveraging ZNS domain names
 
-**Affiliate program:** Get rewarded for bringing friends on board! With our referral program, earn rewards based on the number of successful referrals: 5-25%
+**Affiliate program:** As part of our referral program, you can unlock perks and benefits when others join and participate through your invite. Reward tiers range from 5% to 25% in platform-based incentives.
 
 ## **Key Highlights:**
 
@@ -94,9 +94,8 @@ We aim to simplify the Web3 experience by offering user-friendly and memorable d
 
 — Scroll and Taiko Ecosystem project
 
-> **Disclaimer:** Users are solely responsible for ensuring that their use of ZNS Connect complies with all applicable laws and regulations in their respective jurisdictions. ZNS Connect disclaims all liability for any unauthorized or unlawful use of its services.
-
-> For more information, please review our [Terms of Use](https://docs.znsconnect.io/legal/terms-of-use) and [Privacy Policy](https://docs.znsconnect.io/legal/privacy-policy).
+> ⚠️ **Jurisdictional Notice**\
+> Access to ZNS Connect services is restricted in certain countries, including the United States, European Union member states, and other jurisdictions with strict regulatory requirements. For full details, please review our [Terms of Use](https://docs.znsconnect.io/legal/terms-of-use#2.-eligibility-and-jurisdiction-restrictions).
 
 **More info:** [**https://znsconnect.io/**](https://znsconnect.io/) and our [One Pager](https://docs.znsconnect.io/one-pager-zns)\
 **Application:** [**https://v3**](https://v3.znsconnect.io/)[**.**](https://v3.znsconnect.io/)[**znsconnect.io**](https://v3.znsconnect.io/)\
