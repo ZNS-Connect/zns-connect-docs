@@ -14,6 +14,9 @@
 * [🦊 ZNS on MetaMask Snap](user-guide/zns-on-metamask-snap/README.md)
   * [🏫 Knowledge Base](user-guide/zns-on-metamask-snap/knowledge-base.md)
   * [⏩ General FAQ](user-guide/zns-on-metamask-snap/general-faq.md)
+* [📲 IOS and Android Mobile Application](user-guide/ios-and-android-mobile-application/README.md)
+  * [🏫 Knowledge Base](user-guide/ios-and-android-mobile-application/knowledge-base.md)
+  * [🗑️ Account & Data Deletion Request](user-guide/ios-and-android-mobile-application/account-and-data-deletion-request.md)
 
 ## PROGRAMS
 
