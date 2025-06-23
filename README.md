@@ -4,13 +4,12 @@ ZNS Connect is the future of Web3 identity — transforming wallet addresses int
 
 🌐 Website: [https://znsconnect.io](https://znsconnect.io)  
 ✨ Mint your domain: [https://zns.bio](https://zns.bio)
-
+✨ Documentation : [https://zns.bio](https://zns.bio)
 ---
 
 ## 🏛 Ownership & Legal Info
 
-ZNS Connect is proudly developed and operated by **AltBridge Labs S.A.**,  
-a legally registered corporation based in Panama City (TAX ID: 155767377-2-2025).  
+ZNS Connect is proudly developed and operated by **AltBridge Labs S.A.**.  
 All ZNS Connect domains, systems, and products are intellectual property of AltBridge Labs S.A.
 
 ---
