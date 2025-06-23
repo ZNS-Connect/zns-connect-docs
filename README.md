@@ -7,7 +7,7 @@ ZNS Connect is pioneering the future of Web3 identity — transforming complex w
 ## 🌐 Quick Links  
 - 🔗 **Website**: [https://znsconnect.io](https://znsconnect.io)  
 - ✨ **Mint your domain**: [https://zns.bio](https://zns.bio)  
-- 📖 **Full Docs & Tools**: [https://zns.bio](https://zns.bio)
+- 📖 **Full Docs & Tools**: [https://docs.znsconnect.io](https://docs.znsconnect.io/)
 
 ---
 
