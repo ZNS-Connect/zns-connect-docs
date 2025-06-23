@@ -1,15 +1,25 @@
-# 🔰 Welcome
+# 📚 Welcome to ZNS Connect Documentation
 
-Welcome to the ZNS Learning Center
+ZNS Connect is the future of Web3 identity — transforming wallet addresses into human-readable, multi-chain domain names. Our platform enables seamless interactions, profile creation, affiliate linking, and secure cross-chain integrations.
 
-Our Getting Started guide covers several typical scenarios where the project can be applied and provides guidance on approaching its integration.
+🌐 Website: [https://znsconnect.io](https://znsconnect.io)  
+✨ Mint your domain: [https://zns.bio](https://zns.bio)
 
-Visit our website at https://znsconnect.io/ to learn more about ZNS Connect and its innovative features.
+---
 
-Ready to mint your own domain? Head over to https://zns.bio/ and get started today!
+## 🏛 Ownership & Legal Info
 
+ZNS Connect is proudly developed and operated by **AltBridge Labs S.A.**,  
+a legally registered corporation based in Panama City (TAX ID: 155767377-2-2025).  
+All ZNS Connect domains, systems, and products are intellectual property of AltBridge Labs S.A.
 
+---
 
-{% embed url="https://www.youtube.com/watch?v=AaE49xVHfzs" %}
+## 🚀 What You’ll Find in This Docs Portal
 
-Technical Questions If you have any technical questions that were not answered in the documentation, please join to one of our chat channels.
+- How to integrate ZNS domains into your dApp
+- API guides and affiliate dashboard walkthroughs
+- Smart contract links and cross-chain support
+- Troubleshooting and support contacts
+
+Need help? Join our [Telegram](https://t.me/znsconnect) or [Twitter](https://twitter.com/ZNSConnect) community.
