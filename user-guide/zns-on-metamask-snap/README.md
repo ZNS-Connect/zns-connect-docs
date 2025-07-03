@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/Snap MM 1.png
 coverY: 0
 ---
 
-# 🦊 ZNS on MetaMask Snap
+# ZNS on MetaMask Snap
 
 **ZNS Domains + MetaMask Snap**\
 Easily resolve and use human-readable **.zns** domains right inside your MetaMask wallet!

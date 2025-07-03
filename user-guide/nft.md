@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/1990-480 NFT.png
 coverY: 0
 ---
 
-# 🎨 NFT Marketplaces
+# NFT Marketplaces
 
 All NFT marketplaces are authenticated on their respective networks, enabling users to trade domain names on ZNS Connect securely.
 

@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/Account & Data Deletion Request.png
 coverY: 0
 ---
 
-# 🗑️ Account & Data Deletion Request
+# Account & Data Deletion Request
 
 ### 🗑️ Request to Delete Your Account and Data
 

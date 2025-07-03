@@ -2,23 +2,9 @@
 description: Create a custom link for your application or brand
 cover: ../.gitbook/assets/1990-480 Developer (1).png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# ⚒️ What we build?
+# What we build?
 
 We offer **custom domain creation** for your community with the domain extension .<mark style="color:orange;">**yourname**</mark> on **Your chain**.  Like **.cz** on BNB Chain , **.poly** on Polygon , **.gold** on Zora.&#x20;
 

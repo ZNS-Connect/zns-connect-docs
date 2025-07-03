@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/1990-480 API.png
 coverY: 0
 ---
 
-# ➡️ ZNS API
+# ZNS API
 
 ### Base URL: `https://zns.bio/api`
 
@@ -76,7 +76,7 @@ Response:
 }
 ```
 
-**Here is an example of partner** [**integration**](https://app.kiloex.io/trade?sCode=zns\&utm\_source=referral\&utm\_medium=zns)&#x20;
+**Here is an example of partner** [**integration**](https://app.kiloex.io/trade?sCode=zns\&utm_source=referral\&utm_medium=zns)&#x20;
 
 ## <mark style="color:orange;">**KiloEx Platform from Binance Labs**</mark>
 

@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/Knowledge Base.png
 coverY: 0
 ---
 
-# 🏫 Knowledge Base
+# Knowledge Base
 
 Welcome to the official help center for the ZNS Connect mobile app. Below you’ll find essential guides, FAQs, and support for getting started, managing your Web3 identity, and resolving issues.
 

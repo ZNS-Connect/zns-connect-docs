@@ -4,7 +4,7 @@ cover: .gitbook/assets/1990-480 Partners.png
 coverY: 0
 ---
 
-# 💼 Partners
+# Partners
 
 We're thrilled to share the incredible journey ahead with our esteemed partners.&#x20;
 

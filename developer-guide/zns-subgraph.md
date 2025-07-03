@@ -2,23 +2,9 @@
 description: ZNS Connect Subgraph on Blockscout Explorer
 cover: ../.gitbook/assets/1990-480 Subgraph.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# ➡️ ZNS Subgraph
+# ZNS Subgraph
 
 Developing a subgraph for the ZNS protocol, which is based on ENS contracts, requires providing specific additional information.
 

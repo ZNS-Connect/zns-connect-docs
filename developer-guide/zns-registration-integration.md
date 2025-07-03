@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/1990-480 Registration.png
 coverY: 0
 ---
 
-# ➡️ ZNS Registration Integration
+# ZNS Registration Integration
 
 ### Registration Process with WalletConnect
 

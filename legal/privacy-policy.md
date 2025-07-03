@@ -1,4 +1,4 @@
-# ↘️ Privacy Policy
+# Privacy Policy
 
 **Introduction:** ALTBridge Labs S.A. (“ALTBridge”, “Company”, “we”, or “u&#x73;**”**)**,** a Panamanian legal entity, is committed to protecting your privacy. This Privacy Policy describes how we collect, use, share, and protect personal data when you use ZNS Connect and related services, including our websites **zns.bio** and **znsconnect.io** (collectively, the “Services”). It also explains your rights regarding your personal data. By using our Services, you agree to the collection and use of information as described in this Policy. If you do not agree, please discontinue use of the Services.
 

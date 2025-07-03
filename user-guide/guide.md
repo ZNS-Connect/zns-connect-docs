@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/1990-490 Welcome (1).png
 coverY: 0
 ---
 
-# 👨‍🏫 Guide to ZNS Application
+# Guide to ZNS Application
 
 #### Unlock the Full Potential of ZNS Connect: A Guide to ZNS Application
 

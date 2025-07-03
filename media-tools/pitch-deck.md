@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/1990-480 Pitch.png
 coverY: 0
 ---
 
-# 📃 Pitch Deck
+# Pitch Deck
 
 #### ZNS is a multi-chain name service + identity platform built for wallets, dApps & ecosystems:
 

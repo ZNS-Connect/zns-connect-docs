@@ -6,7 +6,7 @@ cover: .gitbook/assets/1990-480 Introduction (1).png
 coverY: 0
 ---
 
-# ℹ️ Introduction
+# Introduction
 
 ## About ZNS Connect
 

@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/1990-480 Grant (1).png
 coverY: 0
 ---
 
-# 🎓 ZNS Grant Program
+# ZNS Grant Program
 
 **Categories and Tracks The ZNS Grant Program encompasses two primary categories for project proposals:**
 

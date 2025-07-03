@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/Snap MM 4.png
 coverY: 0
 ---
 
-# 🏫 Knowledge Base
+# Knowledge Base
 
 How does ZNS resolve domain names to wallet addresses? Is it safe to send assets using a domain?
 

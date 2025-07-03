@@ -6,7 +6,7 @@ cover: >-
 coverY: 0
 ---
 
-# 📜 Whitepaper
+# Whitepaper
 
 
 

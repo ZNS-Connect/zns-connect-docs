@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/ZNS Mobile Application — on IOS and Android.png
 coverY: 0
 ---
 
-# 📲 IOS and Android Mobile Application
+# IOS and Android Mobile app
 
 🌐 **ZNS Connect** – Your Web3 Identity, Simplified
 

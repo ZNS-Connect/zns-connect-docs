@@ -2,7 +2,7 @@
 description: One Pager of ZNS Connect Application
 ---
 
-# 👾 One Pager | ZNS
+# One Pager | ZNS
 
 **The Product:**\
 ZNS Connect is your go-to platform for seamless Web3 interactions. It simplifies the complexity of Web3 by replacing cumbersome addresses with user-friendly names, making it a breeze for users to navigate and transact.\
@@ -21,7 +21,7 @@ We're on a mission to redefine how you experience the Web3 world. We're creating
 
 — 130,000+ Domains Minted on Scroll
 
-— Launched on the Berachain, Polygon, Taiko — Access to your own [#Web3](tg://search\_hashtag?hashtag=Web3) Page
+— Launched on the Berachain, Polygon, Taiko — Access to your own [#Web3](tg://search_hashtag?hashtag=Web3) Page
 
 &#x20;— 1st place out of 5,300 projects at the DoraHacks hackathon&#x20;
 

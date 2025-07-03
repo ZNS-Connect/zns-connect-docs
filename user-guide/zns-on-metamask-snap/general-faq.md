@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/Snap MM 3.png
 coverY: 0
 ---
 
-# ⏩ General FAQ
+# General FAQ
 
 
 

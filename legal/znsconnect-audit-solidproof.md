@@ -2,23 +2,9 @@
 description: Audit of smart contracts of ZNS Connect applicatio
 cover: ../.gitbook/assets/Screenshot 2024-04-19 at 11.29.52.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# 🕴️ Audit by Solidproof
+# Audit by Solidproof
 
 The Team provided us with the files that should be tested in the security assessment. This audit covered the following files listed below with an **SHA-1 Hash**.
 
