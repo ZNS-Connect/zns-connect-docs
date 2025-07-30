@@ -1,6 +1,6 @@
 ---
 description: ZNS Connect Subgraph on Blockscout Explorer
-cover: ../.gitbook/assets/1990-480 Subgraph.png
+cover: ../.gitbook/assets/Subgraph.png
 coverY: 0
 ---
 

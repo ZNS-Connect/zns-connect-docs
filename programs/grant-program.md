@@ -1,6 +1,6 @@
 ---
 description: ZNS Grant Program for any apps
-cover: ../.gitbook/assets/1990-480 Grant (1).png
+cover: ../.gitbook/assets/grant.png
 coverY: 0
 ---
 

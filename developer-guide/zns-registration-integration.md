@@ -1,6 +1,6 @@
 ---
 description: ZNS Registration Integration guide
-cover: ../.gitbook/assets/1990-480 Registration.png
+cover: ../.gitbook/assets/Registration.png
 coverY: 0
 ---
 

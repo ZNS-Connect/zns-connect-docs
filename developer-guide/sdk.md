@@ -2,7 +2,7 @@
 description: >-
   Interacts with blockchain domain names, resolving addresses, retrieving
   metadata
-cover: ../.gitbook/assets/1990-480 web3.png
+cover: ../.gitbook/assets/SDK.png
 coverY: 0
 ---
 

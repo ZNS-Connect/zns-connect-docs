@@ -1,11 +1,11 @@
 ---
 description: ZNS Human Identity Pass (HIP) – Build Your Reputation & Get Rewarded in Web3
 icon: user-bounty-hunter
-cover: ../.gitbook/assets/11-h gsdm.png
+cover: ../.gitbook/assets/HIP.png
 coverY: 0
 ---
 
-# &#x20;Human Identity Pass
+# Human Identity Pass
 
 The **ZNS Human Identity Pass (**[**HIP**](https://zns.bio/hip)**)** is your **on-chain identity** in Web3, allowing you to **verify social profiles, build credibility, and unlock rewards** based on your achievements. The higher your position on the leaderboard, the **greater your chances of being rewarded!** 🚀
 

@@ -31,7 +31,7 @@
 * [ZNS API](developer-guide/zns-api.md)
 * [ZNS Subgraph](developer-guide/zns-subgraph.md)
 * [ZNS Registration Integration](developer-guide/zns-registration-integration.md)
-* [ZNS Contract Address](developer-guide/contract-address.md)
+* [ZNS Contract Addresses](developer-guide/contract-address.md)
 
 ## MEDIA TOOLS
 

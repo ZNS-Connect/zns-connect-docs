@@ -1,6 +1,6 @@
 ---
 description: Partners of ZNS Connect
-cover: .gitbook/assets/partners list.png
+cover: .gitbook/assets/Partners.png
 coverY: 0
 layout:
   width: default

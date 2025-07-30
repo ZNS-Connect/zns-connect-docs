@@ -1,6 +1,6 @@
 ---
 description: Create a custom link for your application or brand
-cover: ../.gitbook/assets/1990-480 Developer (1).png
+cover: ../.gitbook/assets/Guide to ZNS.png
 coverY: 0
 ---
 
@@ -32,7 +32,9 @@ C. **Streamlined Access with** [**ZNS API:**](https://docs.znsconnect.io/technic
 
 D. **Referral** [**System**](https://docs.znsconnect.io/referral-program)**:** Earn up to 25% on your wallet directly through our referral system, incentivizing users to engage actively with the ZNS platform.\
 \
-Here is an example of a smart contract on **Scroll mainnet** : [https://scrollscan.com/](https://scrollscan.com/token/0xb00910bac7da44c0d440798809dbf8d51fdbb635)\
+Here is an example of a smart contract on the INK **mainnet** : [https://explorer.inkonchain.com](https://explorer.inkonchain.com/token/0xFb2Cd41a8aeC89EFBb19575C6c48d872cE97A0A5)
+
+\
 Here is an example of the contest:
 
 * With Layer3 on **Scroll**: [https://app.layer3.xyz](https://app.layer3.xyz/quests/scroll-sprint-zns-connect?slug=scroll-sprint-zns-connect)&#x20;

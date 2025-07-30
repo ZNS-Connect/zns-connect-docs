@@ -1,6 +1,6 @@
 ---
 description: All the endpoints return a JSON encoded object.
-cover: ../.gitbook/assets/1990-480 API.png
+cover: ../.gitbook/assets/API Integration.png
 coverY: 0
 ---
 
