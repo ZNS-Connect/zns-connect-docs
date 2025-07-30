@@ -36,7 +36,7 @@
 ## MEDIA TOOLS
 
 * [Pitch Deck](media-tools/pitch-deck.md)
-* [One Pager | ZNS](media-tools/one-pager-zns.md)
+* [One Pager](media-tools/one-pager-zns.md)
 * [Brand Book of ZNS](media-tools/brand-book.md)
 * [All links](media-tools/links.md)
 * [Whitepaper](media-tools/whitepaper.md)

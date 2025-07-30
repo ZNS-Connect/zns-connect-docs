@@ -1,6 +1,6 @@
 ---
 description: ZNS Connect Name Service Pitch Deck
-cover: ../.gitbook/assets/1990-480 Pitch.png
+cover: ../.gitbook/assets/Pitch Deck.png
 coverY: 0
 ---
 

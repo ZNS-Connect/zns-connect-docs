@@ -1,8 +1,10 @@
 ---
 description: One Pager of ZNS Connect Application
+cover: ../.gitbook/assets/One Pager (1).png
+coverY: 0
 ---
 
-# One Pager | ZNS
+# One Pager
 
 **The Product:**\
 ZNS Connect is your go-to platform for seamless Web3 interactions. It simplifies the complexity of Web3 by replacing cumbersome addresses with user-friendly names, making it a breeze for users to navigate and transact.\
@@ -19,7 +21,7 @@ We're on a mission to redefine how you experience the Web3 world. We're creating
 
 **Key Points :**
 
-— 130,000+ Domains Minted on Scroll
+— 244,000+ Domains Minted&#x20;
 
 — Launched on the Berachain, Polygon, Taiko — Access to your own [#Web3](tg://search_hashtag?hashtag=Web3) Page
 
@@ -29,15 +31,7 @@ We're on a mission to redefine how you experience the Web3 world. We're creating
 
 — Officially verified on NFTScan Explorer&#x20;
 
-— Integrated OKX Web3 wallet, Gate Wallet and Fox Wallet\
-\
-**Pitch Deck:** [**link**](https://docs.znsconnect.io/pitch-deck)
-
-**TGE**: Q4 2024\
-\
-**Investments Raised:** $120,000\
-\
-**Raising Now**: $1,440,000 in [Seed Round](https://docs.znsconnect.io/tokenomics-and-revenue-streams)&#x20;
+— Integrated OKX Web3 wallet, Gate Wallet and Fox Wallet
 
 
 

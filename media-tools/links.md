@@ -1,6 +1,6 @@
 ---
 description: Join to our chat channels to discuss all question
-cover: ../.gitbook/assets/1990-480 Links.png
+cover: ../.gitbook/assets/ALL OFFICIAL LINKS.png
 coverY: 0
 ---
 

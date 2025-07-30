@@ -1,6 +1,6 @@
 ---
 description: Brand Identity Guidelines of ZNS
-cover: ../.gitbook/assets/14.png
+cover: ../.gitbook/assets/Brand Book.png
 coverY: 0
 ---
 
