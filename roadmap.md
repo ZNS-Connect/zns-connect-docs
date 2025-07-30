@@ -1,6 +1,6 @@
 ---
 description: Milestones and Integration of ZNS Connect
-cover: .gitbook/assets/1990-480 Roadmap.png
+cover: .gitbook/assets/road map.png
 coverY: 0
 ---
 

@@ -2,7 +2,7 @@
 description: >-
   #ZNSConnect decentralized communication ID platform powered by decentralized
   addresses with unique domain names.
-cover: .gitbook/assets/1990-480 Introduction (1).png
+cover: .gitbook/assets/Intro.png
 coverY: 0
 ---
 
