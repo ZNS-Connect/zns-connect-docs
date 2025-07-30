@@ -1,14 +1,12 @@
 ---
 description: Lists of NFT Marketplaces for ZNS Connect
-cover: ../.gitbook/assets/1990-480 NFT.png
+cover: ../.gitbook/assets/NFT.png
 coverY: 0
 ---
 
 # NFT Marketplaces
 
 All NFT marketplaces are authenticated on their respective networks, enabling users to trade domain names on ZNS Connect securely.
-
-<figure><img src="../.gitbook/assets/1800-300 NFT.png" alt=""><figcaption></figcaption></figure>
 
 ### Lists of NFT Marketplaces&#x20;
 

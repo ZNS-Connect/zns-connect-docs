@@ -1,6 +1,6 @@
 ---
 description: 📱 ZNS Connect Mobile App – Knowledge Base
-cover: ../../.gitbook/assets/Knowledge Base.png
+cover: ../../.gitbook/assets/Knowledge Base (1).png
 coverY: 0
 ---
 

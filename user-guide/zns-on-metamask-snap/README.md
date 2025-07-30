@@ -2,7 +2,7 @@
 description: >-
   Easily resolve and use human-readable .zns domains right inside your MetaMask
   wallet!
-cover: ../../.gitbook/assets/Snap MM 1.png
+cover: ../../.gitbook/assets/ZNS SNAP.png
 coverY: 0
 ---
 

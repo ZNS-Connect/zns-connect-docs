@@ -1,6 +1,6 @@
 ---
 description: ZNS Gift Cards for every user
-cover: ../.gitbook/assets/1990-480 Gift.png
+cover: ../.gitbook/assets/Gift Cards.png
 coverY: 0
 ---
 

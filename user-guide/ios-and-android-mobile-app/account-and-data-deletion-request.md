@@ -1,6 +1,6 @@
 ---
 description: Request to Delete Your Account and Data
-cover: ../../.gitbook/assets/Account & Data Deletion Request.png
+cover: ../../.gitbook/assets/Acount deletion.png
 coverY: 0
 ---
 

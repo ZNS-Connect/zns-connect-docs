@@ -1,6 +1,6 @@
 ---
 description: Send crypto without copying long addresses — just type the domain and go!
-cover: ../../.gitbook/assets/Snap MM 3.png
+cover: ../../.gitbook/assets/FAQ.png
 coverY: 0
 ---
 

@@ -2,7 +2,7 @@
 description: >-
   Easily resolve and use human-readable .zns domains right inside your
   Application!
-cover: ../../.gitbook/assets/ZNS Mobile Application — on IOS and Android.png
+cover: ../../.gitbook/assets/mobile app.png
 coverY: 0
 ---
 
