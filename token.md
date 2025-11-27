@@ -1,6 +1,5 @@
 ---
 description: ZNS Token  and Revenue Stream
-hidden: true
 cover: .gitbook/assets/Tokenomics.png
 coverY: 0
 ---
@@ -42,7 +41,7 @@ Price Stages:
 Unlocking Structure:
 
 * 50% unlocked at TGE
-* 50% linear vesting over 6 months
+* 50%  vesting over 6 months
 
 ***
 

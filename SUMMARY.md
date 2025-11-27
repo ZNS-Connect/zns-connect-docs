@@ -5,7 +5,7 @@
 * [Roadmap](roadmap.md)
 * [Partners](partners.md)
 * [Tokenomics](tokenomics.md)
-* [Tokenomics](tokenomics-1.md)
+* [Tokenomics](token.md)
 
 ## USER GUIDE
 

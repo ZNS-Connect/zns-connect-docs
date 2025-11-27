@@ -1,6 +1,5 @@
 ---
 description: ZNS Human Identity Pass (HIP) – Build Your Reputation & Get Rewarded in Web3
-icon: user-bounty-hunter
 cover: ../.gitbook/assets/HIP.png
 coverY: 0
 ---
