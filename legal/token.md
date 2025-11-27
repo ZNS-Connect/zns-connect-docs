@@ -1,6 +1,6 @@
 ---
 description: ZNS Token  and Revenue Stream
-cover: .gitbook/assets/Tokenomics.png
+cover: ../.gitbook/assets/Tokenomics.png
 coverY: 0
 ---
 

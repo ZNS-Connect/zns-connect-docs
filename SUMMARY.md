@@ -5,7 +5,6 @@
 * [Roadmap](roadmap.md)
 * [Partners](partners.md)
 * [Tokenomics](tokenomics.md)
-* [Tokenomics](token.md)
 
 ## USER GUIDE
 
@@ -46,6 +45,7 @@
 
 * [Terms of Use](legal/terms-of-use.md)
 * [Privacy Policy](legal/privacy-policy.md)
+* [Tokenomics](legal/token.md)
 * [Audit by Solidproof](legal/znsconnect-audit-solidproof.md)
 
 ***
