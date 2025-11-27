@@ -123,4 +123,4 @@ Simply locate a domain you want to follow, click “**Follow"**
 **Join ZNS Connect Community:**\
 [Website](https://znsconnect.io/) | [Twitter](https://twitter.com/ZNSConnect) | [Blog](https://medium.com/@znsconnect)| [Discord](https://discord.gg/Y42C3MD9QW) | [Telegram](https://t.me/znsconnect)
 
-\
+<br>

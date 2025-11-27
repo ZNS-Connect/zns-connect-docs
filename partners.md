@@ -117,8 +117,7 @@ Please check the list of all partners here: [link to sheet](https://docs.google.
 
 {% embed url="https://twitter.com/ZNSConnect/status/1754456015070806191" %}
 
-\
-
+<br>
 
 ## **Debank - top 50 project on ecosystem. Users can mint Badge**&#x20;
 

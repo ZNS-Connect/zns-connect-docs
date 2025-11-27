@@ -4,7 +4,8 @@
 * [Introduction](introduction.md)
 * [Roadmap](roadmap.md)
 * [Partners](partners.md)
-* [Tokenomics and Revenue](tokenomics.md)
+* [Tokenomics](tokenomics.md)
+* [Tokenomics](tokenomics-1.md)
 
 ## USER GUIDE
 

@@ -1,11 +1,11 @@
 ---
 description: ZNS Token (ZNT) and Revenue Stream
 hidden: true
-cover: .gitbook/assets/1990-480 Token (1).png
+cover: .gitbook/assets/Tokenomics.png
 coverY: 0
 ---
 
-# Tokenomics and Revenue
+# Tokenomics
 
 &#x20;ZNS Token (ZNT) Utility
 
@@ -43,8 +43,8 @@ Link to check Revenue on Defilama: [**Defilama ZNS Analytics**](https://defillam
 
 ### **ZNT Tokenomics - Key Metrics**
 
-* **Total Supply:** 1,000,000,000 ZNT
-* **Token Price:** $0.011
+* **Total Supply:** 1,000,000,000 ZNS
+* **Token Price:** $0.01
 * **Initial Circulating Supply:** 205,000,000 ZNT
 * **Tokens at TGE (Without liquidity):** 85,000,000 ZNT
 * **Initial Market Cap (Without liquidity):** $935,000

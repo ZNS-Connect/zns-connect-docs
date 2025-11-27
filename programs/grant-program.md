@@ -29,8 +29,7 @@ coverY: 0
 
 Following project integration or completion, each submission undergoes individual evaluation, ensuring a personalized and comprehensive assessment.&#x20;
 
-**The evaluation process typically takes 3-5 days post-integration.**\
-
+**The evaluation process typically takes 3-5 days post-integration.**<br>
 
 **Submit your application today and seize the opportunity to get 200-800 USDt**
 

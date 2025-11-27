@@ -42,4 +42,4 @@ Here is an example of the contest:
 * Contest on Galxe Platform on **Taiko**: [https://app.galxe.com](https://app.galxe.com/quest/znsconnect/GC42rtdtf9)
 * Adventure with MIcro3 on **X Layer:** [https://micro3.io/](https://micro3.io/xlayer/0xf0c3c7ff10ac6eefc690c43051ac08c6155a14cf)
 
-\
+<br>

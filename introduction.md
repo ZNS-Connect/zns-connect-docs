@@ -103,6 +103,5 @@ We aim to simplify the Web3 experience by offering user-friendly and memorable d
 **Pitch Deck:** [**link**](https://docsend.com/view/eaheupi7s8xrrx9d)&#x20;
 
 **Socials:**\
-[**Twitter**](https://twitter.com/ZNSConnect) **|** [**Discord**](https://discord.com/channels/1112865738340970636/1112865739532153026) **|** [**Telegram**](https://t.me/znsconnect) **|** [**Medium**](https://medium.com/@znsconnect) **|** [**Tokenomics**](https://docs.znsconnect.io/tokenomics-and-revenue-streams)\
-
+[**Twitter**](https://twitter.com/ZNSConnect) **|** [**Discord**](https://discord.com/channels/1112865738340970636/1112865739532153026) **|** [**Telegram**](https://t.me/znsconnect) **|** [**Medium**](https://medium.com/@znsconnect) **|** [**Tokenomics**](https://docs.znsconnect.io/tokenomics-and-revenue-streams)<br>
 
