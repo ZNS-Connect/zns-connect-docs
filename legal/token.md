@@ -28,7 +28,7 @@ All data is aligned with what has been publicly shared with partners, media, and
 
 ***
 
-### 🔹 Public Pre-Sale (5% Allocation)
+### 🔹 Pre-Sale (5% Allocation)
 
 • Total Tokens Available: 10,000,000 ZNS (5%)
 
@@ -57,19 +57,9 @@ Unlocking Structure:
 
 ### 🔹 Official Token Distribution
 
-| Category                | % of Supply | Vesting / Notes                                      |
-| ----------------------- | ----------- | ---------------------------------------------------- |
-| Ecosystem               | 20.5%       | Long-term ecosystem expansion & rewards              |
-| Marketing & CEX Listing | 15%         | Listings, campaigns, influencers                     |
-| Foundation              | 10%         | 9-month cliff → 36-month vesting                     |
-| Team                    | 10%         | 6-month cliff → 36-month vesting (standard and safe) |
-| Partners & Advisors     | 10%         | 6-month cliff → 36-month vesting                     |
-| Community Rewards       | 24%         | Raffles, quests, Layer3 campaigns                    |
-| Liquidity               | 4%          | DEX + CEX liquidity provisioning                     |
-| IDO Platforms           | 1.5%        | Launchpads, partners, allocations                    |
-| Public Pre-Sale         | 5%          | 50% TGE + 6 months vesting                           |
+<figure><img src="../.gitbook/assets/Public sale Tokenomics - Github.png" alt=""><figcaption></figcaption></figure>
 
-***
+<table data-header-hidden><thead><tr><th></th><th width="156.91015625"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Category</strong></td><td><strong>% of Supply</strong></td><td><strong>Vesting</strong></td><td><strong>Notes</strong></td></tr><tr><td>Ecosystem </td><td>20.5%</td><td>3-month cliff → 32-month vesting</td><td>Rewards, Layer3 quests, chain integrations, grants, long-term ecosystem growth.</td></tr><tr><td>Marketing &#x26; CEX Listing</td><td>15%</td><td>32-month vesting</td><td>Listings, MM, influencers, paid ads, partnerships.</td></tr><tr><td>Foundation</td><td>10%</td><td>9-month cliff → 36-month vesting</td><td>Grants, research, protocol development, hackathons on DoraHacks, ecosystem support.</td></tr><tr><td>Team</td><td>10%</td><td>6-month cliff → 36-month vesting (standard and safe)</td><td>Team,  dev incentives, long-term alignment.</td></tr><tr><td>Partners &#x26; Advisors</td><td>10%</td><td>6-month cliff → 36-month vesting</td><td>Strategic partners, integrations, business development, advisors.</td></tr><tr><td>Community Rewards</td><td>24%</td><td>Raffles, quests, Layer3 campaigns → 12-month vesting</td><td>Quests, raffles, Galxe/L3 campaigns, user incentives, GateWeb3 , Kucoin Web3. </td></tr><tr><td>Liquidity</td><td>4%</td><td>DEX + CEX liquidity provisioning</td><td>DEX/CEX liquidity, healthy market depth, trading stability.</td></tr><tr><td>IDO Platforms</td><td>1.5%</td><td>Launchpads, partners, allocations</td><td>Launchpad allocations, partner campaigns, IDO support.</td></tr><tr><td>Pre-Sale</td><td>5%</td><td>50% TGE + 6 months vesting</td><td>Early supporters, community fundraising, strongest incentives.</td></tr></tbody></table>
 
 #### **🔹 Token Utility**
 
