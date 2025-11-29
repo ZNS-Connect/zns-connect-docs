@@ -18,11 +18,11 @@ All data is aligned with what has been publicly shared with partners, media, and
 
 • Ticker: $ZNS
 
-• Total Supply: 20,000,000,000 ZNS (20 Billion)
+• Total Supply: 200,000,000 ZNS&#x20;
 
 • Standard: ERC-20
 
-• Network: Ethereum
+• Network: Ethereum and BSC
 
 • Smart Contract: Will be published publicly prior to TGE
 
@@ -30,7 +30,7 @@ All data is aligned with what has been publicly shared with partners, media, and
 
 ### 🔹 Public Pre-Sale (5% Allocation)
 
-• Total Tokens Available: 1,000,000,000 ZNS (5%)
+• Total Tokens Available: 10,000,000 ZNS (5%)
 
 Price Stages:
 
@@ -57,17 +57,17 @@ Unlocking Structure:
 
 ### 🔹 Official Token Distribution
 
-| Category                | % of Supply           | Vesting / Notes                                      |
-| ----------------------- | --------------------- | ---------------------------------------------------- |
-| Ecosystem & Community   | 44.5%                 | Long-term ecosystem expansion & rewards              |
-| Marketing & CEX Listing | 15%                   | Listings, campaigns, influencers                     |
-| Foundation              | 10%                   | 9-month cliff → 36-month vesting                     |
-| Team                    | 10%                   | 6-month cliff → 36-month vesting (standard and safe) |
-| Partners & Advisors     | 10%                   | 6-month cliff → 36-month vesting                     |
-| Community Rewards       | Included in Ecosystem | Raffles, quests, Layer3 campaigns                    |
-| Liquidity               | 4%                    | DEX + CEX liquidity provisioning                     |
-| IDO Platforms           | 1.5%                  | Launchpads, partners, allocations                    |
-| Public Pre-Sale         | 5%                    | 50% TGE + 6 months vesting                           |
+| Category                | % of Supply | Vesting / Notes                                      |
+| ----------------------- | ----------- | ---------------------------------------------------- |
+| Ecosystem               | 20.5%       | Long-term ecosystem expansion & rewards              |
+| Marketing & CEX Listing | 15%         | Listings, campaigns, influencers                     |
+| Foundation              | 10%         | 9-month cliff → 36-month vesting                     |
+| Team                    | 10%         | 6-month cliff → 36-month vesting (standard and safe) |
+| Partners & Advisors     | 10%         | 6-month cliff → 36-month vesting                     |
+| Community Rewards       | 24%         | Raffles, quests, Layer3 campaigns                    |
+| Liquidity               | 4%          | DEX + CEX liquidity provisioning                     |
+| IDO Platforms           | 1.5%        | Launchpads, partners, allocations                    |
+| Public Pre-Sale         | 5%          | 50% TGE + 6 months vesting                           |
 
 ***
 
