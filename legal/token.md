@@ -96,14 +96,6 @@ The $ZNS token powers the entire multi-chain ZNS Connect ecosystem deployed acro
 
 ### 🔹 Official Resources
 
-🔒 Smart Contract Audit — SolidProof
+🔒 Smart Contract Audit —[ SolidProof](https://app.solidproof.io/projects/zns-connect)
 
-https://app.solidproof.io/projects/zns-connect
-
-📊 Analytics, Revenue & On-chain Stats — Dune Dashboard
-
-https://dune.com/zns/zns-connect
-
-🌐 Official Website
-
-https://zns.bio
+📊 Analytics, Revenue & On-chain Stats — [Dune Dashboard](https://dune.com/zns/zns-connect)
