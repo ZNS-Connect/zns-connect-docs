@@ -131,7 +131,7 @@ Due to the nature of blockchain networks:
 
 * Transactions are typically irreversible once confirmed on-chain;
 * The Company does not have the ability to reverse or modify completed transactions; and
-* The Company is not responsible for any loss resulting from sending funds to the wrong address, using unsupported networks or tokens, or otherwise failing to follow the official instructions for the sale.
+* The Company is not responsible for any loss resulting from sending funds to the wrong address, using unsupported networks or tokens.
 
 **5.4 Allocation, Vesting, and Delivery**\
 The total supply, allocation, vesting schedules, and unlocking mechanics for $ZNS tokens are publicly described in the official Tokenomics documentation available on the Site. Such documentation is incorporated by reference into these Terms for informational purposes only.
