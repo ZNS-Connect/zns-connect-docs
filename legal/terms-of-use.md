@@ -52,6 +52,8 @@ You further represent and warrant that you are not subject to sanctions or other
 
 Your use of the Site must align with its intended utility and non-commercial nature. You may not access or use the Site for any purpose other than that for which we make it available.
 
+By accessing or using the Services, including participating in the $ZNS token sale, you represent and warrant that such participation is legal in your jurisdiction and that you are not prohibited from engaging in digital asset transactions under applicable laws.
+
 You agree not to:
 
 * Violate any applicable law, regulation, or ordinance;
@@ -235,6 +237,8 @@ As part of the functionality of the Site, you may link your account with third-p
 #### 10. Submissions
 
 Any questions, comments, suggestions, ideas, or feedback you provide regarding the Site or related services (“Submissions”) are non-confidential and shall become the exclusive property of ZNS Connect. You waive any moral rights to such Submissions and grant ZNS Connect full rights to use them for any lawful purpose.
+
+You may not use VPNs, proxies, or any other technical means to circumvent geo-blocking, jurisdictional restrictions, or eligibility rules applicable to the $ZNS token sale or the Services.
 
 ***
 
