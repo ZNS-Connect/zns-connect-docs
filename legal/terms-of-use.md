@@ -79,7 +79,27 @@ We reserve the right to suspend or permanently block any user who violates these
 
 #### 4. No Financial Advice or Offerings
 
-ZNS Connect does not offer investment advice, does not conduct token sales, and does not operate or promote any financial products. The services provided by ZNS Connect are purely utility-based and should not be construed as investment opportunities or solicitations.
+**4.1 No Financial or Investment Advice**\
+Information available on the Site (including, without limitation, documentation, dashboards, tokenomics pages, blog posts, or community content) is provided for general informational and educational purposes only.\
+Nothing on the Site, in our documentation, or in any communication from us or our partners constitutes:
+
+* Investment, financial, legal, tax or accounting advice;
+* An offer, solicitation or recommendation to buy or sell any security, commodity, or other regulated financial instrument; or
+* A guarantee or representation regarding the future price, utility, or performance of any digital asset, including the $ZNS token.
+
+You are solely responsible for performing your own due diligence and for any decision to participate in the $ZNS token sale or to acquire, hold, or dispose of any digital asset.
+
+**4.2 Nature of $ZNS Tokens**\
+$ZNS is a utility token designed to power access to and usage of the multi-chain ZNS Connect ecosystem, including (without limitation) domain registrations, identity features, protocol discounts, governance, and other in-app utilities as further described in our documentation.
+
+$ZNS tokens:
+
+* Do **not** represent shares, equity, ownership interest or voting rights in ALTBridge Labs S.A. or any affiliate;
+* Do **not** entitle holders to dividends, profit share, revenue share, or any form of passive income from the Company;
+* Are **not** deposits, bank products, or debt instruments; and
+* Are **not** intended to be, and shall not be treated as, securities or investment contracts in any jurisdiction, to the maximum extent permitted by applicable law.
+
+Nothing in these Terms, on the Site, or in any of our communications shall be construed as any form of promise, expectation, or guarantee of future price appreciation or economic return.
 
 #### 5. Risk Disclosure
 
@@ -183,6 +203,8 @@ You agree that we will not be responsible or liable for:
 * Service interruptions or malfunctions;
 * Third-party services, ads, links, or software connected to or accessible through the Site;
 * Any transactions you engage in with third-party providers.
+
+You understand and agree that participation in any $ZNS token sale or related campaign is particularly high-risk and may result in a total and irreversible loss of your contribution, including due to extreme market volatility, regulatory actions, smart contract vulnerabilities, or failures of third-party infrastructure (such as wallets, bridges, exchanges, or block explorers).
 
 ***
 
