@@ -101,25 +101,104 @@ $ZNS tokens:
 
 Nothing in these Terms, on the Site, or in any of our communications shall be construed as any form of promise, expectation, or guarantee of future price appreciation or economic return.
 
-#### 5. Risk Disclosure
+#### 5. $ZNS Token Sale and Participation
+
+**5.1 Scope**\
+From time to time, the Company may offer $ZNS tokens to eligible users through a token sale, including but not limited to:
+
+* A community pre-sale hosted on our own Site or smart contracts;
+* Sales or allocations via third-party launchpads or exchanges; and/or
+* Other distribution mechanisms (such as rewards, airdrops, quests, campaigns), each as described in our official documentation.
+
+These Terms govern your access to and participation in any $ZNS token sale conducted or facilitated by ALTBridge Labs S.A., in addition to any specific token sale terms, tokenomics schedules, or campaign rules that may apply (collectively, the **“Token Sale Terms”**).
+
+In the event of any inconsistency between these Terms and the Token Sale Terms, the Token Sale Terms shall prevail solely with respect to the specific sale or campaign.
+
+**5.2 Eligibility and Restricted Jurisdictions for Token Sale**\
+By participating in any $ZNS token sale, you represent and warrant that:
+
+* You are at least 18 years old and have full legal capacity to enter into these Terms;
+* You are not a “U.S. Person” as defined under Regulation S of the U.S. Securities Act of 1933, and you are not accessing the Site or participating in the sale from the United States;
+* You are **not** a resident, citizen, or located in any jurisdiction where participation in token sales, initial coin offerings, or similar activities is restricted, prohibited, or would require registration, licensing, authorization, or approval of the Company, including (without limitation) the USA, the European Union, the United Kingdom, or any jurisdiction under comprehensive sanctions;
+* You are not listed on, and are not acting on behalf of any person or entity listed on, any sanctions or restricted parties list maintained by the United Nations, the European Union, the United States, the United Kingdom, or Panama;
+* You are participating in the sale on your own behalf, for your own account, and not as nominee, trustee, representative, or agent for any third party; and
+* Your participation fully complies with all laws, regulations, and restrictions applicable in your country of residence, citizenship, and location.
+
+The Company may, at its sole discretion, implement geofencing, KYC/AML checks, contribution limits, or other controls and may refuse, cancel, or reverse any attempted contribution that appears to violate these Terms or applicable law.
+
+**5.3 No Refunds and Irreversibility**\
+All contributions made in connection with a $ZNS token sale are **final and non-refundable**, unless otherwise required by mandatory applicable law or explicitly stated in the Token Sale Terms.
+
+Due to the nature of blockchain networks:
+
+* Transactions are typically irreversible once confirmed on-chain;
+* The Company does not have the ability to reverse or modify completed transactions; and
+* The Company is not responsible for any loss resulting from sending funds to the wrong address, using unsupported networks or tokens, or otherwise failing to follow the official instructions for the sale.
+
+**5.4 Allocation, Vesting, and Delivery**\
+The total supply, allocation, vesting schedules, and unlocking mechanics for $ZNS tokens are publicly described in the official Tokenomics documentation available on the Site. Such documentation is incorporated by reference into these Terms for informational purposes only.
+
+You acknowledge and agree that:
+
+* Your entitlement to receive $ZNS is subject to successful completion of the token sale, technical deployment of the smart contracts, and any applicable vesting or lock-up periods;
+* Vesting and unlocking schedules may be enforced through smart contracts and/or off-chain mechanisms, and you may not be able to transfer or dispose of your tokens before the applicable vesting or lock-up periods expire; and
+* The Company reserves the right to adjust sale timelines, stages, caps, or technical details of the sale (including contract addresses and supported networks) if reasonably necessary for security, regulatory, or operational reasons.
+
+**5.5 No Guarantee of Listing, Liquidity, or Price**\
+The Company does not guarantee:
+
+* That $ZNS will be listed on any centralized or decentralized exchange;
+* That any secondary market for $ZNS will develop or, if it develops, that it will be liquid or sustainable;
+* Any particular price, price range, market capitalization, or trading volume for $ZNS; or
+* That you will be able to sell or otherwise dispose of your $ZNS tokens at any time, or at a price equal to or greater than the amount you paid.
+
+Participation in the $ZNS token sale is highly speculative and involves significant risk. You should not participate if you cannot afford to lose the entire value of your contribution.
+
+**5.6 Token Holder Responsibilities and Self-Custody**\
+You are solely responsible for:
+
+* Providing a compatible, non-custodial wallet address under your exclusive control for receiving $ZNS tokens;
+* Safeguarding your private keys, seed phrases, and any other credentials associated with your digital wallet;
+* Ensuring that you do not lose access to your wallet.
+
+The Company does not provide custodial services and cannot recover lost private keys, seed phrases, or access to your wallet. If you lose access to your wallet, your $ZNS tokens may be permanently inaccessible.
+
+**5.7 Tax Responsibilities**\
+You are solely responsible for determining, reporting, and paying any and all taxes, duties, levies, or other governmental charges that may be imposed on you in connection with your participation in the $ZNS token sale, your acquisition, holding, or disposal of $ZNS tokens, or any other use of our services.
+
+The Company does not provide tax advice. You should consult your own tax advisor regarding the tax consequences of participating in the sale and holding digital assets.
+
+**5.8 Regulatory and Technological Risks**\
+You acknowledge and accept that:
+
+* Regulatory frameworks for digital assets and token sales remain uncertain and may change at any time, which could materially impact the $ZNS token, the ZNS Connect ecosystem, or your ability to use or transfer $ZNS;
+* Blockchain networks may experience delays, congestion, bugs, forks, cyber-attacks, or other technical issues that may delay or prevent the allocation, transfer, or use of $ZNS; and
+* The Company shall not be liable for any loss arising from such regulatory or technological risks, to the maximum extent permitted by applicable law.
+
+**5.9 No Investment or Profit Expectation**\
+You acknowledge and agree that you are acquiring $ZNS tokens solely to access and use the ZNS Connect ecosystem and related utilities, and not for any speculative or investment purpose, nor with any expectation of profit, income, or capital gain.
+
+Any discussion by the Company, its team members, or community about potential market performance, comparisons to other tokens, or hypothetical scenarios is purely illustrative and does not constitute a commitment, promise, or financial projection.
+
+#### 6. Risk Disclosure
 
 Users acknowledge that blockchain technologies and digital assets involve inherent risks, including but not limited to market volatility, loss of funds, cyber threats, and regulatory changes. Users assume all risks associated with the use of our services.
 
 ***
 
-#### 6. Tax Obligations
+#### 7. Tax Obligations
 
 Users are solely responsible for determining and fulfilling their tax obligations in relation to any transactions conducted through our services. ZNS Connect does not provide tax advice.
 
 ***
 
-#### 7. User-Generated Content
+#### 8. User-Generated Content
 
 Users are solely responsible for any content they upload or display on the Site. You must ensure that your content complies with all applicable laws and does not violate any third-party rights.
 
 ***
 
-#### 8. Social Media and Third-Party Accounts
+#### 9. Social Media and Third-Party Accounts
 
 As part of the functionality of the Site, you may link your account with third-party services (each a “Third Party Account”). By doing so, you grant us permission to access, store, and use information from your Third Party Account, such as your profile and connections, in accordance with your settings and applicable law. You acknowledge that:
 
@@ -130,13 +209,13 @@ As part of the functionality of the Site, you may link your account with third-p
 
 ***
 
-#### 9. Submissions
+#### 10. Submissions
 
 Any questions, comments, suggestions, ideas, or feedback you provide regarding the Site or related services (“Submissions”) are non-confidential and shall become the exclusive property of ZNS Connect. You waive any moral rights to such Submissions and grant ZNS Connect full rights to use them for any lawful purpose.
 
 ***
 
-#### 10. **Intellectual Property Rights**
+#### 11. **Intellectual Property Rights**
 
 Unless otherwise indicated, the Site, including all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics (collectively, the “Content”) and the trademarks, service marks, and logos contained therein (the “Marks”) are owned or controlled by ALTBridge Labs S.A. and are protected by copyright, trademark, and other intellectual property laws.
 
@@ -146,13 +225,13 @@ We reserve all rights not expressly granted to you in and to the Site, the Conte
 
 ***
 
-#### 11. Third-Party Services and Content
+#### 12. Third-Party Services and Content
 
 The Site may contain links to third-party websites and content. We do not control or endorse such third-party content and are not responsible for its accuracy, legality, or appropriateness. You access third-party sites at your own risk and should review their respective terms and privacy policies. ZNS Connect shall not be held liable for any damages or losses arising from your use of or reliance on third-party services or content.
 
 ***
 
-#### 12. Limitation of Liability
+#### 13. Limitation of Liability
 
 To the maximum extent permitted by law, in no event shall ALTBridge Labs S.A., its affiliates, directors, employees, licensors, service providers, or partners be liable to you or any third party for any indirect, incidental, special, consequential, exemplary, or punitive damages, including but not limited to loss of profits, lost revenue, loss of data, device damage, or other intangible losses, arising out of or related to your access to or use of the Site or your inability to access or use the Site, even if we have been advised of the possibility of such damages.
 
@@ -164,13 +243,13 @@ You agree that our third-party service providers and suppliers shall have no lia
 
 ***
 
-#### 13. **Indemnification**
+#### 14. **Indemnification**
 
 You agree to defend, indemnify, and hold harmless ZNS Connect and its affiliates from and against any claims, damages, liabilities, and expenses arising out of your use of the Site or your violation of these Terms.
 
 ***
 
-#### 14. Governing Law and Arbitration
+#### 15. Governing Law and Arbitration
 
 These Terms shall be governed by and construed in accordance with the laws of the Republic of Panama, without regard to its conflict of law principles.
 
@@ -182,13 +261,13 @@ You agree that any dispute resolution proceedings will be conducted on an indivi
 
 ***
 
-#### 15. Changes to the Terms
+#### 16. Changes to the Terms
 
 We reserve the right to update these Terms at any time. Changes will be effective upon posting on the Site. Your continued use of the Site constitutes your acceptance of any revised Terms.
 
 Knowingly acquiring or attempting to acquire domains identical to third-party trademarks is prohibited and may lead to account termination.
 
-#### 16. Disclaimers
+#### 17. Disclaimers
 
 The Site is provided on an “AS IS” and “AS AVAILABLE” basis. You agree that your use of the Site and our services is at your sole risk.
 
@@ -208,7 +287,7 @@ You understand and agree that participation in any $ZNS token sale or related ca
 
 ***
 
-#### 17. Term and Termination
+#### 18. Term and Termination
 
 These Terms of Use remain in full force and effect while you use the Site.
 
@@ -223,6 +302,6 @@ Upon termination:
 
 We are not liable for any loss or damage arising from your inability to access the Site after termination.
 
-#### 18. Contact
+#### 19. Contact
 
 For any questions about these Terms, please contact:  privacy@znsconnect.io
