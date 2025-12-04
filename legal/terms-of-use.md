@@ -108,11 +108,9 @@ From time to time, the Company may offer $ZNS tokens to eligible users through a
 
 * A community pre-sale hosted on our own Site or smart contracts;
 * Sales or allocations via third-party launchpads or exchanges; and/or
-* Other distribution mechanisms (such as rewards, airdrops, quests, campaigns), each as described in our official documentation.
+* Other distribution mechanisms (such as rewards, airdrops, quests, campaigns).
 
 These Terms govern your access to and participation in any $ZNS token sale conducted or facilitated by ALTBridge Labs S.A., in addition to any specific token sale terms, tokenomics schedules, or campaign rules that may apply (collectively, the **“Token Sale Terms”**).
-
-In the event of any inconsistency between these Terms and the Token Sale Terms, the Token Sale Terms shall prevail solely with respect to the specific sale or campaign.
 
 **5.2 Eligibility and Restricted Jurisdictions for Token Sale**\
 By participating in any $ZNS token sale, you represent and warrant that:
