@@ -101,6 +101,19 @@ $ZNS tokens:
 
 Nothing in these Terms, on the Site, or in any of our communications shall be construed as any form of promise, expectation, or guarantee of future price appreciation or economic return.
 
+Any descriptions of the ZNS roadmap, future features, utilities, token use-cases, ecosystem partnerships, or integrations are provided for informational purposes only and do not constitute any commitment, obligation, or guarantee by the Company.\
+The Company may change, delay, or discontinue any planned features at its sole discretion.
+
+**4.3 No Securities or Investment Offering**\
+$ZNS tokens are not and shall not be considered securities, investment contracts, financial instruments, or any other regulated product in any jurisdiction.\
+Participation in the $ZNS token sale does not represent:
+
+* An investment of money with an expectation of profit,
+* An ownership or equity interest in ALTBridge Labs S.A.,
+* Any right to dividends, revenue share, or profit distribution.
+
+Nothing in these Terms, our documentation, website, or communications shall be interpreted as a security offering under the laws of Panama, the United States, the European Union, the United Kingdom, or any other jurisdiction.
+
 #### 5. $ZNS Token Sale and Participation
 
 **5.1 Scope**\
@@ -226,6 +239,15 @@ We reserve all rights not expressly granted to you in and to the Site, the Conte
 #### 12. Third-Party Services and Content
 
 The Site may contain links to third-party websites and content. We do not control or endorse such third-party content and are not responsible for its accuracy, legality, or appropriateness. You access third-party sites at your own risk and should review their respective terms and privacy policies. ZNS Connect shall not be held liable for any damages or losses arising from your use of or reliance on third-party services or content.
+
+ZNS Connect interacts with multiple third-party blockchain networks, RPC providers, browsers, smart contracts, bridges, wallets, and APIs. The Company is not responsible for:
+
+* failures, hacks, delays, or downtime in third-party networks,
+* errors in RPC, explorers, or block indexing,
+* exploits or vulnerabilities in third-party smart contracts,
+* losses resulting from actions or omissions of third-party providers.
+
+You use all third-party services at your own risk.
 
 ***
 
