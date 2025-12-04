@@ -136,7 +136,7 @@ Any questions, comments, suggestions, ideas, or feedback you provide regarding t
 
 ***
 
-10. **Intellectual Property Rights**
+#### 10. **Intellectual Property Rights**
 
 Unless otherwise indicated, the Site, including all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics (collectively, the “Content”) and the trademarks, service marks, and logos contained therein (the “Marks”) are owned or controlled by ALTBridge Labs S.A. and are protected by copyright, trademark, and other intellectual property laws.
 
@@ -146,13 +146,13 @@ We reserve all rights not expressly granted to you in and to the Site, the Conte
 
 ***
 
-11. Third-Party Services and Content
+#### 11. Third-Party Services and Content
 
 The Site may contain links to third-party websites and content. We do not control or endorse such third-party content and are not responsible for its accuracy, legality, or appropriateness. You access third-party sites at your own risk and should review their respective terms and privacy policies. ZNS Connect shall not be held liable for any damages or losses arising from your use of or reliance on third-party services or content.
 
 ***
 
-12. Limitation of Liability
+#### 12. Limitation of Liability
 
 To the maximum extent permitted by law, in no event shall ALTBridge Labs S.A., its affiliates, directors, employees, licensors, service providers, or partners be liable to you or any third party for any indirect, incidental, special, consequential, exemplary, or punitive damages, including but not limited to loss of profits, lost revenue, loss of data, device damage, or other intangible losses, arising out of or related to your access to or use of the Site or your inability to access or use the Site, even if we have been advised of the possibility of such damages.
 
@@ -164,13 +164,13 @@ You agree that our third-party service providers and suppliers shall have no lia
 
 ***
 
-13. **Indemnification**
+#### 13. **Indemnification**
 
 You agree to defend, indemnify, and hold harmless ZNS Connect and its affiliates from and against any claims, damages, liabilities, and expenses arising out of your use of the Site or your violation of these Terms.
 
 ***
 
-14. Governing Law and Arbitration
+#### 14. Governing Law and Arbitration
 
 These Terms shall be governed by and construed in accordance with the laws of the Republic of Panama, without regard to its conflict of law principles.
 
