@@ -13,6 +13,17 @@ We collect personal data (information that can identify you) in the following wa
   * IP Address and Device Information: We log your Internet Protocol (IP) address, device type, operating system, browser type, and similar technical information when you access our sites.
   * Usage Data: We monitor your activity on our sites, such as pages visited, features used, time spent on pages, and click-stream data. This usage information is collected to help us understand how users engage with our Services and to improve user experience. We utilize cookies and similar tracking technologies (described below) to gather some of this data.
 * Cookies and Tracking: Our websites use cookies, pixels, and analytics tools (such as Google Tag Manager and Google Analytics) to collect usage data. Cookies are small data files stored on your device that help us recognize you and remember your preferences. For example, we use Google Analytics (via Google Tag Manager) to collect information about how visitors use our site, which helps us analyze traffic and improve the Services. These third-party analytics services may receive your IP address and other usage data when you visit our site, and their use of your data is governed by their own privacy policies.
+*   When you participate in the $ZNS token sale, we may collect and process additional information relevant to your contribution, including:
+
+    * the blockchain wallet address you use for the contribution
+    * on-chain transaction hashes associated with your purchase
+    * contribution amount, token allocation, timestamps, and vesting data
+    * referral addresses or campaign identifiers (if applicable)
+    * confirmations of eligibility (e.g., age declaration, jurisdiction declaration)
+    * technical information used for fraud prevention or security purposes
+
+    All contributions take place on public blockchains.\
+    We do **not** collect any banking information, credit card data, or fiat payment details.
 
 ### HOW WE USE YOUR PERSONAL DATA
 
@@ -24,6 +35,7 @@ We use the collected personal data for the following purposes:
 * Security and Fraud Prevention: To monitor, prevent, and detect fraud, unauthorized activities, and other potential misuse of the Services. For example, we may use IP addresses and other identifiers to detect multiple accounts or suspicious behavior and to **protect the integrity** of our platform.
 * Legal Compliance: To comply with applicable legal obligations and regulatory requirements. For instance, we may use or preserve certain data to fulfill record-keeping obligations, enforce our Terms of Use, or handle any disputes.
 * Other Operational Purposes: We may use data for internal purposes such as auditing, data analysis, testing, and research to maintain and improve service quality.&#x20;
+* We do not request or store passports, government IDs, proof of address, or any other KYC documents unless such verification becomes legally required for participation in the $ZNS token sale or is required by a third-party launchpad or exchange.
 
 ### COOKIES AND TRACKING TECHNOLOGIES
 
@@ -63,17 +75,37 @@ In summary, we will either delete or anonymize personal data that is no longer n
 
 Depending on your jurisdiction, you may have certain rights regarding your personal data, including access, correction, deletion, or restriction of processing. You can exercise these rights by contacting us at: legal@znsconnect.io
 
+Please note that due to the immutable nature of blockchain technology, we cannot modify or delete any data that has been permanently recorded on public blockchain networks, including wallet addresses, domain registrations, token allocations, or transaction hashes.
+
+By using our Services, including participating in the $ZNS token sale, you acknowledge that you are solely responsible for ensuring that such use is legal in your country of residence and does not violate any applicable laws, regulations, or restrictions.
+
 ### DATA SECURITY
 
 We take **data security** seriously and have implemented appropriate technical and organizational measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction. These measures include encryption of data in transit (e.g., using HTTPS on our website), firewalls and access controls to our servers and databases, and limiting access to personal data to employees and contractors on a need-to-know basis. We also regularly review our information collection, storage, and processing practices to prevent unauthorized access and to improve security.
 
 However, please be aware that **no method of transmission over the Internet or method of electronic storage is completely secure**. While we strive to protect your personal data, we **cannot guarantee absolute security**. Users are encouraged to take steps on their end as well, such as using strong passwords for any accounts, protecting their wallet private keys, and logging out after using shared devices. If we become aware of a data breach that affects your personal data, we will notify you and the appropriate authorities as required by law.
 
+We may use privacy-preserving analytics tools, error-tracking systems, performance monitoring services, and anonymized traffic logs to improve the stability and functionality of the Platform.\
+These tools do not collect personally identifiable information unless explicitly stated.
+
 ### INTERNATIONAL DATA TRANSFERS
 
 ALTBridge Labs S.A. is based in Panama, and our Services are global. When you use ZNS Connect, your personal data may be transferred to or stored on servers located in countries **outside** of your own. Different countries may have different data protection laws, which might not be as protective as those in your home jurisdiction.
 
 By using our Services and providing information to us, you acknowledge the transfer of your personal data to countries outside of your country of residence. We will take all measures reasonably necessary to ensure that your data is treated securely and in accordance with this Policy.
+
+### COOKIES AND LOCAL STORAGE&#x20;
+
+We may use minimal cookies or browser-based local storage to support core Platform functionality, such as:
+
+* language preferences
+* session stability
+* referral tracking
+* token sale eligibility state
+* user interface settings
+
+We do not use cookies for advertising, profiling, behavioral tracking, or selling user data.\
+You may disable cookies in your browser settings, though doing so may limit certain Platform features.
 
 ### CHILDREN PRIVACY
 
