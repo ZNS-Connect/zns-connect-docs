@@ -36,6 +36,10 @@ Unlike traditional DNS domains, Web3 domains:
 
 By purchasing or using a ZNS Connect domain, you acknowledge and accept that Web3 naming is an experimental and rapidly evolving space, and that ZNS Connect makes no guarantees regarding long-term resolution compatibility or exclusivity.
 
+Purchasing or using a ZNS Connect domain name does not grant any $ZNS tokens, governance rights, revenue rights, or any ownership interest in ALTBridge Labs S.A. or the ZNS protocol.
+
+Likewise, participating in the $ZNS token sale or holding $ZNS tokens does not grant any automatic right to register, renew, or control specific ZNS domains, nor does it provide any priority over other users in domain registrations.
+
 #### 2. Eligibility and User Representations
 
 You may use the Site only if you are at least 18 years old and capable of entering into a legally binding agreement.
@@ -191,6 +195,14 @@ You acknowledge and agree that you are acquiring $ZNS tokens solely to access an
 
 Any discussion by the Company, its team members, or community about potential market performance, comparisons to other tokens, or hypothetical scenarios is purely illustrative and does not constitute a commitment, promise, or financial projection.
 
+**5.10 Modification, Suspension, or Cancellation of the Token Sale**
+
+The Company may modify, pause, or cancel any $ZNS token sale or related campaign at any time, in whole or in part, for security, regulatory, technical, or business reasons.
+
+Such actions may include, without limitation, changing sale timelines or stages, adjusting contribution limits, postponing TGE or token delivery, or cancelling unsold allocations.
+
+To the maximum extent permitted by law, the Company shall not be liable for any losses or damages arising from any modification, suspension, or cancellation of the token sale, provided that any valid contributions already received will be handled in accordance with the applicable Token Sale Terms and any mandatory legal requirements.
+
 #### 6. Risk Disclosure
 
 Users acknowledge that blockchain technologies and digital assets involve inherent risks, including but not limited to market volatility, loss of funds, cyber threats, and regulatory changes. Users assume all risks associated with the use of our services.
@@ -254,6 +266,8 @@ You use all third-party services at your own risk.
 #### 13. Limitation of Liability
 
 To the maximum extent permitted by law, in no event shall ALTBridge Labs S.A., its affiliates, directors, employees, licensors, service providers, or partners be liable to you or any third party for any indirect, incidental, special, consequential, exemplary, or punitive damages, including but not limited to loss of profits, lost revenue, loss of data, device damage, or other intangible losses, arising out of or related to your access to or use of the Site or your inability to access or use the Site, even if we have been advised of the possibility of such damages.
+
+For the avoidance of doubt, the limitations and exclusions of liability set out in this Section 13 apply equally to any claims arising out of or related to your participation in any $ZNS token sale, your acquisition or holding of $ZNS tokens, or your inability to use or transfer such tokens.
 
 Access to and use of the Site is at your own discretion and risk, and you will be solely responsible for any damage to your computer system or device or loss of data resulting therefrom.
 
