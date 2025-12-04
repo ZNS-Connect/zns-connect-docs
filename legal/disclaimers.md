@@ -26,6 +26,11 @@ You should not acquire $ZNS tokens unless you are fully aware of the risks and c
 
 **All token sale transactions are final, non-refundable, and irreversible.**
 
+$ZNS tokens are utility tokens and do **not** represent securities, equity, debt, ownership, voting rights, profit rights, or any other financial instrument.\
+Holding $ZNS tokens does **not** entitle the holder to dividends, revenue share, governance participation (unless explicitly stated), or any ownership interest in ALTBridge Labs S.A. or its affiliates.
+
+Nothing in the token sale, website, social media, or documentation shall be interpreted as an offer of securities under any jurisdiction.
+
 ## **2. No Securities, No Equity, No Ownership Rights**
 
 $ZNS tokens are **not**:
@@ -48,6 +53,9 @@ Holding $ZNS tokens does **not** grant:
 
 No part of the token sale should be interpreted as a securities offering under the laws of Panama, the U.S., the EU, or any other jurisdiction.
 
+Purchasing $ZNS tokens does not grant any rights to profit, income, yield, appreciation, staking rewards, or any form of financial return.\
+Any discussion of potential utility, ecosystem expansion, or future integrations is for informational purposes only and does not constitute a guarantee, obligation, or expectation of future value.
+
 ## **3. No Guarantees of Future Utility or Roadmap Delivery**
 
 Any references to:
@@ -64,6 +72,9 @@ are **forward-looking statements** provided solely for informational purposes.
 They are **not commitments**, **not promises**, and **not obligations** of the Company.
 
 All roadmap items may be changed, postponed, or cancelled without notice.
+
+Any references to future plans, utilities, integrations, partnerships, upgrades, or roadmap items are forward-looking statements and shall not be interpreted as commitments or obligations of the Company.\
+The Company may modify, postpone, or cancel any roadmap item at its sole discretion, without prior notice.
 
 ## **4. No Financial, Investment, or Legal Advice**
 
@@ -100,6 +111,20 @@ These issues may prevent you from:
 
 The Company does not control blockchain networks and cannot guarantee uninterrupted or error-free operation.
 
+ZNS domains are blockchain-based digital identifiers and are not traditional ICANN or DNS domains.\
+They may not be recognized or resolvable by legacy internet systems, browsers, search engines, or naming protocols.
+
+Domain risks include:
+
+* loss of access due to lost wallets or private keys
+* incompatibility with certain apps or wallets
+* inability to transfer or modify domains
+* potential trademark or intellectual property conflicts
+* dependency on blockchain networks and smart contract functionality
+* irreversible minting and ownership records
+
+The Company cannot mediate disputes or recover domain ownership.
+
 ## **6. Market, Price, and Liquidity Risks**
 
 The value of digital assets depends on third-party exchanges and user demand.\
@@ -113,6 +138,17 @@ ZNS Connect does **not** guarantee:
 * any specific market capitalization
 
 The market may fluctuate wildly or disappear entirely.
+
+There is no guarantee that any secondary market for $ZNS will exist or remain active.\
+The Company does not guarantee:
+
+* listing on centralized or decentralized exchanges
+* liquidity in any trading pair
+* ability to buy or sell $ZNS at any time
+* any specific market capitalization or trading volume
+* any future demand or adoption
+
+Token markets may experience extreme volatility, manipulation attempts, or complete disappearance.
 
 ***
 
@@ -173,6 +209,10 @@ The Company is **not responsible** for losses arising from:
 * failures by third-party providers
 
 These services operate independently of ZNS Connect.
+
+Failures, delays, bugs, hacks, configuration errors, or service interruptions from these third parties may impact domain resolution, token delivery, contract execution, or platform functionality.
+
+ALTBridge Labs S.A. is not responsible for the performance or failures of any third-party provider.
 
 ## **10. User Responsibilities**
 
