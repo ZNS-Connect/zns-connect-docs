@@ -44,6 +44,7 @@
 ## LEGAL
 
 * [Terms of Use](legal/terms-of-use.md)
+* [Disclaimers](legal/disclaimers.md)
 * [Privacy Policy](legal/privacy-policy.md)
 * [Tokenomics](legal/token.md)
 * [Audit by Solidproof](legal/znsconnect-audit-solidproof.md)
