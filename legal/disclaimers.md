@@ -202,9 +202,72 @@ By using ZNS Connect or participating in the token sale, you confirm:
 
 The Company cannot recover lost seed phrases, compromised wallets, wrong-address transfers, or irreversible blockchain transactions.
 
+## **11. Referral Program Disclaimer**
+
+ZNS Connect may offer referral programs, promotional codes, partner rewards, or on-chain referral links that allow users to earn bonuses by inviting others to participate in the Platform or the $ZNS token sale.\
+Participation in any referral program is subject to the following conditions:
+
+#### **No Fraud, Abuse, or Manipulation**
+
+Users must not engage in:
+
+* creating fake accounts or wallets
+* using bots or automated systems
+* self-referring or circular referrals
+* exploiting system vulnerabilities
+* collusion or coordinated manipulation
+* abusing promotional rewards
+
+ZNS Connect reserves the sole right to determine whether referral behavior violates these rules.
+
+#### **Reward Eligibility**
+
+Referral rewards are not guaranteed.\
+ZNS Connect may:
+
+* reject referrals
+* deny fraudulent or suspicious reward claims
+* adjust or revoke referral rewards
+* impose limits or verification requirements
+
+All referral rewards are discretionary and may depend on compliance checks, network activity, and program rules.
+
+#### **Program Modification or Termination**
+
+ZNS Connect may modify, suspend, or terminate any referral program or reward campaign at any time, with or without prior notice.\
+This includes changes to reward amounts, qualification criteria, tracking methods, and payout conditions.
+
+#### **Tax Responsibility**
+
+Participants are solely responsible for determining and reporting any tax obligations related to referral rewards, including income tax, capital gains, or other applicable taxes in their jurisdiction.
+
+#### **No Financial Guarantees**
+
+Referral rewards do not represent:
+
+* income
+* wages
+* investment returns
+* profit rights
+* guaranteed payouts
+
+Rewards are promotional benefits only and do not grant legal or financial rights against the Company.
+
+#### **Program Fairness and Enforcement**
+
+ZNS Connect reserves the right to:
+
+* disqualify participants
+* freeze or remove rewards
+* blacklist abusive wallets or addresses
+* require KYC/verification for suspicious activity
+* update rules at any time
+
+All decisions made by ZNS Connect regarding referral eligibility and rewards are final.
+
 ***
 
-## **11. No Warranties of Any Kind**
+## **12. No Warranties of Any Kind**
 
 ZNS Connect disclaims all warranties, express or implied, including:
 
@@ -217,7 +280,27 @@ ZNS Connect disclaims all warranties, express or implied, including:
 
 The platform is provided “AS IS” and “AS AVAILABLE”.
 
-## **12. Limitation of Liability**
+## **13. Modifications and Updates**
+
+ZNS Connect reserves the right to modify, update, or amend these Disclaimers, the Terms of Use, the Privacy Policy, the Token Sale Terms, or any other documentation at any time, at its sole discretion.
+
+Such modifications may include, without limitation:
+
+* changes to token sale structure, timelines, allocations, or eligibility rules
+* updates to referral program requirements
+* revisions to domain naming policies
+* changes in supported networks, integrations, or technical features
+* adjustments required by regulatory, legal, or compliance obligations
+* modifications to risk disclosures or user responsibilities
+
+Any updates become effective immediately upon publication on this website or within the ZNS Connect platform.
+
+Your continued use of the Services or participation in the $ZNS token sale after such updates constitutes acceptance of the modified terms.\
+If you do not agree with the updated Disclaimers or related policies, you must discontinue use of the Platform.
+
+ZNS Connect is not obligated to provide prior notice of changes, and is not responsible for any damages or losses resulting from modifications, amendments, or updates to its documentation, processes, or platform features.
+
+## **14. Limitation of Liability**
 
 To the maximum extent permitted by law:
 
