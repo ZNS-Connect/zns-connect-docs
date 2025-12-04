@@ -26,11 +26,6 @@ You should not acquire $ZNS tokens unless you are fully aware of the risks and c
 
 **All token sale transactions are final, non-refundable, and irreversible.**
 
-$ZNS tokens are utility tokens and do **not** represent securities, equity, debt, ownership, voting rights, profit rights, or any other financial instrument.\
-Holding $ZNS tokens does **not** entitle the holder to dividends, revenue share, governance participation (unless explicitly stated), or any ownership interest in ALTBridge Labs S.A. or its affiliates.
-
-Nothing in the token sale, website, social media, or documentation shall be interpreted as an offer of securities under any jurisdiction.
-
 ## **2. No Securities, No Equity, No Ownership Rights**
 
 $ZNS tokens are **not**:
@@ -68,8 +63,6 @@ Any references to:
 * token utility enhancements
 
 are **forward-looking statements** provided solely for informational purposes.
-
-They are **not commitments**, **not promises**, and **not obligations** of the Company.
 
 All roadmap items may be changed, postponed, or cancelled without notice.
 
@@ -127,17 +120,7 @@ The Company cannot mediate disputes or recover domain ownership.
 
 ## **6. Market, Price, and Liquidity Risks**
 
-The value of digital assets depends on third-party exchanges and user demand.\
-ZNS Connect does **not** guarantee:
-
-* token listing on any exchange
-* secondary market availability
-* liquidity in any market
-* price stability
-* the ability to sell tokens
-* any specific market capitalization
-
-The market may fluctuate wildly or disappear entirely.
+The value of digital assets depends on third-party exchanges and user demand.
 
 There is no guarantee that any secondary market for $ZNS will exist or remain active.\
 The Company does not guarantee:
@@ -199,14 +182,6 @@ ZNS Connect relies on:
 * storage systems
 * DNS resolvers
 * analytics services
-
-The Company is **not responsible** for losses arising from:
-
-* outages
-* bugs
-* hacks
-* service interruptions
-* failures by third-party providers
 
 These services operate independently of ZNS Connect.
 
