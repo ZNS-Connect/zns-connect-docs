@@ -17,10 +17,10 @@ coverY: 0
 💬 **Decentralized Messaging** between zns web3 profiles \
 🌍 **Portable Identity**: Use your ZNS name in dApps, wallets & games
 
+<figure><img src="../../.gitbook/assets/Screenshot 2026-01-19 at 12.12.42.png" alt=""><figcaption></figcaption></figure>
 
+Download on Android : [https://play.google.com/store/apps/details?id=com.zns.app](https://play.google.com/store/apps/details?id=com.zns.app)
 
-Download on IOS: link soon...
-
-Download on Android: link soon...
+Download on IOS: Q3 2026
 
 ***
