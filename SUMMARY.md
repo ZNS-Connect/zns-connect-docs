@@ -60,4 +60,4 @@
 * [Twitter](https://twitter.com/ZNSConnect)
 * [Discord](https://discord.gg/2rrkuqT8pB)
 * [Telegram](https://t.me/znsconnect)
-* [All Links](https://link3.to/znsconnect)
+* [All Links](https://linktr.ee/znsconnect)
