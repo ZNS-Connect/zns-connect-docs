@@ -343,3 +343,29 @@ We are not liable for any loss or damage arising from your inability to access t
 #### 19. Contact
 
 For any questions about these Terms, please contact:  privacy@znsconnect.io
+
+#### 20. NFT Minting, AI-genereted content, and smart contract deployment
+
+**20.1 AI NFT Studio**
+
+The ZNS Connect platform provides access to third-party AI image generation engines (including but not limited to Nano Banana Pro, Seedream 4.5, and FLUX.2 Pro) for the purpose of creating and minting NFTs. You acknowledge and agree that:
+
+* AI-generated outputs are produced by third-party machine learning systems over which ZNS Connect has no editorial control. ZNS Connect makes no representation as to the originality, uniqueness, copyright status, or quality of any AI-generated image;
+* You are solely responsible for ensuring that any prompt, image, or content you submit to the AI generation tools does not infringe any third-party intellectual property rights, does not constitute defamatory, obscene, illegal, or otherwise objectionable material, and complies with the terms of use of the underlying AI engine providers;
+* To the extent permitted by applicable law, any copyright or other intellectual property rights in AI-generated outputs may be unclear or non-existent. You assume all risks associated with using, minting, selling, or otherwise exploiting AI-generated content;
+* ZNS Connect is not responsible for, and expressly disclaims all liability arising from, any third-party claims alleging that AI-generated content you minted infringes any intellectual property or other legal rights;
+* ZNS Connect reserves the right to block, remove, or refuse to process any content that it determines, in its sole discretion, to violate applicable law, third-party rights, or platform policies, without incurring any liability to you.
+
+**20.2 User-Deployed Smart Contracts (ERC-20, ERC-721, Custom)**
+
+The ZNS Connect no-code smart contract deployer provides pre-built contract templates as a convenience tool. You acknowledge and agree that:
+
+* You are the sole deployer and operator of any smart contract you deploy through the platform. ZNS Connect is not a party to any smart contract you deploy and assumes no responsibility for its execution, security, or consequences;
+* Contract templates are provided 'AS IS' without warranty of fitness for a particular purpose, security, or legal compliance in your jurisdiction;
+* You are solely responsible for auditing any smart contract before deployment if use in a commercial or high-value context is intended;
+* ZNS Connect has no ability to modify, pause, upgrade, or destroy smart contracts deployed by you, and is not responsible for any losses resulting from smart contract bugs, exploits, or unforeseen behavior;
+* You are solely responsible for complying with any applicable law in your jurisdiction with respect to the deployment of tokens, NFTs, or other digital assets via smart contracts, including but not limited to securities law, consumer protection law, and AML/KYC requirements if you intend to distribute your deployed token or NFT to third parties.
+
+**20.3 NFT Minting — No Guarantee of Value or Secondary Market**
+
+Minting an NFT through the ZNS Connect platform does not guarantee that the NFT will have any market value, that it will be tradeable on any marketplace, or that it will be recognized or displayed correctly by all wallets, marketplaces, or platforms. NFTs are experimental digital assets and their value, if any, is entirely speculative.
