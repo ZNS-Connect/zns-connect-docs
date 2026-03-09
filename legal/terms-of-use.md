@@ -492,3 +492,29 @@ ZNS Connect reserves the right to modify, suspend, or discontinue any service or
 26.6 No Resale
 
 Gift Cards may not be resold, transferred for value, or used in any commercial promotion without ZNS Connect's prior written consent.
+
+#### 27. Mobile application - end user license Agreement
+
+27.1 License Grant
+
+Subject to your compliance with these Terms, ZNS Connect grants you a limited, non-exclusive, non-transferable, revocable license to download, install, and use the ZNS Connect mobile application ('App') on a device you own or control, solely for your personal, non-commercial use.
+
+27.2 App Store and Google Play Terms
+
+Your use of the App is also subject to the terms and conditions of the applicable app distribution platform (Apple App Store or Google Play). In the event of any conflict between these Terms and the applicable platform terms with respect to the App, the platform terms shall govern solely to the extent of such conflict. ALTBridge Labs S.A. is the licensor of the App; Apple Inc. and Google LLC are not parties to these Terms and bear no responsibility for the App or its content.
+
+27.3 Data Collection on Mobile
+
+The App collects certain data as described in our Privacy Policy, including wallet address, device identifiers, and usage analytics. By installing and using the App, you consent to such collection. The App does not access your device contacts, camera, microphone, or location unless you explicitly grant such permissions for a specific feature that requires it.
+
+27.4 App Updates
+
+ZNS Connect may issue updates to the App from time to time. Certain updates may be required to continue using the App. You agree to install updates in a timely manner. ZNS Connect is not responsible for any issues arising from your use of an outdated version of the App.
+
+27.5 No Third-Party Beneficiaries
+
+Apple Inc. and Google LLC are third-party beneficiaries of this Section 27 and may enforce it against you as a third-party beneficiary. No other person or entity is a third-party beneficiary of these Terms.
+
+27.6 Prohibited Uses on Mobile
+
+You may not: (a) modify, reverse engineer, or decompile the App; (b) use the App to mine cryptocurrency or run background processes not related to ZNS Connect features; (c) distribute or sublicense the App; or (d) use the App in violation of any applicable export control laws.
