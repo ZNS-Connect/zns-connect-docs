@@ -130,7 +130,6 @@ Our Services are **not intended for children** under the age of 16 (or the equiv
 
 ### CHANGES TO THIS PRIVACY POLICY
 
-We may update or modify this Privacy Policy from time to time to reflect changes in our business, legal obligations, or the features of our Services.&#x20;
+We may update or modify this Privacy Policy from time to time to reflect changes in our business, legal obligations, or the features of our Services&#x20;
 
 We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your information. Your continued use of the Services after any modifications to this Policy will constitute your acknowledgment of the changes and agreement to be bound by the updated Policy.
-
