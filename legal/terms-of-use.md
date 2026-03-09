@@ -414,3 +414,23 @@ ZNS Connect may implement geo-blocking, IP filtering, wallet screening, and othe
 | OFAC / Sanctions-Based                                                                                                                                                                                                                                                        | Regulatory / Legal Prohibition                                                                                                                                                             | High Regulatory Risk                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
 | <p>North Korea</p><p>Iran </p><p>Cuba</p><p>Syria</p><p>Russia </p><p>Belarus</p><p>Myanmar (Burma)</p><p>Sudan</p><p>South Sudan</p><p>Somalia</p><p>Libya</p><p>Yemen</p><p>Zimbabwe</p><p>Central African Republic</p><p>Democratic Republic of Congo</p><p>Venezuela </p> | <p>United States (US Persons)</p><p>United Kingdom</p><p>European Union </p><p>Canada </p><p>Afghanistan</p><p>Iraq </p><p>Pakistan </p><p>Ethiopia </p><p>Tanzania </p><p>Mozambique </p> | <p>China </p><p>Bangladesh</p><p>Bolivia</p><p>Ecuador</p><p>Nepal</p><p>Algeria </p><p>Morocco </p><p>Cambodia </p><p>Haiti </p> |
+
+#### 24. Blog, editorial content, and sponsored posts
+
+This article is for informational purposes only and does not constitute financial advice. Crypto activities involve significant risk. Always conduct your own research. ZNS Connect is not responsible for any loss arising from actions taken based on this content.
+
+24.1 Informational Purpose Only
+
+All content published on the ZNS Connect blog (zns.bio/blog) is provided for informational and educational purposes only. Nothing on the blog constitutes financial, investment, legal, or tax advice. All references to specific blockchain projects, protocols, airdrops, or tokens are for illustrative and educational purposes and do not constitute an endorsement, recommendation, or solicitation to buy, sell, or interact with any digital asset or protocol.
+
+24.2 Sponsored Content
+
+Certain blog posts may be paid placements or sponsored content, which will be identified with a 'Sponsored' label. The inclusion of sponsored content does not constitute an endorsement by ZNS Connect of the featured project, product, or service. ZNS Connect does not independently verify the accuracy of claims made in sponsored posts. The Company may receive compensation in cash, tokens, or other consideration in exchange for publishing sponsored content. Sponsored posts are provided AS IS and ZNS Connect accepts no liability for any loss arising from your interaction with any project featured in a sponsored post.
+
+24.3 No Responsibility for Outcomes
+
+ZNS Connect is not responsible for any financial loss, missed airdrop, failed transaction, or other adverse outcome arising from following guidance, strategies, or instructions contained in any blog post, whether editorial or sponsored. Crypto airdrop eligibility, task requirements, and reward amounts are determined solely by third-party projects and may change without notice. You are solely responsible for conducting your own due diligence.
+
+24.4 Accuracy and Updates
+
+Blog content reflects information available at the time of publication and may become outdated. ZNS Connect does not commit to updating blog posts to reflect subsequent changes to third-party protocols, airdrop criteria, or market conditions.
