@@ -515,6 +515,39 @@ Apple Inc. and Google LLC are third-party beneficiaries of this Section 27 and m
 
 You may not: (a) modify, reverse engineer, or decompile the App; (b) use the App to mine cryptocurrency or run background processes not related to ZNS Connect features; (c) distribute or sublicense the App; or (d) use the App in violation of any applicable export control laws.
 
-#### 27. Contact
+#### 27. DEVELOPER API, SDK, AND THIRD-PARTY INTEGRATION
+
+27.1 License to Use Developer Tools
+
+Subject to your compliance with these Terms, ZNS Connect grants you a limited, non-exclusive, non-transferable, revocable license to access and use the ZNS Connect API, SDK, Subgraph, and associated developer tools ('Developer Tools') solely for the purpose of building applications, integrations, or services that interoperate with the ZNS Connect platform. Any other use requires express prior written permission from ALTBridge Labs S.A.
+
+27.2 Prohibited Developer Uses
+
+You may not use the Developer Tools to:
+
+* Build, train, or operate any product or service that competes directly with ZNS Connect's core domain registration or Web3 identity services;
+* Scrape, harvest, or systematically extract ZNS domain data or user data for any purpose other than operating your specific integration;
+* Exceed reasonable API rate limits or otherwise place unreasonable load on ZNS infrastructure;
+* Resell, sublicense, or commercialize access to the Developer Tools themselves;
+* Circumvent any authentication, rate limiting, or access control mechanisms;
+* Use the Developer Tools for any application intended to deceive, defraud, or harm users.
+
+27.3 IP Ownership of API Data
+
+All data accessible through the ZNS Connect API that originates from ZNS Connect systems, databases, or infrastructure (including but not limited to domain registration records, pricing data, and platform analytics) remains the intellectual property of ALTBridge Labs S.A. or its licensors. Your use of such data is limited to the purposes described in Section 28.1. You may not represent API data as your own or remove attribution.
+
+27.4 No SLA or Uptime Guarantee
+
+The Developer Tools are provided 'AS IS' without any service level agreement or uptime guarantee. ZNS Connect may modify, deprecate, or discontinue any API endpoint, SDK version, or subgraph schema at any time with or without notice. You are responsible for monitoring our developer documentation for updates and adapting your integration accordingly. ZNS Connect is not liable for any loss or disruption arising from API changes.
+
+27.5 Liability for Integrations
+
+You are solely responsible for any application, product, or service you build using the Developer Tools. ZNS Connect is not responsible for your integration's functionality, security, or compliance with applicable law. You agree to indemnify and hold ZNS Connect harmless from any claims arising from your integration or your end users' use of your integration.
+
+27.6 Attribution
+
+Applications built using the ZNS Connect Developer Tools should include reasonable attribution to ZNS Connect where technically feasible, in accordance with the branding guidelines published on the ZNS Connect Brand Book.
+
+#### 28. Contact
 
 For any questions about these Terms, please contact:  privacy@znsconnect.io
