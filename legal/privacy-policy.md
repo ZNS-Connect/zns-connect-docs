@@ -2,6 +2,8 @@
 
 **Introduction:** ALTBridge Labs S.A. (“ALTBridge”, “Company”, “we”, or “u&#x73;**”**)**,** a Panamanian legal entity, is committed to protecting your privacy. This Privacy Policy describes how we collect, use, share, and protect personal data when you use ZNS Connect and related services, including our websites **zns.bio** and **znsconnect.io** (collectively, the “Services”). It also explains your rights regarding your personal data. By using our Services, you agree to the collection and use of information as described in this Policy. If you do not agree, please discontinue use of the Services.
 
+AI Generation Tools: When you use the AI NFT Studio, your text prompts and any images you upload are transmitted to third-party AI engine providers (currently including providers of Nano Banana Pro, Seedream 4.5, and FLUX.2 Pro engines). These providers process your data under their own privacy policies. We do not retain your prompts or uploaded images on our servers beyond what is required to generate and return results. You should not include personal data, sensitive information, or third-party confidential material in your AI prompts.
+
 ### **PERSONAL DATA WE COLLECT**
 
 We collect personal data (information that can identify you) in the following ways:
@@ -24,6 +26,8 @@ We collect personal data (information that can identify you) in the following wa
 
     All contributions take place on public blockchains.\
     We do **not** collect any banking information, credit card data, or fiat payment details.
+
+On-Chain Activity: When you use the 7-in-1 tool, GM station, smart contract deployer, or other on-chain activity features, we collect and may log: wallet addresses used, transaction hashes, networks interacted with, timestamps, streak data, and feature usage statistics. This data may be stored in our analytics systems to improve the platform and may be displayed publicly in platform leaderboards or activity feeds.
 
 ### HOW WE USE YOUR PERSONAL DATA
 
