@@ -369,3 +369,25 @@ The ZNS Connect no-code smart contract deployer provides pre-built contract temp
 **20.3 NFT Minting — No Guarantee of Value or Secondary Market**
 
 Minting an NFT through the ZNS Connect platform does not guarantee that the NFT will have any market value, that it will be tradeable on any marketplace, or that it will be recognized or displayed correctly by all wallets, marketplaces, or platforms. NFTs are experimental digital assets and their value, if any, is entirely speculative.
+
+#### 21. On-chain activity tools - 7 in 1, GM/GN, Daily streak.&#x20;
+
+The platform provides tools that execute on-chain transactions on your behalf, including sending GM/GN messages, deploying tokens and counters, minting NFTs, transferring assets, and performing other blockchain interactions (collectively 'Activity Tools'). You acknowledge and agree that:
+
+* All transactions initiated through Activity Tools are executed using your wallet and at your own expense. You are solely responsible for all associated gas fees, network fees, and any other costs incurred;
+* The platform does not guarantee that use of any Activity Tool will result in any airdrop eligibility, token reward, protocol recognition, or other benefit. Any information about potential airdrop criteria is provided for informational purposes only and is not a guarantee or promise;
+* ZNS Connect is not responsible for failed transactions, network congestion, incorrect gas estimates, or any on-chain errors arising from your use of Activity Tools;
+* You are solely responsible for ensuring that your use of Activity Tools complies with the terms of service of any third-party blockchain network, protocol, or application with which you interact;
+* Daily streak features are provided as a convenience and ZNS Connect does not guarantee their continued availability. Interruption of streak features shall not give rise to any liability on the part of ZNS Connect.
+
+#### 22. Airdrop hub and third-party project listings
+
+The ZNS Connect Airdrop Hub is an informational aggregator that displays publicly available information about third-party blockchain projects, token distributions, and airdrop campaigns. You acknowledge and agree that:
+
+* ZNS Connect does not operate, endorse, or take any responsibility for any third-party airdrop, project, or campaign listed on the platform. All listings are provided for informational and educational purposes only;
+* ZNS Connect does not verify the legitimacy, security, or accuracy of any listed project. You are solely responsible for conducting your own due diligence before interacting with any third-party project;
+* Participation in any listed airdrop or project may involve significant financial risk, including total loss of funds. ZNS Connect is not responsible for any loss or damage arising from your participation in any third-party project;
+* Some listed projects may be associated with high-risk activities including, but not limited to, decentralized gambling, prediction markets, or speculative DeFi protocols. ZNS Connect expressly disclaims all responsibility for such third-party activities;
+* ZNS Connect may receive compensation or other consideration from third-party projects in exchange for listing or featuring their airdrops. Such arrangements do not constitute an endorsement;
+* Airdrop eligibility criteria, reward amounts, and timelines are determined solely by the respective third-party projects and are subject to change without notice. ZNS Connect makes no guarantee regarding any specific airdrop outcome.
+
