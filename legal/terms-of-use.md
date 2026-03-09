@@ -434,3 +434,61 @@ ZNS Connect is not responsible for any financial loss, missed airdrop, failed tr
 24.4 Accuracy and Updates
 
 Blog content reflects information available at the time of publication and may become outdated. ZNS Connect does not commit to updating blog posts to reflect subsequent changes to third-party protocols, airdrop criteria, or market conditions.
+
+#### 25. REFERRAL PROGRAM
+
+25.1 Program Description
+
+ZNS Connect may offer a referral program (the 'Referral Program') that allows eligible users to earn rewards, discounts, or token allocations by inviting new users to the platform. The specific terms, reward structures, eligibility criteria, and duration of the Referral Program are set out in the dedicated Referral Program documentation and may be modified at any time at ZNS Connect's sole discretion.
+
+25.2 Nature of Referral Rewards
+
+Referral rewards, if any, are provided solely as an incentive for introducing new genuine users to the platform and are not compensation for services rendered, profit distributions, or guaranteed income of any kind. The Referral Program does not constitute a multilevel marketing scheme, pyramid scheme, or investment opportunity. You should not expect to earn income from the Referral Program or make financial decisions based on potential referral rewards.
+
+25.3 Prohibited Conduct
+
+The following conduct is strictly prohibited and will result in immediate disqualification, forfeiture of all pending rewards, and potential account termination:
+
+* Self-referrals (referring yourself using alternate accounts or wallets);
+* Using automated bots, scripts, or other technical means to generate referrals;
+* Creating fake or fraudulent accounts for the purpose of earning referral rewards;
+* Misrepresenting the platform, its features, or any rewards to potential referees;
+* Participating in any coordinated scheme to artificially inflate referral counts.
+
+25.4 Reward Conditions
+
+Referral rewards are subject to the referred user completing all required onboarding actions, verifying eligibility, and not violating these Terms. ZNS Connect reserves the right to withhold, cancel, or claw back referral rewards if it determines, in its sole discretion, that any referral was obtained through prohibited means or that the referred user's account was terminated for violations.
+
+25.5 Tax Responsibility
+
+You are solely responsible for determining, reporting, and paying any taxes applicable to referral rewards you receive. ZNS Connect does not provide tax advice and makes no representations regarding the tax treatment of referral rewards in your jurisdiction.
+
+25.6 No Guarantee
+
+ZNS Connect does not guarantee the continued availability of the Referral Program and may suspend, modify, or terminate it at any time without prior notice and without any liability to participants.
+
+#### 26. GIFT CARDS
+
+26.1 Nature of Gift Cards
+
+ZNS Connect gift cards ('Gift Cards') are prepaid credits that may be redeemed for eligible ZNS Connect services, including domain registrations, renewals, or other platform features as specified at the time of issue. Gift Cards are not cash equivalents, cannot be exchanged for fiat currency or cryptocurrency, and do not bear interest.
+
+26.2 Non-Refundable
+
+All Gift Card purchases are final and non-refundable. ZNS Connect does not offer refunds on Gift Cards except where required by mandatory applicable law.
+
+26.3 Validity and Expiry
+
+Gift Cards are valid for the period stated at the time of purchase or issuance. Unused balances remaining after the expiry date will be forfeited. ZNS Connect is under no obligation to extend Gift Card validity.
+
+26.4 Lost, Stolen, or Compromised Codes
+
+You are responsible for safeguarding your Gift Card code. ZNS Connect is not responsible for any loss resulting from unauthorized use, loss, or theft of a Gift Card code. Gift Card codes are treated as bearer instruments — whoever holds the code may redeem it.
+
+26.5 Service Changes
+
+ZNS Connect reserves the right to modify, suspend, or discontinue any service or feature for which a Gift Card may be redeemed. In the event a specific service is discontinued, ZNS Connect will use reasonable efforts to provide an equivalent redemption option, but makes no guarantee of specific substitution.
+
+26.6 No Resale
+
+Gift Cards may not be resold, transferred for value, or used in any commercial promotion without ZNS Connect's prior written consent.
