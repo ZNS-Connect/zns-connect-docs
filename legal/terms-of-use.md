@@ -515,6 +515,6 @@ Apple Inc. and Google LLC are third-party beneficiaries of this Section 27 and m
 
 You may not: (a) modify, reverse engineer, or decompile the App; (b) use the App to mine cryptocurrency or run background processes not related to ZNS Connect features; (c) distribute or sublicense the App; or (d) use the App in violation of any applicable export control laws.
 
-#### 19. Contact
+#### 27. Contact
 
 For any questions about these Terms, please contact:  privacy@znsconnect.io
