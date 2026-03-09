@@ -83,6 +83,12 @@ You agree not to:
 
 We reserve the right to suspend or permanently block any user who violates these terms or misuses the Site in any way.
 
+In addition to the risks identified above, you acknowledge the following specific risks associated with platform features:
+
+* Gas Fee Risk: All on-chain transactions executed through the platform, including through the 7-in-1 tool, GM station, NFT minting, smart contract deployment, and domain registration, require payment of network gas fees. These fees are non-refundable, are paid directly by your wallet, and may fluctuate significantly. ZNS Connect has no control over gas prices and accepts no responsibility for failed transactions or gas costs;
+* Smart Contract Risk: Smart contracts deployed or interacted with through the platform may contain bugs, vulnerabilities, or be subject to exploits. ZNS Connect does not audit user-deployed contracts and accepts no liability for losses arising therefrom;
+* AI Output Risk: AI-generated images and content may produce unexpected, inaccurate, or inappropriate results. ZNS Connect is not responsible for the quality, accuracy, or legal status of AI-generated outputs.
+
 #### 4. No Financial Advice or Offerings
 
 **4.1 No Financial or Investment Advice**\
