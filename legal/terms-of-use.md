@@ -397,3 +397,16 @@ The ZNS Connect Airdrop Hub is an informational aggregator that displays publicl
 * ZNS Connect may receive compensation or other consideration from third-party projects in exchange for listing or featuring their airdrops. Such arrangements do not constitute an endorsement;
 * Airdrop eligibility criteria, reward amounts, and timelines are determined solely by the respective third-party projects and are subject to change without notice. ZNS Connect makes no guarantee regarding any specific airdrop outcome.
 
+#### 23. Restricted jurisdictions
+
+**23.1 Scope of Restriction**
+
+The Services are not available to, and may not be accessed or used by, any person or entity located in, resident of, incorporated in, or a national or citizen of any Restricted Jurisdiction as defined in this Section and Exhibit A to these Terms. Access from Restricted Jurisdictions is prohibited.
+
+**23.2 User Representation**
+
+By accessing or using the Services, you represent and warrant that you are not located in, resident of, incorporated in, or a citizen or national of any Restricted Jurisdiction. If your status changes such that you become a resident, citizen, or are otherwise located in a Restricted Jurisdiction, you must immediately cease using the Services.
+
+23.3 Technical Restrictions
+
+ZNS Connect may implement geo-blocking, IP filtering, wallet screening, and other technical measures to prevent access from Restricted Jurisdictions. Circumventing such measures using VPNs, proxies, or other means is strictly prohibited and constitutes a material breach of these Terms.
