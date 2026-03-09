@@ -29,6 +29,8 @@ We collect personal data (information that can identify you) in the following wa
 
 On-Chain Activity: When you use the 7-in-1 tool, GM station, smart contract deployer, or other on-chain activity features, we collect and may log: wallet addresses used, transaction hashes, networks interacted with, timestamps, streak data, and feature usage statistics. This data may be stored in our analytics systems to improve the platform and may be displayed publicly in platform leaderboards or activity feeds.
 
+Email Newsletter Subscription: If you subscribe to the ZNS Connect newsletter via the subscription form on our website, we collect your email address for the purpose of sending you updates, product news, airdrop guides, and promotional communications. Subscription is voluntary and based on your affirmative opt-in consent. We use a third-party email delivery service to send newsletter communications (the identity and privacy policy of our current email provider is available upon request). We do not sell or share your email address with third parties for their own marketing purposes.
+
 ### HOW WE USE YOUR PERSONAL DATA
 
 We use the collected personal data for the following purposes:
@@ -41,6 +43,8 @@ We use the collected personal data for the following purposes:
 * Legal Compliance: To comply with applicable legal obligations and regulatory requirements. For instance, we may use or preserve certain data to fulfill record-keeping obligations, enforce our Terms of Use, or handle any disputes.
 * Other Operational Purposes: We may use data for internal purposes such as auditing, data analysis, testing, and research to maintain and improve service quality.&#x20;
 * We do not request or store passports, government IDs, proof of address, or any other KYC documents unless such verification becomes legally required for participation in the $ZNS token sale or is required by a third-party launchpad or exchange.
+* Email Marketing and Unsubscribe: We send marketing emails only to users who have explicitly subscribed. Every marketing email we send includes an unsubscribe link. You can withdraw your consent at any time by: (a) clicking the 'Unsubscribe' link in any of our emails, or (b) emailing info@znsconnect.io with the subject line 'Unsubscribe'. Upon receiving an unsubscribe request, we will remove your email from our marketing list within 10 business days. Please note that even if you unsubscribe from marketing emails, we may still send you transactional emails (such as confirmation of domain registration or security notices) where required.
+* CAN-SPAM Compliance: Our email communications comply with the U.S. CAN-SPAM Act. Each email identifies the sender, includes our physical address (ALTBridge Labs S.A., Panama), does not use deceptive subject lines, and includes a clear opt-out mechanism.
 
 ### COOKIES AND TRACKING TECHNOLOGIES
 
