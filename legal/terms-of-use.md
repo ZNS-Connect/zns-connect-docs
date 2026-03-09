@@ -346,13 +346,9 @@ Upon termination:
 
 We are not liable for any loss or damage arising from your inability to access the Site after termination.
 
-#### 19. Contact
+#### 19. NFT Minting, AI-genereted content, and smart contract deployment
 
-For any questions about these Terms, please contact:  privacy@znsconnect.io
-
-#### 20. NFT Minting, AI-genereted content, and smart contract deployment
-
-**20.1 AI NFT Studio**
+**19.1 AI NFT Studio**
 
 The ZNS Connect platform provides access to third-party AI image generation engines (including but not limited to Nano Banana Pro, Seedream 4.5, and FLUX.2 Pro) for the purpose of creating and minting NFTs. You acknowledge and agree that:
 
@@ -362,7 +358,7 @@ The ZNS Connect platform provides access to third-party AI image generation engi
 * ZNS Connect is not responsible for, and expressly disclaims all liability arising from, any third-party claims alleging that AI-generated content you minted infringes any intellectual property or other legal rights;
 * ZNS Connect reserves the right to block, remove, or refuse to process any content that it determines, in its sole discretion, to violate applicable law, third-party rights, or platform policies, without incurring any liability to you.
 
-**20.2 User-Deployed Smart Contracts (ERC-20, ERC-721, Custom)**
+**19.2 User-Deployed Smart Contracts (ERC-20, ERC-721, Custom)**
 
 The ZNS Connect no-code smart contract deployer provides pre-built contract templates as a convenience tool. You acknowledge and agree that:
 
@@ -372,11 +368,11 @@ The ZNS Connect no-code smart contract deployer provides pre-built contract temp
 * ZNS Connect has no ability to modify, pause, upgrade, or destroy smart contracts deployed by you, and is not responsible for any losses resulting from smart contract bugs, exploits, or unforeseen behavior;
 * You are solely responsible for complying with any applicable law in your jurisdiction with respect to the deployment of tokens, NFTs, or other digital assets via smart contracts, including but not limited to securities law, consumer protection law, and AML/KYC requirements if you intend to distribute your deployed token or NFT to third parties.
 
-**20.3 NFT Minting — No Guarantee of Value or Secondary Market**
+**19.3 NFT Minting — No Guarantee of Value or Secondary Market**
 
 Minting an NFT through the ZNS Connect platform does not guarantee that the NFT will have any market value, that it will be tradeable on any marketplace, or that it will be recognized or displayed correctly by all wallets, marketplaces, or platforms. NFTs are experimental digital assets and their value, if any, is entirely speculative.
 
-#### 21. On-chain activity tools - 7 in 1, GM/GN, Daily streak.&#x20;
+#### 20. On-chain activity tools - 7 in 1, GM/GN, Daily streak.&#x20;
 
 The platform provides tools that execute on-chain transactions on your behalf, including sending GM/GN messages, deploying tokens and counters, minting NFTs, transferring assets, and performing other blockchain interactions (collectively 'Activity Tools'). You acknowledge and agree that:
 
@@ -386,7 +382,7 @@ The platform provides tools that execute on-chain transactions on your behalf, i
 * You are solely responsible for ensuring that your use of Activity Tools complies with the terms of service of any third-party blockchain network, protocol, or application with which you interact;
 * Daily streak features are provided as a convenience and ZNS Connect does not guarantee their continued availability. Interruption of streak features shall not give rise to any liability on the part of ZNS Connect.
 
-#### 22. Airdrop hub and third-party project listings
+#### 21. Airdrop hub and third-party project listings
 
 The ZNS Connect Airdrop Hub is an informational aggregator that displays publicly available information about third-party blockchain projects, token distributions, and airdrop campaigns. You acknowledge and agree that:
 
@@ -397,17 +393,17 @@ The ZNS Connect Airdrop Hub is an informational aggregator that displays publicl
 * ZNS Connect may receive compensation or other consideration from third-party projects in exchange for listing or featuring their airdrops. Such arrangements do not constitute an endorsement;
 * Airdrop eligibility criteria, reward amounts, and timelines are determined solely by the respective third-party projects and are subject to change without notice. ZNS Connect makes no guarantee regarding any specific airdrop outcome.
 
-#### 23. Restricted jurisdictions
+#### 22. Restricted jurisdictions
 
-**23.1 Scope of Restriction**
+**22.1 Scope of Restriction**
 
 The Services are not available to, and may not be accessed or used by, any person or entity located in, resident of, incorporated in, or a national or citizen of any Restricted Jurisdiction as defined in this Section and Exhibit A to these Terms. Access from Restricted Jurisdictions is prohibited.
 
-**23.2 User Representation**
+**22.2 User Representation**
 
 By accessing or using the Services, you represent and warrant that you are not located in, resident of, incorporated in, or a citizen or national of any Restricted Jurisdiction. If your status changes such that you become a resident, citizen, or are otherwise located in a Restricted Jurisdiction, you must immediately cease using the Services.
 
-23.3 Technical Restrictions
+22.3 Technical Restrictions
 
 ZNS Connect may implement geo-blocking, IP filtering, wallet screening, and other technical measures to prevent access from Restricted Jurisdictions. Circumventing such measures using VPNs, proxies, or other means is strictly prohibited and constitutes a material breach of these Terms.
 
@@ -415,37 +411,37 @@ ZNS Connect may implement geo-blocking, IP filtering, wallet screening, and othe
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
 | <p>North Korea</p><p>Iran </p><p>Cuba</p><p>Syria</p><p>Russia </p><p>Belarus</p><p>Myanmar (Burma)</p><p>Sudan</p><p>South Sudan</p><p>Somalia</p><p>Libya</p><p>Yemen</p><p>Zimbabwe</p><p>Central African Republic</p><p>Democratic Republic of Congo</p><p>Venezuela </p> | <p>United States (US Persons)</p><p>United Kingdom</p><p>European Union </p><p>Canada </p><p>Afghanistan</p><p>Iraq </p><p>Pakistan </p><p>Ethiopia </p><p>Tanzania </p><p>Mozambique </p> | <p>China </p><p>Bangladesh</p><p>Bolivia</p><p>Ecuador</p><p>Nepal</p><p>Algeria </p><p>Morocco </p><p>Cambodia </p><p>Haiti </p> |
 
-#### 24. Blog, editorial content, and sponsored posts
+#### 23. Blog, editorial content, and sponsored posts
 
 This article is for informational purposes only and does not constitute financial advice. Crypto activities involve significant risk. Always conduct your own research. ZNS Connect is not responsible for any loss arising from actions taken based on this content.
 
-24.1 Informational Purpose Only
+23.1 Informational Purpose Only
 
 All content published on the ZNS Connect blog (zns.bio/blog) is provided for informational and educational purposes only. Nothing on the blog constitutes financial, investment, legal, or tax advice. All references to specific blockchain projects, protocols, airdrops, or tokens are for illustrative and educational purposes and do not constitute an endorsement, recommendation, or solicitation to buy, sell, or interact with any digital asset or protocol.
 
-24.2 Sponsored Content
+**23.2 Sponsored Content**
 
 Certain blog posts may be paid placements or sponsored content, which will be identified with a 'Sponsored' label. The inclusion of sponsored content does not constitute an endorsement by ZNS Connect of the featured project, product, or service. ZNS Connect does not independently verify the accuracy of claims made in sponsored posts. The Company may receive compensation in cash, tokens, or other consideration in exchange for publishing sponsored content. Sponsored posts are provided AS IS and ZNS Connect accepts no liability for any loss arising from your interaction with any project featured in a sponsored post.
 
-24.3 No Responsibility for Outcomes
+23.3 No Responsibility for Outcomes
 
 ZNS Connect is not responsible for any financial loss, missed airdrop, failed transaction, or other adverse outcome arising from following guidance, strategies, or instructions contained in any blog post, whether editorial or sponsored. Crypto airdrop eligibility, task requirements, and reward amounts are determined solely by third-party projects and may change without notice. You are solely responsible for conducting your own due diligence.
 
-24.4 Accuracy and Updates
+23.4 Accuracy and Updates
 
 Blog content reflects information available at the time of publication and may become outdated. ZNS Connect does not commit to updating blog posts to reflect subsequent changes to third-party protocols, airdrop criteria, or market conditions.
 
-#### 25. REFERRAL PROGRAM
+#### 24. REFERRAL PROGRAM
 
-25.1 Program Description
+24.1 Program Description
 
 ZNS Connect may offer a referral program (the 'Referral Program') that allows eligible users to earn rewards, discounts, or token allocations by inviting new users to the platform. The specific terms, reward structures, eligibility criteria, and duration of the Referral Program are set out in the dedicated Referral Program documentation and may be modified at any time at ZNS Connect's sole discretion.
 
-25.2 Nature of Referral Rewards
+24.2 Nature of Referral Rewards
 
 Referral rewards, if any, are provided solely as an incentive for introducing new genuine users to the platform and are not compensation for services rendered, profit distributions, or guaranteed income of any kind. The Referral Program does not constitute a multilevel marketing scheme, pyramid scheme, or investment opportunity. You should not expect to earn income from the Referral Program or make financial decisions based on potential referral rewards.
 
-25.3 Prohibited Conduct
+24.3 Prohibited Conduct
 
 The following conduct is strictly prohibited and will result in immediate disqualification, forfeiture of all pending rewards, and potential account termination:
 
@@ -455,66 +451,70 @@ The following conduct is strictly prohibited and will result in immediate disqua
 * Misrepresenting the platform, its features, or any rewards to potential referees;
 * Participating in any coordinated scheme to artificially inflate referral counts.
 
-25.4 Reward Conditions
+24.4 Reward Conditions
 
 Referral rewards are subject to the referred user completing all required onboarding actions, verifying eligibility, and not violating these Terms. ZNS Connect reserves the right to withhold, cancel, or claw back referral rewards if it determines, in its sole discretion, that any referral was obtained through prohibited means or that the referred user's account was terminated for violations.
 
-25.5 Tax Responsibility
+24.5 Tax Responsibility
 
 You are solely responsible for determining, reporting, and paying any taxes applicable to referral rewards you receive. ZNS Connect does not provide tax advice and makes no representations regarding the tax treatment of referral rewards in your jurisdiction.
 
-25.6 No Guarantee
+24.6 No Guarantee
 
 ZNS Connect does not guarantee the continued availability of the Referral Program and may suspend, modify, or terminate it at any time without prior notice and without any liability to participants.
 
-#### 26. GIFT CARDS
+#### 25. GIFT CARDS
 
-26.1 Nature of Gift Cards
+25.1 Nature of Gift Cards
 
 ZNS Connect gift cards ('Gift Cards') are prepaid credits that may be redeemed for eligible ZNS Connect services, including domain registrations, renewals, or other platform features as specified at the time of issue. Gift Cards are not cash equivalents, cannot be exchanged for fiat currency or cryptocurrency, and do not bear interest.
 
-26.2 Non-Refundable
+25.2 Non-Refundable
 
 All Gift Card purchases are final and non-refundable. ZNS Connect does not offer refunds on Gift Cards except where required by mandatory applicable law.
 
-26.3 Validity and Expiry
+25.3 Validity and Expiry
 
 Gift Cards are valid for the period stated at the time of purchase or issuance. Unused balances remaining after the expiry date will be forfeited. ZNS Connect is under no obligation to extend Gift Card validity.
 
-26.4 Lost, Stolen, or Compromised Codes
+25.4 Lost, Stolen, or Compromised Codes
 
 You are responsible for safeguarding your Gift Card code. ZNS Connect is not responsible for any loss resulting from unauthorized use, loss, or theft of a Gift Card code. Gift Card codes are treated as bearer instruments — whoever holds the code may redeem it.
 
-26.5 Service Changes
+25.5 Service Changes
 
 ZNS Connect reserves the right to modify, suspend, or discontinue any service or feature for which a Gift Card may be redeemed. In the event a specific service is discontinued, ZNS Connect will use reasonable efforts to provide an equivalent redemption option, but makes no guarantee of specific substitution.
 
-26.6 No Resale
+25.6 No Resale
 
 Gift Cards may not be resold, transferred for value, or used in any commercial promotion without ZNS Connect's prior written consent.
 
-#### 27. Mobile application - end user license Agreement
+#### 26. Mobile application - end user license Agreement
 
-27.1 License Grant
+26.1 License Grant
 
 Subject to your compliance with these Terms, ZNS Connect grants you a limited, non-exclusive, non-transferable, revocable license to download, install, and use the ZNS Connect mobile application ('App') on a device you own or control, solely for your personal, non-commercial use.
 
-27.2 App Store and Google Play Terms
+26.2 App Store and Google Play Terms
 
 Your use of the App is also subject to the terms and conditions of the applicable app distribution platform (Apple App Store or Google Play). In the event of any conflict between these Terms and the applicable platform terms with respect to the App, the platform terms shall govern solely to the extent of such conflict. ALTBridge Labs S.A. is the licensor of the App; Apple Inc. and Google LLC are not parties to these Terms and bear no responsibility for the App or its content.
 
-27.3 Data Collection on Mobile
+26.3 Data Collection on Mobile
 
 The App collects certain data as described in our Privacy Policy, including wallet address, device identifiers, and usage analytics. By installing and using the App, you consent to such collection. The App does not access your device contacts, camera, microphone, or location unless you explicitly grant such permissions for a specific feature that requires it.
 
-27.4 App Updates
+26.4 App Updates
 
 ZNS Connect may issue updates to the App from time to time. Certain updates may be required to continue using the App. You agree to install updates in a timely manner. ZNS Connect is not responsible for any issues arising from your use of an outdated version of the App.
 
-27.5 No Third-Party Beneficiaries
+26.5 No Third-Party Beneficiaries
 
 Apple Inc. and Google LLC are third-party beneficiaries of this Section 27 and may enforce it against you as a third-party beneficiary. No other person or entity is a third-party beneficiary of these Terms.
 
-27.6 Prohibited Uses on Mobile
+26.6 Prohibited Uses on Mobile
 
 You may not: (a) modify, reverse engineer, or decompile the App; (b) use the App to mine cryptocurrency or run background processes not related to ZNS Connect features; (c) distribute or sublicense the App; or (d) use the App in violation of any applicable export control laws.
+
+#### 19. Contact
+
+For any questions about these Terms, please contact:  privacy@znsconnect.io
