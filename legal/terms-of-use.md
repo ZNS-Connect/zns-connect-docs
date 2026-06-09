@@ -370,7 +370,7 @@ Upon termination:
 
 We are not liable for any loss or damage arising from your inability to access the Site after termination.
 
-#### 19. NFT Minting, AI-genereted content, and smart contract deployment
+#### 19. NFT Minting, AI-generated content, and smart contract deployment
 
 **19.1 AI NFT Studio**
 
@@ -618,7 +618,7 @@ By creating a token through the Launchpad, you represent and warrant that:&#x20;
 
 * you have all necessary rights to any name, ticker, image, and intellectual property associated with the token;&#x20;
 * the token and any related marketing, statements, or materials are accurate and not false or misleading;&#x20;
-* the token does not infringe any third-party right and does not violate any applicable law in any relevant jurisdiction, including securities, consumer-protection, and AML laws; and (
+* the token does not infringe any third-party right and does not violate any applicable law in any relevant jurisdiction, including securities, consumer-protection, and AML laws; and
 * you are solely responsible for the token, its distribution, and all consequences of its launch.&#x20;
 
 The Launchpad is permissionless and the Company does not endorse or assume responsibility for any token you create.
@@ -636,6 +636,19 @@ Any price chart, market-cap figure, percentage change, profit-and-loss display, 
 You are solely responsible for determining, reporting, and paying any taxes arising from\
 any creator fees, referral rewards, liquidity-pool fees, or other amounts you earn through\
 the Launchpad. The Company does not withhold taxes and does not provide tax advice.
+
+**30.10 AI Token Studio and AI-Generated Content**
+
+The Launchpad provides optional access to artificial-intelligence tools (the "AI Token Studio") that generate token names, tickers, descriptions, marketing copy, images, logos, audio, and video ("AI Output"). These tools are powered by third-party AI models, including models operated by OpenAI, Anthropic, xAI, Higgsfield, Kling, and others, and may change or become unavailable at any time. You acknowledge and agree that:
+
+* the Company does not create, author, control, verify, or endorse any AI Output and acts solely as an interface to these third-party models;
+* all AI Output is provided "as is" and "as available," with no representation or warranty as to accuracy, originality, uniqueness, non-infringement, lawfulness, or fitness for any purpose, and identical or similar AI Output may be generated for other users;
+* any AI Output, including any token name, ticker, description, or marketing copy, is your content, generated at your direction, and is not a statement, recommendation, endorsement, or financial advice by the Company;
+* you are solely responsible for reviewing, editing, and verifying any AI Output before using it, and for ensuring that your use of AI Output does not infringe any third party's intellectual-property, publicity, or other rights and complies with all applicable laws, including laws governing advertising and the disclosure of AI-generated content;
+* the Company makes no representation that you own, or can register, protect, or enforce any rights in, any AI Output, and you acknowledge that AI Output generated without sufficient human authorship may not be eligible for copyright or other protection in many jurisdictions;
+* you must not use the AI Token Studio to generate content that depicts any identifiable real person without that person's consent, or that is defamatory, obscene, deceptive, or otherwise unlawful;
+* your use of AI Output may be subject to the terms and usage policies of the relevant third-party AI provider, and the Company is not liable for the availability, performance, modification, or discontinuation of any third-party AI model; and
+* the Company has the right, but not the obligation, to monitor, filter, restrict, refuse to generate, or remove any AI Output, and any exercise or non-exercise of this right creates no duty to you or any third party and is not approval or endorsement.
 
 #### 31. General Provisions
 
