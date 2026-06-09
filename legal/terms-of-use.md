@@ -278,6 +278,9 @@ ZNS Connect interacts with multiple third-party blockchain networks, RPC provide
 
 You use all third-party services at your own risk.
 
+THIRD-PARTY WALLETS\
+Any wallet you use to access the Site is provided by a third-party wallet provider that is not affiliated with, owned, or controlled by the Company. Your use of any wallet is governed solely by the terms and privacy policy of that provider. The Company has no access to or control over your wallet or private keys and shall not be liable for any loss or damage arising from the operation, features, failure, or compromise of any third-party wallet.
+
 ***
 
 #### 13. Limitation of Liability
@@ -291,6 +294,19 @@ Access to and use of the Site is at your own discretion and risk, and you will b
 To the maximum extent permitted by applicable law, notwithstanding anything to the contrary contained herein, our total liability to you for any damages arising from or related to these Terms or your use of the Site will at all times be limited to fifty U.S. dollars (USD $50). The existence of more than one claim will not enlarge this limit.
 
 You agree that our third-party service providers and suppliers shall have no liability of any kind arising from or relating to this agreement.
+
+FORCE MAJEURE\
+The Company shall not be liable for any delay, failure in performance, or interruption of\
+service resulting directly or indirectly from any cause beyond its reasonable control,\
+including acts of God, war, terrorism, civil disturbance, labour disputes, fire, pandemic,\
+governmental or regulatory action, failures or congestion of telecommunications, internet,\
+node, RPC, or blockchain networks, hard forks, chain reorganizations, or failures of\
+equipment or software. Such events shall not affect the validity of the remaining Terms.
+
+CONTRACTUAL LIMITATION PERIOD\
+To the maximum extent permitted by applicable law, any claim or cause of action arising out\
+of or relating to these Terms or your use of the Site or the Launchpad must be commenced\
+within one (1) year after the cause of action arose; otherwise it is permanently barred.
 
 ***
 
