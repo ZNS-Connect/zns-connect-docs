@@ -581,29 +581,33 @@ Privacy Policy by either&#x20;
 
 BY CONNECTING A WALLET, OR BY CHECKING AN "I AGREE" BOX OR SIGNING A WALLET MESSAGE WHERE PRESENTED, YOU CONFIRM THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS, AND THAT YOU MEET ALL ELIGIBILITY AND JURISDICTION REQUIREMENTS, INCLUDING THAT YOU ARE NOT A RESTRICTED PERSON. If you do not agree, you must not connect a wallet to or otherwise use the Site.
 
-#### 29. Token launchpad and trading interface&#x20;
+#### 29. Consent to Electronic Disclosures and Signatures
 
-**29.1 Interface Only**&#x20;
+Because the Company operates online, you consent to transact with us electronically and to receive all agreements, notices, disclosures, and communications electronically through the Site or via any email address you provide. You agree that connecting your wallet, checking an "I agree" box, or signing a wallet message constitutes your electronic signature and has the same legal effect as a handwritten signature. You may withdraw this consent by ceasing to use the Site; however, you will not be able to use the Site without it.
+
+#### 30. Token launchpad and trading interface&#x20;
+
+**30.1 Interface Only**&#x20;
 
 Not an Exchange, Broker, or Custodian ZNS Launchpad is a non-custodial visual interface that allows users to create tokens and to interact with autonomous, third-party smart contracts (including Uniswap V4 liquidity pools) deployed on public blockchain networks. IN NO CIRCUMSTANCES SHALL ALTBridge Labs S.A., the Site, or the Launchpad BE CONSTRUED AS A DIGITAL ASSET EXCHANGE, BROKER, DEALER, MONEY SERVICES BUSINESS, MARKET MAKER, FUND MANAGER, FINANCIAL INSTITUTION, CUSTODIAN, INTERMEDIARY, ADVISOR, OR COUNTERPARTY TO ANY TRANSACTION. All swaps and trades occur peer-to-contract on the relevant blockchain network. The Company is not a party to any transaction between users, holds no user assets in custody, and does not initiate, control, or guarantee any trade. The Company does not provide any order matching, settlement, clearing, or financial advisory service.
 
-**29.2 No Recommendation of User-Generated Tokens**&#x20;
+**30.2 No Recommendation of User-Generated Tokens**&#x20;
 
 All tokens available through the Launchpad are user-generated and permissionless. The Company does not review, verify, endorse, approve, or recommend any user-generated token under any circumstances and does not recommend that any token be bought, sold, or held by you. You are solely responsible for determining whether any token is appropriate for you based on your own objectives, financial circumstances, and risk tolerance, and you assume all associated risk and liability. The Company is not responsible for any decision you make on the basis of any information, metric, badge, chart, or display on the Site.
 
-**29.3 Safety Tiers and Badges Are Algorithmic**&#x20;
+**30.3 Safety Tiers and Badges Are Algorithmic**&#x20;
 
 Not an Audit or Endorsement The Launchpad may display algorithmic, on-chain safety classifications (including labels such as "Standard," "Safe Launch," and "Certified Dev"). These classifications are generated automatically from publicly observable on-chain launch parameters (such as liquidity-lock duration, percentage of supply in liquidity, creator allocation, and per-wallet caps). You acknowledge and agree that: (a) these classifications are not a security audit, due-diligence report, certification, guarantee, or endorsement of any token, team, or outcome; (b) the Company does not perform KYC on token creators and does not verify the identity, intentions, or conduct of any creator; (c) a token bearing any safety classification may still lose all of its value, and a classification does not reduce, mitigate, or eliminate the risk of total loss; (d) classifications reflect only the parameters observable at a point in time and may not capture all risks, including market, liquidity, creator-conduct, or third-party risk.
 
-**29.4 Fees and Conflicts of Interest**&#x20;
+**30.4 Fees and Conflicts of Interest**&#x20;
 
 Swaps executed through the Launchpad are subject to a fixed liquidity-pool fee, a portion of which is allocated to the token creator, to referrers, and to a ZNS treasury address, as described on the Site. You acknowledge that the Company therefore has a financial interest in transaction activity on the Launchpad. The Company, its affiliates, and their team members may also hold, create, transact in, or provide liquidity for tokens available on the Launchpad. The Company is under no obligation to disclose any such interest or transaction, has no duty to have regard to any information that may be a material interest to you, and assumes no fiduciary or advisory duty of any kind.
 
-**29.5 Instructions and Transactions**&#x20;
+**30.5 Instructions and Transactions**&#x20;
 
 Any instruction or transaction you submit through the Launchpad is executed using your own wallet, is irrevocable once broadcast, and cannot be reversed, cancelled, or modified by the Company once confirmed on-chain. The Company is not required to verify the accuracy, authenticity, or validity of any instruction. Where you submit a transaction involving a Manifest Error (an obvious and indisputable error in price, data, or action) or with Improper Intent (conduct the Company reasonably deems fraudulent, abusive, or manipulative), the Company may, to the extent technically possible and permitted by law, refuse to facilitate, defer, or treat such transaction as void, without liability to you.
 
-**29.6 Token-Creator Representations and Warranties**&#x20;
+**30.6 Token-Creator Representations and Warranties**&#x20;
 
 By creating a token through the Launchpad, you represent and warrant that:&#x20;
 
@@ -614,14 +618,38 @@ By creating a token through the Launchpad, you represent and warrant that:&#x20;
 
 The Launchpad is permissionless and the Company does not endorse or assume responsibility for any token you create.
 
-**29.7 Market Conduct**&#x20;
+**30.7 Market Conduct**&#x20;
 
 You may not use the Launchpad to engage in or facilitate market manipulation of any kind, including but not limited to pump-and-dump schemes, wash trading, spoofing, fictitious or pre-arranged transactions, front-running, or any activity designed to artificially affect the price of, or mislead other participants about, any token. The Company may suspend or restrict access, and may refuse to facilitate transactions, where it reasonably suspects such conduct.
 
-**29.8 Informational Displays Have No Contractual Value**&#x20;
+**30.8 Informational Displays Have No Contractual Value**&#x20;
 
 Any price chart, market-cap figure, percentage change, profit-and-loss display, heatmap, earnings estimate, leaderboard, or similar metric shown on the Launchpad is provided for general informational purposes only, may be inaccurate, incomplete, delayed, or based on illustrative assumptions, has no contractual value, and does not constitute financial, investment, or trading advice or any promise of profit. You must independently verify all information before relying on it.
 
-#### 30. Contact
+#### 31. General Provisions
+
+Entire Agreement. These Terms, together with the Disclaimers, Privacy Policy, and any\
+documents incorporated by reference, constitute the entire agreement between you and the\
+Company regarding the Site and supersede all prior agreements, whether oral or written.
+
+Severability. If any provision is held invalid, illegal, or unenforceable, it shall be\
+modified to the minimum extent necessary to make it enforceable, or if not possible,\
+severed, and the remaining provisions shall continue in full force and effect.
+
+Assignment. You may not assign or transfer your rights or obligations under these Terms\
+without the Company's prior written consent. The Company may assign or transfer its rights\
+and obligations, in whole or in part, at any time without notice, including in connection\
+with any merger, acquisition, reorganization, or sale of assets.
+
+No Waiver. The Company's failure to enforce any provision shall not be deemed a waiver of\
+that provision or of the right to enforce it later.
+
+No Agency or Partnership. Nothing in these Terms creates any agency, partnership, joint\
+venture, employment, or fiduciary relationship between you and the Company.
+
+English Language Controls. These Terms are drafted in English; any translation is for\
+convenience only, and the English version prevails in the event of conflict.
+
+#### 32. Contact
 
 For any questions about these Terms, please contact:  privacy@znsconnect.io
