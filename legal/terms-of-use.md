@@ -26,7 +26,6 @@ The Site is intended only for users aged 18 years and older. By using the Site, 
 
 ACCEPTANCE BY WALLET CONNECTION
 
-\
 These Terms are a binding agreement. You accept these Terms, the Disclaimers, and the\
 Privacy Policy by either (a) accessing or using the Site, or (b) connecting a digital wallet to the Site - whichever occurs first. BY CONNECTING A WALLET, OR BY CHECKING AN\
 "I AGREE" BOX OR SIGNING A WALLET MESSAGE WHERE PRESENTED, YOU CONFIRM THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS, AND THAT YOU MEET ALL ELIGIBILITY AND JURISDICTION REQUIREMENTS, INCLUDING THAT YOU ARE NOT A RESTRICTED PERSON. If you do not agree, you must not connect a wallet to or otherwise use the Site.
@@ -313,6 +312,8 @@ within one (1) year after the cause of action arose; otherwise it is permanently
 #### 14. **Indemnification**
 
 You agree to defend, indemnify, and hold harmless ZNS Connect and its affiliates from and against any claims, damages, liabilities, and expenses arising out of your use of the Site or your violation of these Terms.
+
+You further agree to indemnify and hold harmless the Company from any claim, liability, loss, or expense (including legal fees) arising out of or relating to any token you create, launch, promote, trade, or hold through the Launchpad, including any third-party claim that such token or its marketing infringes intellectual property, violates any law (including securities or consumer-protection law), or misleads any person.
 
 ***
 
@@ -629,6 +630,12 @@ You may not use the Launchpad to engage in or facilitate market manipulation of 
 **30.8 Informational Displays Have No Contractual Value**&#x20;
 
 Any price chart, market-cap figure, percentage change, profit-and-loss display, heatmap, earnings estimate, leaderboard, or similar metric shown on the Launchpad is provided for general informational purposes only, may be inaccurate, incomplete, delayed, or based on illustrative assumptions, has no contractual value, and does not constitute financial, investment, or trading advice or any promise of profit. You must independently verify all information before relying on it.
+
+**30.9 Taxes on Launchpad Earnings**
+
+You are solely responsible for determining, reporting, and paying any taxes arising from\
+any creator fees, referral rewards, liquidity-pool fees, or other amounts you earn through\
+the Launchpad. The Company does not withhold taxes and does not provide tax advice.
 
 #### 31. General Provisions
 

@@ -207,6 +207,8 @@ By using ZNS Connect or participating in the token sale, you confirm:
 
 The Company cannot recover lost seed phrases, compromised wallets, wrong-address transfers, or irreversible blockchain transactions.
 
+You represent and warrant that any funds or digital assets you use on the Site or the Launchpad are not derived from, and will not be used to facilitate, money laundering, terrorist financing, fraud, or any other unlawful activity, and that you will comply with all applicable anti-money-laundering and sanctions laws.
+
 ## **11. Referral Program Disclaimer**
 
 ZNS Connect may offer referral programs, promotional codes, partner rewards, or on-chain referral links that allow users to earn bonuses by inviting others to participate in the Platform or the $ZNS token sale.\
