@@ -410,7 +410,7 @@ The Services are not available to, and may not be accessed or used by, any perso
 
 By accessing or using the Services, you represent and warrant that you are not located in, resident of, incorporated in, or a citizen or national of any Restricted Jurisdiction. If your status changes such that you become a resident, citizen, or are otherwise located in a Restricted Jurisdiction, you must immediately cease using the Services.
 
-22.3 Technical Restrictions
+**22.3 Technical Restrictions**
 
 ZNS Connect may implement geo-blocking, IP filtering, wallet screening, and other technical measures to prevent access from Restricted Jurisdictions. Circumventing such measures using VPNs, proxies, or other means is strictly prohibited and constitutes a material breach of these Terms.
 
@@ -422,7 +422,7 @@ ZNS Connect may implement geo-blocking, IP filtering, wallet screening, and othe
 
 This article is for informational purposes only and does not constitute financial advice. Crypto activities involve significant risk. Always conduct your own research. ZNS Connect is not responsible for any loss arising from actions taken based on this content.
 
-23.1 Informational Purpose Only
+**23.1 Informational Purpose Only**
 
 All content published on the ZNS Connect blog (zns.bio/blog) is provided for informational and educational purposes only. Nothing on the blog constitutes financial, investment, legal, or tax advice. All references to specific blockchain projects, protocols, airdrops, or tokens are for illustrative and educational purposes and do not constitute an endorsement, recommendation, or solicitation to buy, sell, or interact with any digital asset or protocol.
 
@@ -430,11 +430,11 @@ All content published on the ZNS Connect blog (zns.bio/blog) is provided for inf
 
 Certain blog posts may be paid placements or sponsored content, which will be identified with a 'Sponsored' label. The inclusion of sponsored content does not constitute an endorsement by ZNS Connect of the featured project, product, or service. ZNS Connect does not independently verify the accuracy of claims made in sponsored posts. The Company may receive compensation in cash, tokens, or other consideration in exchange for publishing sponsored content. Sponsored posts are provided AS IS and ZNS Connect accepts no liability for any loss arising from your interaction with any project featured in a sponsored post.
 
-23.3 No Responsibility for Outcomes
+**23.3 No Responsibility for Outcomes**
 
 ZNS Connect is not responsible for any financial loss, missed airdrop, failed transaction, or other adverse outcome arising from following guidance, strategies, or instructions contained in any blog post, whether editorial or sponsored. Crypto airdrop eligibility, task requirements, and reward amounts are determined solely by third-party projects and may change without notice. You are solely responsible for conducting your own due diligence.
 
-23.4 Accuracy and Updates
+**23.4 Accuracy and Updates**
 
 Blog content reflects information available at the time of publication and may become outdated. ZNS Connect does not commit to updating blog posts to reflect subsequent changes to third-party protocols, airdrop criteria, or market conditions.
 
@@ -470,7 +470,7 @@ You are solely responsible for determining, reporting, and paying any taxes appl
 
 ZNS Connect does not guarantee the continued availability of the Referral Program and may suspend, modify, or terminate it at any time without prior notice and without any liability to participants.
 
-#### 25. GIFT CARDS
+#### 25. Gift Cards
 
 **25.1 Nature of Gift Cards**
 
@@ -522,7 +522,7 @@ Apple Inc. and Google LLC are third-party beneficiaries of this Section 27 and m
 
 You may not: (a) modify, reverse engineer, or decompile the App; (b) use the App to mine cryptocurrency or run background processes not related to ZNS Connect features; (c) distribute or sublicense the App; or (d) use the App in violation of any applicable export control laws.
 
-#### 27. DEVELOPER API, SDK, AND THIRD-PARTY INTEGRATION
+#### 27. Developer API, SDK and third-party integration
 
 **27.1 License to Use Developer Tools**
 
@@ -555,11 +555,17 @@ You are solely responsible for any application, product, or service you build us
 
 Applications built using the ZNS Connect Developer Tools should include reasonable attribution to ZNS Connect where technically feasible, in accordance with the branding guidelines published on the ZNS Connect Brand Book.
 
-#### 28. Contact
+#### 28. Acceptance by wallet connection
 
-For any questions about these Terms, please contact:  privacy@znsconnect.io
+These Terms are a binding agreement. You accept these Terms, the Disclaimers, and the\
+Privacy Policy by either&#x20;
 
-#### 29. TOKEN LAUNCHPAD AND TRADING INTERFACE
+* accessing or using the Site, or&#x20;
+* connecting a digital wallet to the Site - whichever occurs first.&#x20;
+
+BY CONNECTING A WALLET, OR BY CHECKING AN "I AGREE" BOX OR SIGNING A WALLET MESSAGE WHERE PRESENTED, YOU CONFIRM THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS, AND THAT YOU MEET ALL ELIGIBILITY AND JURISDICTION REQUIREMENTS, INCLUDING THAT YOU ARE NOT A RESTRICTED PERSON. If you do not agree, you must not connect a wallet to or otherwise use the Site.
+
+#### 29. Token launchpad and trading interface&#x20;
 
 **29.1 Interface Only**&#x20;
 
@@ -567,7 +573,7 @@ Not an Exchange, Broker, or Custodian ZNS Launchpad is a non-custodial visual in
 
 **29.2 No Recommendation of User-Generated Tokens**&#x20;
 
-All tokens available through the Launchpad are user-generated and permissionless. The Company does not review, verify, endorse, approve, or recommend any user-generated token under any circumstances, and does not recommend that any token be bought, sold, or held by you. You are solely responsible for determining whether any token is appropriate for you based on your own objectives, financial circumstances, and risk tolerance, and you assume all associated risk and liability. The Company is not responsible for any decision you make on the basis of any information, metric, badge, chart, or display on the Site.
+All tokens available through the Launchpad are user-generated and permissionless. The Company does not review, verify, endorse, approve, or recommend any user-generated token under any circumstances and does not recommend that any token be bought, sold, or held by you. You are solely responsible for determining whether any token is appropriate for you based on your own objectives, financial circumstances, and risk tolerance, and you assume all associated risk and liability. The Company is not responsible for any decision you make on the basis of any information, metric, badge, chart, or display on the Site.
 
 **29.3 Safety Tiers and Badges Are Algorithmic**&#x20;
 
@@ -585,13 +591,10 @@ Any instruction or transaction you submit through the Launchpad is executed usin
 
 By creating a token through the Launchpad, you represent and warrant that:&#x20;
 
-(a) you have all necessary rights to any name, ticker, image, and intellectual property associated with the token; (
-
-b) the token and any related marketing, statements, or materials are accurate and not false or misleading;&#x20;
-
-(c) the token does not infringe any third-party right and does not violate any applicable law in any relevant jurisdiction, including securities, consumer-protection, and AML laws; and (
-
-d) you are solely responsible for the token, its distribution, and all consequences of its launch.&#x20;
+* you have all necessary rights to any name, ticker, image, and intellectual property associated with the token; (
+* the token and any related marketing, statements, or materials are accurate and not false or misleading;&#x20;
+* the token does not infringe any third-party right and does not violate any applicable law in any relevant jurisdiction, including securities, consumer-protection, and AML laws; and (
+* you are solely responsible for the token, its distribution, and all consequences of its launch.&#x20;
 
 The Launchpad is permissionless and the Company does not endorse or assume responsibility for any token you create.
 
@@ -602,3 +605,7 @@ You may not use the Launchpad to engage in or facilitate market manipulation of 
 **29.8 Informational Displays Have No Contractual Value**&#x20;
 
 Any price chart, market-cap figure, percentage change, profit-and-loss display, heatmap, earnings estimate, leaderboard, or similar metric shown on the Launchpad is provided for general informational purposes only, may be inaccurate, incomplete, delayed, or based on illustrative assumptions, has no contractual value, and does not constitute financial, investment, or trading advice or any promise of profit. You must independently verify all information before relying on it.
+
+#### 30. Contact
+
+For any questions about these Terms, please contact:  privacy@znsconnect.io
