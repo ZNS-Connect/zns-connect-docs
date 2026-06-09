@@ -676,6 +676,10 @@ venture, employment, or fiduciary relationship between you and the Company.
 English Language Controls. These Terms are drafted in English; any translation is for\
 convenience only, and the English version prevails in the event of conflict.
 
-#### 32. Contact
+#### **32. Intellectual-Property Complaints.**
+
+&#x20;If you believe that content on the Platform — including a token name, ticker, logo, image, video, or other material — infringes your intellectual-property rights, you may submit a notice to the contact address in these Terms identifying the rights-holder, the allegedly infringing material and its location, and a statement of your good-faith belief. The Company may, in its sole discretion and without liability, remove or restrict access to allegedly infringing material and may restrict or terminate the access of repeat infringers. Because tokens deployed on-chain are controlled by smart contracts and not by the Company, the Company cannot alter, reverse, or remove any on-chain token, transaction, or asset.
+
+#### 33. Contact
 
 For any questions about these Terms, please contact:  privacy@znsconnect.io
