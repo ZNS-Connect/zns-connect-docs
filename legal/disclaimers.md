@@ -331,3 +331,7 @@ and may lose all value. Charts, market data, PnL, and earnings figures are illus
 may be inaccurate, and are not advice or any promise of return. You trade entirely at your\
 own risk and only with funds you can afford to lose entirely.
 
+## **16. AI-Generated Content Risk**
+
+ZNS Connect provides AI tools that generate names, tickers, descriptions, marketing copy, images, logos, audio, and video using third-party AI models. AI-generated content may be inaccurate, misleading, biased, offensive, fabricated ("hallucinated"), or infringing, and may be identical or similar to content generated for other users. AI-generated content is not advice, a recommendation, or any assurance that a token, name, or asset will have value, demand, utility, or legal protection, and may not be eligible for copyright or other intellectual-property protection. You are solely responsible for any content you generate, adopt, publish, mint, or deploy, and you use the AI tools entirely at your own risk.
+
