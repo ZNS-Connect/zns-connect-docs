@@ -315,6 +315,8 @@ You agree to defend, indemnify, and hold harmless ZNS Connect and its affiliates
 
 You further agree to indemnify and hold harmless the Company from any claim, liability, loss, or expense (including legal fees) arising out of or relating to any token you create, launch, promote, trade, or hold through the Launchpad, including any third-party claim that such token or its marketing infringes intellectual property, violates any law (including securities or consumer-protection law), or misleads any person.
 
+You further agree to indemnify and hold harmless the Company from any claim, liability, loss, or expense (including legal fees) arising out of or relating to any AI Output you generate, adopt, publish, mint, deploy, or use, including any third-party claim that such AI Output infringes or misappropriates intellectual property, publicity, or other rights, or violates any applicable law.
+
 ***
 
 #### 15. Governing Law and Arbitration
