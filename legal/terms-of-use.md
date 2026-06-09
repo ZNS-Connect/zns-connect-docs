@@ -589,7 +589,9 @@ Because the Company operates online, you consent to transact with us electronica
 
 **30.1 Interface Only**&#x20;
 
-Not an Exchange, Broker, or Custodian ZNS Launchpad is a non-custodial visual interface that allows users to create tokens and to interact with autonomous, third-party smart contracts (including Uniswap V4 liquidity pools) deployed on public blockchain networks. IN NO CIRCUMSTANCES SHALL ALTBridge Labs S.A., the Site, or the Launchpad BE CONSTRUED AS A DIGITAL ASSET EXCHANGE, BROKER, DEALER, MONEY SERVICES BUSINESS, MARKET MAKER, FUND MANAGER, FINANCIAL INSTITUTION, CUSTODIAN, INTERMEDIARY, ADVISOR, OR COUNTERPARTY TO ANY TRANSACTION. All swaps and trades occur peer-to-contract on the relevant blockchain network. The Company is not a party to any transaction between users, holds no user assets in custody, and does not initiate, control, or guarantee any trade. The Company does not provide any order matching, settlement, clearing, or financial advisory service.
+**Not an Exchange, Broker, or Custodian**&#x20;
+
+ZNS Launchpad is a non-custodial visual interface that allows users to create tokens and to interact with autonomous, third-party smart contracts (including Uniswap V4 liquidity pools) deployed on public blockchain networks. IN NO CIRCUMSTANCES SHALL ALTBridge Labs S.A., the Site, or the Launchpad BE CONSTRUED AS A DIGITAL ASSET EXCHANGE, BROKER, DEALER, MONEY SERVICES BUSINESS, MARKET MAKER, FUND MANAGER, FINANCIAL INSTITUTION, CUSTODIAN, INTERMEDIARY, ADVISOR, OR COUNTERPARTY TO ANY TRANSACTION. All swaps and trades occur peer-to-contract on the relevant blockchain network. The Company is not a party to any transaction between users, holds no user assets in custody, and does not initiate, control, or guarantee any trade. The Company does not provide any order matching, settlement, clearing, or financial advisory service.
 
 **30.2 No Recommendation of User-Generated Tokens**&#x20;
 
@@ -597,7 +599,9 @@ All tokens available through the Launchpad are user-generated and permissionless
 
 **30.3 Safety Tiers and Badges Are Algorithmic**&#x20;
 
-Not an Audit or Endorsement The Launchpad may display algorithmic, on-chain safety classifications (including labels such as "Standard," "Safe Launch," and "Certified Dev"). These classifications are generated automatically from publicly observable on-chain launch parameters (such as liquidity-lock duration, percentage of supply in liquidity, creator allocation, and per-wallet caps). You acknowledge and agree that: (a) these classifications are not a security audit, due-diligence report, certification, guarantee, or endorsement of any token, team, or outcome; (b) the Company does not perform KYC on token creators and does not verify the identity, intentions, or conduct of any creator; (c) a token bearing any safety classification may still lose all of its value, and a classification does not reduce, mitigate, or eliminate the risk of total loss; (d) classifications reflect only the parameters observable at a point in time and may not capture all risks, including market, liquidity, creator-conduct, or third-party risk.
+**Not an Audit or Endorsement**&#x20;
+
+The Launchpad may display algorithmic, on-chain safety classifications (including labels such as "Standard," "Safe Launch," and "Certified Dev"). These classifications are generated automatically from publicly observable on-chain launch parameters (such as liquidity-lock duration, percentage of supply in liquidity, creator allocation, and per-wallet caps). You acknowledge and agree that: (a) these classifications are not a security audit, due-diligence report, certification, guarantee, or endorsement of any token, team, or outcome; (b) the Company does not perform KYC on token creators and does not verify the identity, intentions, or conduct of any creator; (c) a token bearing any safety classification may still lose all of its value, and a classification does not reduce, mitigate, or eliminate the risk of total loss; (d) classifications reflect only the parameters observable at a point in time and may not capture all risks, including market, liquidity, creator-conduct, or third-party risk.
 
 **30.4 Fees and Conflicts of Interest**&#x20;
 
@@ -611,7 +615,7 @@ Any instruction or transaction you submit through the Launchpad is executed usin
 
 By creating a token through the Launchpad, you represent and warrant that:&#x20;
 
-* you have all necessary rights to any name, ticker, image, and intellectual property associated with the token; (
+* you have all necessary rights to any name, ticker, image, and intellectual property associated with the token;&#x20;
 * the token and any related marketing, statements, or materials are accurate and not false or misleading;&#x20;
 * the token does not infringe any third-party right and does not violate any applicable law in any relevant jurisdiction, including securities, consumer-protection, and AML laws; and (
 * you are solely responsible for the token, its distribution, and all consequences of its launch.&#x20;
