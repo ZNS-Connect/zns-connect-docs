@@ -31,7 +31,11 @@ You should not acquire $ZNS tokens unless you are fully aware of the risks and c
 
 **All token sale transactions are final, non-refundable, and irreversible.**
 
-## **2. No Securities, No Equity, No Ownership Rights**
+## **2. Assumption of Risk and Release.**&#x20;
+
+You knowingly and voluntarily assume all risks arising from creating, acquiring, holding, trading, or disposing of any token through or in connection with the Platform, including the total loss of funds. To the maximum extent permitted by law, you release the Company and its affiliates from any claim, loss, or damage arising from such activity, the conduct of any token creator or other user, the performance or price of any token, or the operation of any third-party smart contract, blockchain, or AI model.
+
+## **3. No Securities, No Equity, No Ownership Rights**
 
 $ZNS tokens are **not**:
 
@@ -56,7 +60,7 @@ No part of the token sale should be interpreted as a securities offering under t
 Purchasing $ZNS tokens does not grant any rights to profit, income, yield, appreciation, staking rewards, or any form of financial return.\
 Any discussion of potential utility, ecosystem expansion, or future integrations is for informational purposes only and does not constitute a guarantee, obligation, or expectation of future value.
 
-## **3. No Guarantees of Future Utility or Roadmap Delivery**
+## **4. No Guarantees of Future Utility or Roadmap Delivery**
 
 Any references to:
 
@@ -74,7 +78,7 @@ All roadmap items may be changed, postponed, or cancelled without notice.
 Any references to future plans, utilities, integrations, partnerships, upgrades, or roadmap items are forward-looking statements and shall not be interpreted as commitments or obligations of the Company.\
 The Company may modify, postpone, or cancel any roadmap item at its sole discretion, without prior notice.
 
-## **4. No Financial, Investment, or Legal Advice**
+## **5. No Financial, Investment, or Legal Advice**
 
 Nothing in ZNS Connect’s documentation, dashboards, messages, or social media constitutes:
 
@@ -86,7 +90,7 @@ Nothing in ZNS Connect’s documentation, dashboards, messages, or social media 
 
 Users must consult their own professional advisors before acquiring or using digital assets.
 
-## **5. Smart Contract, Blockchain, and Technical Risks**
+## **6. Smart Contract, Blockchain, and Technical Risks**
 
 ZNS Connect relies on decentralized infrastructure, which may contain:
 
@@ -123,7 +127,7 @@ Domain risks include:
 
 The Company cannot mediate disputes or recover domain ownership.
 
-## **6. Market, Price, and Liquidity Risks**
+## **7. Market, Price, and Liquidity Risks**
 
 The value of digital assets depends on third-party exchanges and user demand.
 
@@ -140,7 +144,7 @@ Token markets may experience extreme volatility, manipulation attempts, or compl
 
 ***
 
-## **7. Regulatory and Jurisdictional Risks**
+## **8. Regulatory and Jurisdictional Risks**
 
 Digital asset laws vary across jurisdictions and may change at any time.\
 Regulatory actions may:
@@ -153,7 +157,7 @@ Regulatory actions may:
 
 The Company may modify or suspend services to comply with applicable laws.
 
-## **8. Decentralized Domain Naming Risks**
+## **9. Decentralized Domain Naming Risks**
 
 ZNS domains:
 
@@ -174,7 +178,7 @@ ZNS Connect does not guarantee:
 
 The user is solely responsible for ensuring they do not infringe on trademarks or third-party rights.
 
-## **9. Third-Party Services and Integration Risks**
+## **10. Third-Party Services and Integration Risks**
 
 ZNS Connect relies on:
 
@@ -194,7 +198,7 @@ Failures, delays, bugs, hacks, configuration errors, or service interruptions fr
 
 ALTBridge Labs S.A. is not responsible for the performance or failures of any third-party provider.
 
-## **10. User Responsibilities**
+## **11. User Responsibilities**
 
 By using ZNS Connect or participating in the token sale, you confirm:
 
@@ -209,7 +213,7 @@ The Company cannot recover lost seed phrases, compromised wallets, wrong-address
 
 You represent and warrant that any funds or digital assets you use on the Site or the Launchpad are not derived from, and will not be used to facilitate, money laundering, terrorist financing, fraud, or any other unlawful activity, and that you will comply with all applicable anti-money-laundering and sanctions laws.
 
-## **11. Referral Program Disclaimer**
+## **12. Referral Program Disclaimer**
 
 ZNS Connect may offer referral programs, promotional codes, partner rewards, or on-chain referral links that allow users to earn bonuses by inviting others to participate in the Platform or the $ZNS token sale.\
 Participation in any referral program is subject to the following conditions:
@@ -274,7 +278,7 @@ All decisions made by ZNS Connect regarding referral eligibility and rewards are
 
 ***
 
-## **12. No Warranties of Any Kind**
+## **13. No Warranties of Any Kind**
 
 ZNS Connect disclaims all warranties, express or implied, including:
 
@@ -287,7 +291,7 @@ ZNS Connect disclaims all warranties, express or implied, including:
 
 The platform is provided “AS IS” and “AS AVAILABLE”.
 
-## **13. Modifications and Updates**
+## **14. Modifications and Updates**
 
 ZNS Connect reserves the right to modify, update, or amend these Disclaimers, the Terms of Use, the Privacy Policy, the Token Sale Terms, or any other documentation at any time, at its sole discretion.
 
@@ -307,7 +311,7 @@ If you do not agree with the updated Disclaimers or related policies, you must d
 
 ZNS Connect is not obligated to provide prior notice of changes, and is not responsible for any damages or losses resulting from modifications, amendments, or updates to its documentation, processes, or platform features.
 
-## **14. Limitation of Liability**
+## **15. Limitation of Liability**
 
 To the maximum extent permitted by law:
 
@@ -316,7 +320,7 @@ To the maximum extent permitted by law:
 
 Users assume full responsibility for all risks.
 
-## 15. Launchpad and user-generated token risk
+## 16. Launchpad and user-generated token risk
 
 \
 The ZNS Launchpad is a non-custodial interface to permissionless, third-party smart\
@@ -331,7 +335,7 @@ and may lose all value. Charts, market data, PnL, and earnings figures are illus
 may be inaccurate, and are not advice or any promise of return. You trade entirely at your\
 own risk and only with funds you can afford to lose entirely.
 
-## **16. AI-Generated Content Risk**
+## **17. AI-Generated Content Risk**
 
 ZNS Connect provides AI tools that generate names, tickers, descriptions, marketing copy, images, logos, audio, and video using third-party AI models. AI-generated content may be inaccurate, misleading, biased, offensive, fabricated ("hallucinated"), or infringing, and may be identical or similar to content generated for other users. AI-generated content is not advice, a recommendation, or any assurance that a token, name, or asset will have value, demand, utility, or legal protection, and may not be eligible for copyright or other intellectual-property protection. You are solely responsible for any content you generate, adopt, publish, mint, or deploy, and you use the AI tools entirely at your own risk.
 
