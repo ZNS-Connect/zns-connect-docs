@@ -24,6 +24,13 @@ The Site is not intended for distribution or use in any jurisdiction where such 
 
 The Site is intended only for users aged 18 years and older. By using the Site, you represent that you are at least 18 years of age.
 
+ACCEPTANCE BY WALLET CONNECTION
+
+\
+These Terms are a binding agreement. You accept these Terms, the Disclaimers, and the\
+Privacy Policy by either (a) accessing or using the Site, or (b) connecting a digital wallet to the Site - whichever occurs first. BY CONNECTING A WALLET, OR BY CHECKING AN\
+"I AGREE" BOX OR SIGNING A WALLET MESSAGE WHERE PRESENTED, YOU CONFIRM THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS, AND THAT YOU MEET ALL ELIGIBILITY AND JURISDICTION REQUIREMENTS, INCLUDING THAT YOU ARE NOT A RESTRICTED PERSON. If you do not agree, you must not connect a wallet to or otherwise use the Site.
+
 #### 1. Web3 Domain Disclosure
 
 Web3 domains reside on public blockchains and grant users ownership over their data and identities. They simplify crypto transactions by replacing complex wallet addresses with human-readable names and serve as decentralized identifiers for applications and platforms across Web3.
@@ -433,15 +440,15 @@ Blog content reflects information available at the time of publication and may b
 
 #### 24. REFERRAL PROGRAM
 
-24.1 Program Description
+**24.1 Program Description**
 
 ZNS Connect may offer a referral program (the 'Referral Program') that allows eligible users to earn rewards, discounts, or token allocations by inviting new users to the platform. The specific terms, reward structures, eligibility criteria, and duration of the Referral Program are set out in the dedicated Referral Program documentation and may be modified at any time at ZNS Connect's sole discretion.
 
-24.2 Nature of Referral Rewards
+**24.2 Nature of Referral Rewards**
 
 Referral rewards, if any, are provided solely as an incentive for introducing new genuine users to the platform and are not compensation for services rendered, profit distributions, or guaranteed income of any kind. The Referral Program does not constitute a multilevel marketing scheme, pyramid scheme, or investment opportunity. You should not expect to earn income from the Referral Program or make financial decisions based on potential referral rewards.
 
-24.3 Prohibited Conduct
+**24.3 Prohibited Conduct**
 
 The following conduct is strictly prohibited and will result in immediate disqualification, forfeiture of all pending rewards, and potential account termination:
 
@@ -451,33 +458,33 @@ The following conduct is strictly prohibited and will result in immediate disqua
 * Misrepresenting the platform, its features, or any rewards to potential referees;
 * Participating in any coordinated scheme to artificially inflate referral counts.
 
-24.4 Reward Conditions
+**24.4 Reward Conditions**
 
 Referral rewards are subject to the referred user completing all required onboarding actions, verifying eligibility, and not violating these Terms. ZNS Connect reserves the right to withhold, cancel, or claw back referral rewards if it determines, in its sole discretion, that any referral was obtained through prohibited means or that the referred user's account was terminated for violations.
 
-24.5 Tax Responsibility
+**24.5 Tax Responsibility**
 
 You are solely responsible for determining, reporting, and paying any taxes applicable to referral rewards you receive. ZNS Connect does not provide tax advice and makes no representations regarding the tax treatment of referral rewards in your jurisdiction.
 
-24.6 No Guarantee
+**24.6 No Guarantee**
 
 ZNS Connect does not guarantee the continued availability of the Referral Program and may suspend, modify, or terminate it at any time without prior notice and without any liability to participants.
 
 #### 25. GIFT CARDS
 
-25.1 Nature of Gift Cards
+**25.1 Nature of Gift Cards**
 
 ZNS Connect gift cards ('Gift Cards') are prepaid credits that may be redeemed for eligible ZNS Connect services, including domain registrations, renewals, or other platform features as specified at the time of issue. Gift Cards are not cash equivalents, cannot be exchanged for fiat currency or cryptocurrency, and do not bear interest.
 
-25.2 Non-Refundable
+**25.2 Non-Refundable**
 
 All Gift Card purchases are final and non-refundable. ZNS Connect does not offer refunds on Gift Cards except where required by mandatory applicable law.
 
-25.3 Validity and Expiry
+**25.3 Validity and Expiry**
 
 Gift Cards are valid for the period stated at the time of purchase or issuance. Unused balances remaining after the expiry date will be forfeited. ZNS Connect is under no obligation to extend Gift Card validity.
 
-25.4 Lost, Stolen, or Compromised Codes
+**25.4 Lost, Stolen, or Compromised Codes**
 
 You are responsible for safeguarding your Gift Card code. ZNS Connect is not responsible for any loss resulting from unauthorized use, loss, or theft of a Gift Card code. Gift Card codes are treated as bearer instruments — whoever holds the code may redeem it.
 
@@ -576,7 +583,17 @@ Any instruction or transaction you submit through the Launchpad is executed usin
 
 **29.6 Token-Creator Representations and Warranties**&#x20;
 
-By creating a token through the Launchpad, you represent and warrant that: (a) you have all necessary rights to any name, ticker, image, and intellectual property associated with the token; (b) the token and any related marketing, statements, or materials are accurate and not false or misleading; (c) the token does not infringe any third-party right and does not violate any applicable law in any relevant jurisdiction, including securities, consumer-protection, and AML laws; and (d) you are solely responsible for the token, its distribution, and all consequences of its launch. The Launchpad is permissionless and the Company does not endorse or assume responsibility for any token you create.
+By creating a token through the Launchpad, you represent and warrant that:&#x20;
+
+(a) you have all necessary rights to any name, ticker, image, and intellectual property associated with the token; (
+
+b) the token and any related marketing, statements, or materials are accurate and not false or misleading;&#x20;
+
+(c) the token does not infringe any third-party right and does not violate any applicable law in any relevant jurisdiction, including securities, consumer-protection, and AML laws; and (
+
+d) you are solely responsible for the token, its distribution, and all consequences of its launch.&#x20;
+
+The Launchpad is permissionless and the Company does not endorse or assume responsibility for any token you create.
 
 **29.7 Market Conduct**&#x20;
 
