@@ -375,7 +375,7 @@ The ZNS Connect no-code smart contract deployer provides pre-built contract temp
 * ZNS Connect has no ability to modify, pause, upgrade, or destroy smart contracts deployed by you, and is not responsible for any losses resulting from smart contract bugs, exploits, or unforeseen behavior;
 * You are solely responsible for complying with any applicable law in your jurisdiction with respect to the deployment of tokens, NFTs, or other digital assets via smart contracts, including but not limited to securities law, consumer protection law, and AML/KYC requirements if you intend to distribute your deployed token or NFT to third parties.
 
-**19.3 NFT Minting — No Guarantee of Value or Secondary Market**
+**19.3 NFT Minting - No Guarantee of Value or Secondary Market**
 
 Minting an NFT through the ZNS Connect platform does not guarantee that the NFT will have any market value, that it will be tradeable on any marketplace, or that it will be recognized or displayed correctly by all wallets, marketplaces, or platforms. NFTs are experimental digital assets and their value, if any, is entirely speculative.
 
@@ -486,7 +486,7 @@ Gift Cards are valid for the period stated at the time of purchase or issuance. 
 
 **25.4 Lost, Stolen, or Compromised Codes**
 
-You are responsible for safeguarding your Gift Card code. ZNS Connect is not responsible for any loss resulting from unauthorized use, loss, or theft of a Gift Card code. Gift Card codes are treated as bearer instruments — whoever holds the code may redeem it.
+You are responsible for safeguarding your Gift Card code. ZNS Connect is not responsible for any loss resulting from unauthorized use, loss, or theft of a Gift Card code. Gift Card codes are treated as bearer instruments - whoever holds the code may redeem it.
 
 **25.5 Service Changes**
 
