@@ -13,6 +13,11 @@ Nothing on this website, in our documentation, or in our communications constitu
 
 By accessing the platform or participating in the $ZNS token sale, you agree to the disclaimers below.
 
+ACCEPTANCE BY WALLET CONNECTION\
+These Terms are a binding agreement. You accept these Terms, the Disclaimers, and the\
+Privacy Policy by either (a) accessing or using the Site, or (b) connecting a digital wallet to the Site - whichever occurs first. BY CONNECTING A WALLET, OR BY CHECKING AN\
+"I AGREE" BOX OR SIGNING A WALLET MESSAGE WHERE PRESENTED, YOU CONFIRM THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS, AND THAT YOU MEET ALL ELIGIBILITY AND JURISDICTION REQUIREMENTS, INCLUDING THAT YOU ARE NOT A RESTRICTED PERSON. If you do not agree, you must not connect a wallet to or otherwise use the Site.
+
 ## **1. High-Risk Token Purchase Disclosure**
 
 Participation in the $ZNS token sale is **highly speculative** and involves **significant risk**, including the risk of complete and irreversible loss of funds.
