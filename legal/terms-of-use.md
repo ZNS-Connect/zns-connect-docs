@@ -481,47 +481,47 @@ Gift Cards are valid for the period stated at the time of purchase or issuance. 
 
 You are responsible for safeguarding your Gift Card code. ZNS Connect is not responsible for any loss resulting from unauthorized use, loss, or theft of a Gift Card code. Gift Card codes are treated as bearer instruments — whoever holds the code may redeem it.
 
-25.5 Service Changes
+**25.5 Service Changes**
 
 ZNS Connect reserves the right to modify, suspend, or discontinue any service or feature for which a Gift Card may be redeemed. In the event a specific service is discontinued, ZNS Connect will use reasonable efforts to provide an equivalent redemption option, but makes no guarantee of specific substitution.
 
-25.6 No Resale
+**25.6 No Resale**
 
 Gift Cards may not be resold, transferred for value, or used in any commercial promotion without ZNS Connect's prior written consent.
 
 #### 26. Mobile application - end user license Agreement
 
-26.1 License Grant
+**26.1 License Grant**
 
 Subject to your compliance with these Terms, ZNS Connect grants you a limited, non-exclusive, non-transferable, revocable license to download, install, and use the ZNS Connect mobile application ('App') on a device you own or control, solely for your personal, non-commercial use.
 
-26.2 App Store and Google Play Terms
+**26.2 App Store and Google Play Terms**
 
 Your use of the App is also subject to the terms and conditions of the applicable app distribution platform (Apple App Store or Google Play). In the event of any conflict between these Terms and the applicable platform terms with respect to the App, the platform terms shall govern solely to the extent of such conflict. ALTBridge Labs S.A. is the licensor of the App; Apple Inc. and Google LLC are not parties to these Terms and bear no responsibility for the App or its content.
 
-26.3 Data Collection on Mobile
+**26.3 Data Collection on Mobile**
 
 The App collects certain data as described in our Privacy Policy, including wallet address, device identifiers, and usage analytics. By installing and using the App, you consent to such collection. The App does not access your device contacts, camera, microphone, or location unless you explicitly grant such permissions for a specific feature that requires it.
 
-26.4 App Updates
+**26.4 App Updates**
 
 ZNS Connect may issue updates to the App from time to time. Certain updates may be required to continue using the App. You agree to install updates in a timely manner. ZNS Connect is not responsible for any issues arising from your use of an outdated version of the App.
 
-26.5 No Third-Party Beneficiaries
+**26.5 No Third-Party Beneficiaries**
 
 Apple Inc. and Google LLC are third-party beneficiaries of this Section 27 and may enforce it against you as a third-party beneficiary. No other person or entity is a third-party beneficiary of these Terms.
 
-26.6 Prohibited Uses on Mobile
+**26.6 Prohibited Uses on Mobile**
 
 You may not: (a) modify, reverse engineer, or decompile the App; (b) use the App to mine cryptocurrency or run background processes not related to ZNS Connect features; (c) distribute or sublicense the App; or (d) use the App in violation of any applicable export control laws.
 
 #### 27. DEVELOPER API, SDK, AND THIRD-PARTY INTEGRATION
 
-27.1 License to Use Developer Tools
+**27.1 License to Use Developer Tools**
 
 Subject to your compliance with these Terms, ZNS Connect grants you a limited, non-exclusive, non-transferable, revocable license to access and use the ZNS Connect API, SDK, Subgraph, and associated developer tools ('Developer Tools') solely for the purpose of building applications, integrations, or services that interoperate with the ZNS Connect platform. Any other use requires express prior written permission from ALTBridge Labs S.A.
 
-27.2 Prohibited Developer Uses
+**27.2 Prohibited Developer Uses**
 
 You may not use the Developer Tools to:
 
@@ -532,22 +532,56 @@ You may not use the Developer Tools to:
 * Circumvent any authentication, rate limiting, or access control mechanisms;
 * Use the Developer Tools for any application intended to deceive, defraud, or harm users.
 
-27.3 IP Ownership of API Data
+**27.3 IP Ownership of API Data**
 
 All data accessible through the ZNS Connect API that originates from ZNS Connect systems, databases, or infrastructure (including but not limited to domain registration records, pricing data, and platform analytics) remains the intellectual property of ALTBridge Labs S.A. or its licensors. Your use of such data is limited to the purposes described in Section 28.1. You may not represent API data as your own or remove attribution.
 
-27.4 No SLA or Uptime Guarantee
+**27.4 No SLA or Uptime Guarantee**
 
 The Developer Tools are provided 'AS IS' without any service level agreement or uptime guarantee. ZNS Connect may modify, deprecate, or discontinue any API endpoint, SDK version, or subgraph schema at any time with or without notice. You are responsible for monitoring our developer documentation for updates and adapting your integration accordingly. ZNS Connect is not liable for any loss or disruption arising from API changes.
 
-27.5 Liability for Integrations
+**27.5 Liability for Integrations**
 
 You are solely responsible for any application, product, or service you build using the Developer Tools. ZNS Connect is not responsible for your integration's functionality, security, or compliance with applicable law. You agree to indemnify and hold ZNS Connect harmless from any claims arising from your integration or your end users' use of your integration.
 
-27.6 Attribution
+**27.6 Attribution**
 
 Applications built using the ZNS Connect Developer Tools should include reasonable attribution to ZNS Connect where technically feasible, in accordance with the branding guidelines published on the ZNS Connect Brand Book.
 
 #### 28. Contact
 
 For any questions about these Terms, please contact:  privacy@znsconnect.io
+
+#### 29. TOKEN LAUNCHPAD AND TRADING INTERFACE
+
+**29.1 Interface Only**&#x20;
+
+Not an Exchange, Broker, or Custodian ZNS Launchpad is a non-custodial visual interface that allows users to create tokens and to interact with autonomous, third-party smart contracts (including Uniswap V4 liquidity pools) deployed on public blockchain networks. IN NO CIRCUMSTANCES SHALL ALTBridge Labs S.A., the Site, or the Launchpad BE CONSTRUED AS A DIGITAL ASSET EXCHANGE, BROKER, DEALER, MONEY SERVICES BUSINESS, MARKET MAKER, FUND MANAGER, FINANCIAL INSTITUTION, CUSTODIAN, INTERMEDIARY, ADVISOR, OR COUNTERPARTY TO ANY TRANSACTION. All swaps and trades occur peer-to-contract on the relevant blockchain network. The Company is not a party to any transaction between users, holds no user assets in custody, and does not initiate, control, or guarantee any trade. The Company does not provide any order matching, settlement, clearing, or financial advisory service.
+
+**29.2 No Recommendation of User-Generated Tokens**&#x20;
+
+All tokens available through the Launchpad are user-generated and permissionless. The Company does not review, verify, endorse, approve, or recommend any user-generated token under any circumstances, and does not recommend that any token be bought, sold, or held by you. You are solely responsible for determining whether any token is appropriate for you based on your own objectives, financial circumstances, and risk tolerance, and you assume all associated risk and liability. The Company is not responsible for any decision you make on the basis of any information, metric, badge, chart, or display on the Site.
+
+**29.3 Safety Tiers and Badges Are Algorithmic**&#x20;
+
+Not an Audit or Endorsement The Launchpad may display algorithmic, on-chain safety classifications (including labels such as "Standard," "Safe Launch," and "Certified Dev"). These classifications are generated automatically from publicly observable on-chain launch parameters (such as liquidity-lock duration, percentage of supply in liquidity, creator allocation, and per-wallet caps). You acknowledge and agree that: (a) these classifications are not a security audit, due-diligence report, certification, guarantee, or endorsement of any token, team, or outcome; (b) the Company does not perform KYC on token creators and does not verify the identity, intentions, or conduct of any creator; (c) a token bearing any safety classification may still lose all of its value, and a classification does not reduce, mitigate, or eliminate the risk of total loss; (d) classifications reflect only the parameters observable at a point in time and may not capture all risks, including market, liquidity, creator-conduct, or third-party risk.
+
+**29.4 Fees and Conflicts of Interest**&#x20;
+
+Swaps executed through the Launchpad are subject to a fixed liquidity-pool fee, a portion of which is allocated to the token creator, to referrers, and to a ZNS treasury address, as described on the Site. You acknowledge that the Company therefore has a financial interest in transaction activity on the Launchpad. The Company, its affiliates, and their team members may also hold, create, transact in, or provide liquidity for tokens available on the Launchpad. The Company is under no obligation to disclose any such interest or transaction, has no duty to have regard to any information that may be a material interest to you, and assumes no fiduciary or advisory duty of any kind.
+
+**29.5 Instructions and Transactions**&#x20;
+
+Any instruction or transaction you submit through the Launchpad is executed using your own wallet, is irrevocable once broadcast, and cannot be reversed, cancelled, or modified by the Company once confirmed on-chain. The Company is not required to verify the accuracy, authenticity, or validity of any instruction. Where you submit a transaction involving a Manifest Error (an obvious and indisputable error in price, data, or action) or with Improper Intent (conduct the Company reasonably deems fraudulent, abusive, or manipulative), the Company may, to the extent technically possible and permitted by law, refuse to facilitate, defer, or treat such transaction as void, without liability to you.
+
+**29.6 Token-Creator Representations and Warranties**&#x20;
+
+By creating a token through the Launchpad, you represent and warrant that: (a) you have all necessary rights to any name, ticker, image, and intellectual property associated with the token; (b) the token and any related marketing, statements, or materials are accurate and not false or misleading; (c) the token does not infringe any third-party right and does not violate any applicable law in any relevant jurisdiction, including securities, consumer-protection, and AML laws; and (d) you are solely responsible for the token, its distribution, and all consequences of its launch. The Launchpad is permissionless and the Company does not endorse or assume responsibility for any token you create.
+
+**29.7 Market Conduct**&#x20;
+
+You may not use the Launchpad to engage in or facilitate market manipulation of any kind, including but not limited to pump-and-dump schemes, wash trading, spoofing, fictitious or pre-arranged transactions, front-running, or any activity designed to artificially affect the price of, or mislead other participants about, any token. The Company may suspend or restrict access, and may refuse to facilitate transactions, where it reasonably suspects such conduct.
+
+**29.8 Informational Displays Have No Contractual Value**&#x20;
+
+Any price chart, market-cap figure, percentage change, profit-and-loss display, heatmap, earnings estimate, leaderboard, or similar metric shown on the Launchpad is provided for general informational purposes only, may be inaccurate, incomplete, delayed, or based on illustrative assumptions, has no contractual value, and does not constitute financial, investment, or trading advice or any promise of profit. You must independently verify all information before relying on it.
