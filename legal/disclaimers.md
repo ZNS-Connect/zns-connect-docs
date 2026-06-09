@@ -314,3 +314,18 @@ To the maximum extent permitted by law:
 
 Users assume full responsibility for all risks.
 
+## 15. Launchpad and user-generated token risk
+
+\
+The ZNS Launchpad is a non-custodial interface to permissionless, third-party smart\
+contracts. The Company is not an exchange, broker, custodian, or counterparty, does not\
+recommend any user-generated token, and does not audit or endorse any token, creator, or\
+liquidity pool. Safety classifications (e.g. "Safe Launch," "Certified Dev") are\
+algorithmic on-chain signals only - they are not an audit, certification, or guarantee,\
+and do not reduce the risk of total loss.&#x20;
+
+User-generated tokens are extremely high-risk\
+and may lose all value. Charts, market data, PnL, and earnings figures are illustrative,\
+may be inaccurate, and are not advice or any promise of return. You trade entirely at your\
+own risk and only with funds you can afford to lose entirely.
+
