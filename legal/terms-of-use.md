@@ -652,29 +652,27 @@ The Launchpad provides optional access to artificial-intelligence tools (the "AI
 * your use of AI Output may be subject to the terms and usage policies of the relevant third-party AI provider, and the Company is not liable for the availability, performance, modification, or discontinuation of any third-party AI model; and
 * the Company has the right, but not the obligation, to monitor, filter, restrict, refuse to generate, or remove any AI Output, and any exercise or non-exercise of this right creates no duty to you or any third party and is not approval or endorsement.
 
-#### 31. General Provisions
+#### 31. **General provisions**&#x20;
 
-Entire Agreement. These Terms, together with the Disclaimers, Privacy Policy, and any\
-documents incorporated by reference, constitute the entire agreement between you and the\
-Company regarding the Site and supersede all prior agreements, whether oral or written.
+Entire Agreement. These Terms, together with the Privacy Policy, Disclaimers, and any documents incorporated by reference, constitute the entire agreement between you and the Company regarding the Site and Services.
 
-Severability. If any provision is held invalid, illegal, or unenforceable, it shall be\
-modified to the minimum extent necessary to make it enforceable, or if not possible,\
-severed, and the remaining provisions shall continue in full force and effect.
+Severability. If any provision of these Terms is held invalid or unenforceable, it shall be modified to the minimum extent necessary to make it enforceable, or severed, and the remaining provisions shall continue in full force and effect.
 
-Assignment. You may not assign or transfer your rights or obligations under these Terms\
-without the Company's prior written consent. The Company may assign or transfer its rights\
-and obligations, in whole or in part, at any time without notice, including in connection\
-with any merger, acquisition, reorganization, or sale of assets.
+Force Majeure. The Company shall not be liable for any delay or failure to perform resulting from causes beyond its reasonable control, including acts of God, war, terrorism, civil disturbance, labor disputes, internet or telecommunications failures, blockchain network outages or congestion, hacks or exploits of third-party infrastructure, regulatory actions, or extreme market volatility.
 
-No Waiver. The Company's failure to enforce any provision shall not be deemed a waiver of\
-that provision or of the right to enforce it later.
+Assignment. You may not assign your rights or obligations under these Terms without our prior written consent. We may assign our rights and obligations at our sole discretion without your consent.
 
-No Agency or Partnership. Nothing in these Terms creates any agency, partnership, joint\
-venture, employment, or fiduciary relationship between you and the Company.
+No Waiver. Our failure to enforce any provision shall not constitute a waiver of that provision or of the right to enforce it later.
 
-English Language Controls. These Terms are drafted in English; any translation is for\
-convenience only, and the English version prevails in the event of conflict.
+No Agency. Nothing in these Terms creates any agency, partnership, joint venture, employment, or fiduciary relationship between you and the Company.
+
+Third-Party Rights. Except as expressly stated (including Section 26.5), these Terms do not confer any rights on any third party.
+
+Survival. Provisions which by their nature should survive termination shall survive, including intellectual property, disclaimers, limitations of liability, indemnification, and dispute resolution.
+
+Time Limitation on Claims. Any claim arising out of or relating to these Terms or the Services must be brought within one (1) year after the cause of action arose; otherwise such claim is permanently barred.
+
+Language. These Terms are drafted in English. Any translation is for convenience only; the English version prevails.
 
 #### **32. Intellectual-Property Complaints.**
 
