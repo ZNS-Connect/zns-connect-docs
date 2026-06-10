@@ -33,6 +33,8 @@ These Terms are a binding agreement. You accept these Terms, the Disclaimers, an
 Privacy Policy by either (a) accessing or using the Site, or (b) connecting a digital wallet to the Site - whichever occurs first. BY CONNECTING A WALLET, OR BY CHECKING AN\
 "I AGREE" BOX OR SIGNING A WALLET MESSAGE WHERE PRESENTED, YOU CONFIRM THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS, AND THAT YOU MEET ALL ELIGIBILITY AND JURISDICTION REQUIREMENTS, INCLUDING THAT YOU ARE NOT A RESTRICTED PERSON. If you do not agree, you must not connect a wallet to or otherwise use the Site.
 
+We record the wallet address, signature, timestamp, and the version of the documents accepted as evidence of your agreement.
+
 #### 1. Web3 Domain Disclosure
 
 Web3 domains reside on public blockchains and grant users ownership over their data and identities. They simplify crypto transactions by replacing complex wallet addresses with human-readable names and serve as decentralized identifiers for applications and platforms across Web3.
@@ -296,19 +298,6 @@ Access to and use of the Site is at your own discretion and risk, and you will b
 To the maximum extent permitted by applicable law, notwithstanding anything to the contrary contained herein, our total liability to you for any damages arising from or related to these Terms or your use of the Site will at all times be limited to fifty U.S. dollars (USD $50). The existence of more than one claim will not enlarge this limit.
 
 You agree that our third-party service providers and suppliers shall have no liability of any kind arising from or relating to this agreement.
-
-FORCE MAJEURE\
-The Company shall not be liable for any delay, failure in performance, or interruption of\
-service resulting directly or indirectly from any cause beyond its reasonable control,\
-including acts of God, war, terrorism, civil disturbance, labour disputes, fire, pandemic,\
-governmental or regulatory action, failures or congestion of telecommunications, internet,\
-node, RPC, or blockchain networks, hard forks, chain reorganizations, or failures of\
-equipment or software. Such events shall not affect the validity of the remaining Terms.
-
-CONTRACTUAL LIMITATION PERIOD\
-To the maximum extent permitted by applicable law, any claim or cause of action arising out\
-of or relating to these Terms or your use of the Site or the Launchpad must be commenced\
-within one (1) year after the cause of action arose; otherwise it is permanently barred.
 
 ***
 
