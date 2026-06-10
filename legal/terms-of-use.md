@@ -59,9 +59,11 @@ You may use the Site only if you are at least 18 years old and capable of enteri
 
 You further represent and warrant that you are not subject to sanctions or otherwise designated on any list of prohibited or restricted parties maintained by any governmental authority.
 
+We reserve the right (but have no obligation) to conduct identity verification, sanctions screening, and anti-money-laundering checks on any user at any time, including wallet screening via third-party blockchain analytics tools, and to suspend or restrict access to some or all features pending or following such checks, without prior notice and without liability.
+
 #### 3. Prohibited Activities
 
-Your use of the Site must align with its intended utility and non-commercial nature. You may not access or use the Site for any purpose other than that for which we make it available.
+Your use of the Site must align with its intended utility. You may not access or use the Site for any purpose other than that for which we make it available. You may not access or use the Site for any purpose other than that for which we make it available.
 
 By accessing or using the Services, including participating in the $ZNS token sale, you represent and warrant that such participation is legal in your jurisdiction and that you are not prohibited from engaging in digital asset transactions under applicable laws.
 
@@ -72,7 +74,7 @@ You agree not to:
 * Access the Site using automated means (such as bots, spiders, or scrapers) without prior written authorization;
 * Circumvent, disable, or interfere with any security-related features of the Site;
 * Systematically collect or harvest user data or site content to create a database or directory without written permission;
-* Use the Site for any unauthorized commercial purpose, including competition or monetization;
+* Use the Site for any unauthorized commercial purpose, except as expressly enabled by platform features (such as creator fees, referral rewards, or developer integrations under Section 27);
 * Misrepresent your identity or impersonate another person or organization;
 * Submit false reports, abuse customer support, or attempt to defraud ZNS Connect or other users;
 * Upload or transmit viruses, Trojan horses, spyware, or any code designed to disrupt or damage functionality;
