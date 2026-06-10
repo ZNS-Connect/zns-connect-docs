@@ -221,9 +221,11 @@ User Tokens are highly speculative and may:
 
 You may lose the entire amount you spend. You are solely responsible for conducting your own due diligence before interacting with any User Token.
 
+Charts, market data, PnL displays, and earnings figures are illustrative, may be inaccurate, and are not advice or any promise of return. You trade entirely at your own risk and only with funds you can afford to lose entirely.
+
 **Safety Badges and Metrics — Not Guarantees**
 
-Badges, labels, scores, and trust metrics displayed on the Launchpad are algorithmic indicators derived solely from publicly available on-chain data. They are **not**:
+Badges, labels, scores, and trust metrics displayed on the Launchpad (including labels such as "Standard," "Safe Launch," and "Certified Dev") are algorithmic indicators derived solely from publicly available on-chain data. They are **not**:
 
 * audits or security certifications
 * endorsements or recommendations
@@ -243,6 +245,10 @@ Paid promotional features affect interface visibility only and do not guarantee 
 **No Liability**
 
 To the maximum extent permitted by law, ZNS Connect accepts no liability for any loss arising from the creation of, interaction with, or reliance on any User Token, badge, metric, fee mechanism, or promotional feature on the Launchpad.
+
+The ZNS Launchpad is a non-custodial interface to permissionless, third-party smart contracts. The Company is not an exchange, broker, custodian, or counterparty, does not recommend any user-generated token, and does not audit or endorse any token, creator, or liquidity pool. Safety classifications (e.g. "Safe Launch," "Certified Dev") are algorithmic on-chain signals only - they are not an audit, certification, or guarantee, and do not reduce the risk of total loss.&#x20;
+
+User-generated tokens are extremely high-risk and may lose all value. Charts, market data, PnL, and earnings figures are illustrative may be inaccurate, and are not advice or any promise of return. You trade entirely at your own risk and only with funds you can afford to lose entirely.
 
 ## **12. User Responsibilities**
 
@@ -366,22 +372,7 @@ To the maximum extent permitted by law:
 
 Users assume full responsibility for all risks.
 
-## 17. Launchpad and user-generated token risk
-
-\
-The ZNS Launchpad is a non-custodial interface to permissionless, third-party smart\
-contracts. The Company is not an exchange, broker, custodian, or counterparty, does not\
-recommend any user-generated token, and does not audit or endorse any token, creator, or\
-liquidity pool. Safety classifications (e.g. "Safe Launch," "Certified Dev") are\
-algorithmic on-chain signals only - they are not an audit, certification, or guarantee,\
-and do not reduce the risk of total loss.&#x20;
-
-User-generated tokens are extremely high-risk\
-and may lose all value. Charts, market data, PnL, and earnings figures are illustrative,\
-may be inaccurate, and are not advice or any promise of return. You trade entirely at your\
-own risk and only with funds you can afford to lose entirely.
-
-## **18. AI-Generated Content Risk**
+## **17. AI-Generated Content Risk**
 
 ZNS Connect provides AI tools that generate names, tickers, descriptions, marketing copy, images, logos, audio, and video using third-party AI models. AI-generated content may be inaccurate, misleading, biased, offensive, fabricated ("hallucinated"), or infringing, and may be identical or similar to content generated for other users. AI-generated content is not advice, a recommendation, or any assurance that a token, name, or asset will have value, demand, utility, or legal protection, and may not be eligible for copyright or other intellectual-property protection. You are solely responsible for any content you generate, adopt, publish, mint, or deploy, and you use the AI tools entirely at your own risk.
 
