@@ -25,7 +25,14 @@ We collect personal data (information that can identify you) in the following wa
     All contributions take place on public blockchains.\
     We do **not** collect any banking information, credit card data, or fiat payment details.
 
-**On-Chain Activity:** When you use the 7-in-1 tool, GM station, smart contract deployer, or other on-chain activity features, we collect and may log: wallet addresses used, transaction hashes, networks interacted with, timestamps, streak data, and feature usage statistics. This data may be stored in our analytics systems to improve the platform and may be displayed publicly in platform leaderboards or activity feeds and your use of the ZNS Launchpad, including tokens you create, swaps and liquidity actions, referral relationships, and Boost purchases. This data may be logged in our analytics systems and may be displayed publicly in leaderboards, heatmaps, or activity feeds.
+**On-Chain Activity:** When you use the 7-in-1 tool, GM station, smart contract deployer, or other on-chain activity features, we collect and may log: wallet addresses used, transaction hashes, networks interacted with, timestamps, streak data, and feature usage statistics.
+
+**Launchpad Activity:** When you use the ZNS Launchpad, we additionally collect\
+and may log: tokens you create, swaps and liquidity actions, referral\
+relationships, and Boost purchases.
+
+This data may be stored in our analytics systems to improve the platform and\
+may be displayed publicly in platform leaderboards, heatmaps, or activity feeds.
 
 **Email Newsletter Subscription:** If you subscribe to the ZNS Connect newsletter via the subscription form on our website, we collect your email address for the purpose of sending you updates, product news, airdrop guides, and promotional communications. Subscription is voluntary and based on your affirmative opt-in consent. We use a third-party email delivery service to send newsletter communications (the identity and privacy policy of our current email provider is available upon request). We do not sell or share your email address with third parties for their own marketing purposes.
 
@@ -35,6 +42,8 @@ We collect personal data (information that can identify you) in the following wa
 
 **Account Activity and Connection History:** We collect and store certain behavioral and activity data associated with your wallet address, including: (a) the date and time your wallet first connected to the platform ("Connected Since" date); (b) a record of features and tools you have used on the platform (such as domain registrations, NFT mints, 7-in-1 actions, GM streak history, and smart contract deployments); and (c) network and chain selection history. This data is used to display your activity within your profile, calculate streak counts and usage statistics, improve platform features, and detect suspicious or abusive behavior. Some activity data (such as domain registration counts or streak activity) may be displayed publicly on your ZNS Connect profile page and visible to other users or third parties who access your profile URL. You should treat your public profile as publicly accessible information. We do not sell this behavioral data to third parties. Activity data stored off-chain is deleted upon account deletion; activity recorded on public blockchains remains permanently on-chain and cannot be deleted.
 
+Terms Acceptance Records: When you connect a wallet and accept our Terms of Use, we record your wallet address, off-chain signature, the date and time of acceptance, and the version of the legal documents accepted. We retain these records for as long as necessary to evidence your agreement and comply with legal obligations.
+
 ### HOW WE USE YOUR PERSONAL DATA
 
 We use the collected personal data for the following purposes:
@@ -43,7 +52,7 @@ We use the collected personal data for the following purposes:
 * Communication: To communicate with you about your use of the Services. If you provided an email, we may send service-related communications (e.g., confirmations of domain registrations, technical notices, updates or security alerts) and respond to your inquiries or support requests. We may also send promotional updates or newsletters about new features or offers **with your consent**, and you can opt out of these marketing emails at any time.
 * Analytics and Research: To analyze usage of our websites and Services (via cookies and third-party analytics like Google Analytics) in order to understand user behavior and trends. This helps us make informed decisions on improving functionality and content.
 * Security and Fraud Prevention: To monitor, prevent, and detect fraud, unauthorized activities, and other potential misuse of the Services. For example, we may use IP addresses and other identifiers to detect multiple accounts or suspicious behavior and to **protect the integrity** of our platform.
-* AI Generation Tools: When you use the AI NFT Studio, your text prompts and any images you upload are transmitted to third-party AI engine providers (currently including providers of Nano Banana Pro, Seedream 4.5, and FLUX.2 Pro engines). These providers process your data under their own privacy policies. We do not retain your prompts or uploaded images on our servers beyond what is required to generate and return results. You should not include personal data, sensitive information, or third-party confidential material in your AI prompts.
+* AI Generation Tools: When you use the AI NFT Studio, your text prompts and any images you upload are transmitted to third-party AI engine providers (currently including providers of Nano Banana Pro, Seedream 4.5, and FLUX.2 Pro) engines and other third-party AI model providers as listed in our Terms of Use, which may change at any time. These providers process your data under their own privacy policies. We do not retain your prompts or uploaded images on our servers beyond what is required to generate and return results. You should not include personal data, sensitive information, or third-party confidential material in your AI prompts.
 * Wallet Screening: We may use third-party blockchain analytics and compliance tools to screen wallet addresses against sanctions lists, identify high-risk addresses, or detect suspicious activity. If your wallet address is flagged by such tools, we may restrict your access to some or all platform features without prior notice.
 * Legal Compliance: To comply with applicable legal obligations and regulatory requirements. For instance, we may use or preserve certain data to fulfill record-keeping obligations, enforce our Terms of Use, or handle any disputes.
 * Other Operational Purposes: We may use data for internal purposes such as auditing, data analysis, testing, and research to maintain and improve service quality.&#x20;
@@ -120,7 +129,7 @@ We may use minimal cookies or browser-based local storage to support core Platfo
 * token sale eligibility state
 * user interface settings
 
-We do not use cookies for advertising, profiling, behavioral tracking, or selling user data.\
+We do not use cookies for advertising or for selling user data. We use analytics cookies (such as Google Analytics) to understand aggregate usage of our Services.\
 You may disable cookies in your browser settings, though doing so may limit certain Platform features.
 
 ### CHILDREN PRIVACY
