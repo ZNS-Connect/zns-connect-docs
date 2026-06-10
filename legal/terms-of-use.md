@@ -317,6 +317,8 @@ You further agree to indemnify and hold harmless the Company from any claim, lia
 
 These Terms shall be governed by and construed in accordance with the laws of the Republic of Panama, without regard to its conflict of law principles.
 
+Before initiating arbitration, you must notify us in writing at legal@znsconnect.io describing the dispute, and the parties shall attempt in good faith to resolve it informally for at least thirty (30) days from receipt of such notice.
+
 Any disputes or claims arising out of or relating to these Terms shall be submitted to binding arbitration under the rules of the Panama Conciliation and Arbitration Center (Centro de Conciliación y Arbitraje de Panamá, CECAP) in Panama City, Panama. The arbitration shall be conducted in English.
 
 This Agreement and any related matters shall be governed under the laws of the Republic of Panama. Users from restricted jurisdictions including the USA, EU, or similarly regulated regions may not use the Site or Services.
