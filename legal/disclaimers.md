@@ -198,7 +198,53 @@ Failures, delays, bugs, hacks, configuration errors, or service interruptions fr
 
 ALTBridge Labs S.A. is not responsible for the performance or failures of any third-party provider.
 
-## **11. User Responsibilities**
+## **11. User-Generated Tokens (ZNS Launchpad) Disclaimer**
+
+The ZNS Launchpad is a non-custodial software interface for interacting with autonomous smart contracts on public blockchain networks. Tokens created through the Launchpad ("User Tokens") are created entirely by independent third-party users.
+
+ZNS Connect does **not**:
+
+* review, approve, audit, endorse, or recommend any User Token
+* custody any funds or User Tokens at any time
+* act as an exchange, broker, dealer, custodian, investment adviser, or financial intermediary
+* guarantee the value, liquidity, legitimacy, or continued existence of any User Token
+
+**High-Risk Nature of User Tokens**
+
+User Tokens are highly speculative and may:
+
+* be created by anonymous parties
+* have no utility, backing, or value
+* lose all value at any time
+* be abandoned by their creators
+* be associated with fraudulent or manipulative activity
+
+You may lose the entire amount you spend. You are solely responsible for conducting your own due diligence before interacting with any User Token.
+
+**Safety Badges and Metrics — Not Guarantees**
+
+Badges, labels, scores, and trust metrics displayed on the Launchpad are algorithmic indicators derived solely from publicly available on-chain data. They are **not**:
+
+* audits or security certifications
+* endorsements or recommendations
+* guarantees against loss, fraud, or token failure
+* investment advice of any kind
+
+A token displaying any badge may still lose all of its value.
+
+**Creator and Referrer Fees — Not Income**
+
+Creator and referrer fees are protocol-level allocations dependent on smart contracts, network conditions, and third-party infrastructure. They are not guaranteed, and do not constitute income, wages, profit share, dividends, yield, or any form of financial return. Any earnings figures shown on the platform are estimates of up to a maximum potential only. Participants are solely responsible for any applicable taxes.
+
+**Promotional Features (Boost)**
+
+Paid promotional features affect interface visibility only and do not guarantee any trading volume, price performance, liquidity, or other outcome. Boost purchases are final and non-refundable.
+
+**No Liability**
+
+To the maximum extent permitted by law, ZNS Connect accepts no liability for any loss arising from the creation of, interaction with, or reliance on any User Token, badge, metric, fee mechanism, or promotional feature on the Launchpad.
+
+## **12. User Responsibilities**
 
 By using ZNS Connect or participating in the token sale, you confirm:
 
@@ -213,7 +259,7 @@ The Company cannot recover lost seed phrases, compromised wallets, wrong-address
 
 You represent and warrant that any funds or digital assets you use on the Site or the Launchpad are not derived from, and will not be used to facilitate, money laundering, terrorist financing, fraud, or any other unlawful activity, and that you will comply with all applicable anti-money-laundering and sanctions laws.
 
-## **12. Referral Program Disclaimer**
+## **13. Referral Program Disclaimer**
 
 ZNS Connect may offer referral programs, promotional codes, partner rewards, or on-chain referral links that allow users to earn bonuses by inviting others to participate in the Platform or the $ZNS token sale.\
 Participation in any referral program is subject to the following conditions:
@@ -278,7 +324,7 @@ All decisions made by ZNS Connect regarding referral eligibility and rewards are
 
 ***
 
-## **13. No Warranties of Any Kind**
+## **14. No Warranties of Any Kind**
 
 ZNS Connect disclaims all warranties, express or implied, including:
 
@@ -291,7 +337,7 @@ ZNS Connect disclaims all warranties, express or implied, including:
 
 The platform is provided “AS IS” and “AS AVAILABLE”.
 
-## **14. Modifications and Updates**
+## **15. Modifications and Updates**
 
 ZNS Connect reserves the right to modify, update, or amend these Disclaimers, the Terms of Use, the Privacy Policy, the Token Sale Terms, or any other documentation at any time, at its sole discretion.
 
@@ -311,7 +357,7 @@ If you do not agree with the updated Disclaimers or related policies, you must d
 
 ZNS Connect is not obligated to provide prior notice of changes, and is not responsible for any damages or losses resulting from modifications, amendments, or updates to its documentation, processes, or platform features.
 
-## **15. Limitation of Liability**
+## **16. Limitation of Liability**
 
 To the maximum extent permitted by law:
 
@@ -320,7 +366,7 @@ To the maximum extent permitted by law:
 
 Users assume full responsibility for all risks.
 
-## 16. Launchpad and user-generated token risk
+## 17. Launchpad and user-generated token risk
 
 \
 The ZNS Launchpad is a non-custodial interface to permissionless, third-party smart\
@@ -335,7 +381,7 @@ and may lose all value. Charts, market data, PnL, and earnings figures are illus
 may be inaccurate, and are not advice or any promise of return. You trade entirely at your\
 own risk and only with funds you can afford to lose entirely.
 
-## **17. AI-Generated Content Risk**
+## **18. AI-Generated Content Risk**
 
 ZNS Connect provides AI tools that generate names, tickers, descriptions, marketing copy, images, logos, audio, and video using third-party AI models. AI-generated content may be inaccurate, misleading, biased, offensive, fabricated ("hallucinated"), or infringing, and may be identical or similar to content generated for other users. AI-generated content is not advice, a recommendation, or any assurance that a token, name, or asset will have value, demand, utility, or legal protection, and may not be eligible for copyright or other intellectual-property protection. You are solely responsible for any content you generate, adopt, publish, mint, or deploy, and you use the AI tools entirely at your own risk.
 

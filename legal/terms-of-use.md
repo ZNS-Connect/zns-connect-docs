@@ -680,6 +680,45 @@ convenience only, and the English version prevails in the event of conflict.
 
 &#x20;If you believe that content on the Platform — including a token name, ticker, logo, image, video, or other material — infringes your intellectual-property rights, you may submit a notice to to [**legal@znsconnect.io**](mailto:legal@znsconnect.io) identifying the rights-holder, the allegedly infringing material and its location, and a statement of your good-faith belief. The Company may, in its sole discretion and without liability, remove or restrict access to allegedly infringing material and may restrict or terminate the access of repeat infringers. Because tokens deployed on-chain are controlled by smart contracts and not by the Company, the Company cannot alter, reverse, or remove any on-chain token, transaction, or asset.
 
-#### 33. Contact
+**33. ZNS launchpad**
+
+33.1 Nature of the Launchpad The ZNS Launchpad is a non-custodial software interface that allows users to interact with autonomous smart contracts deployed on public blockchain networks (built on Uniswap V4 infrastructure) to create, buy, and sell user-generated digital assets ("User Tokens"). ZNS Connect's sole role is providing the software interface and deploying the underlying smart contracts. All transactions occur directly on-chain, peer-to-peer, between users. ZNS Connect:
+
+* does not custody any user funds or User Tokens at any time;
+* is not a counterparty to any transaction;
+* does not act as an exchange, broker, dealer, market maker, custodian, investment adviser, portfolio manager, or financial intermediary of any kind;
+* does not review, approve, endorse, or recommend any User Token created on the platform. The Launchpad is permissionless.
+
+33.2 No Fiduciary Duty Your use of the Launchpad does not create any fiduciary, advisory, agency, or trust relationship between you and ZNS Connect. We owe you no duties other than those expressly set out in these Terms.
+
+33.3 Token Creator Representations By creating a User Token through the Launchpad, you represent and warrant that:
+
+* you hold all rights to any name, ticker, image, or other content associated with the token, or have obtained all necessary permissions;
+* the token and its metadata do not infringe any third-party intellectual property or other rights;
+* any public statements, marketing, or community communications you make about the token are accurate and not misleading;
+* you are solely responsible for compliance with all laws applicable to the creation and distribution of your token in every relevant jurisdiction, including securities, consumer protection, tax, and AML/KYC laws;
+* you will not use the Launchpad to conduct or facilitate fraud, market manipulation (including pump-and-dump schemes, wash trading, or spoofing), money laundering, or any other unlawful activity. You agree to indemnify and hold harmless ZNS Connect from any claims arising from any User Token you create.
+
+33.4 Creator and Referrer Fees Certain Launchpad transactions include protocol-level fees, a portion of which may be allocated to token creators and referrers by smart contract logic. You acknowledge that:
+
+* fee collection and distribution depend on smart contracts, network conditions, and third-party infrastructure; ZNS Connect does not guarantee that any fee will be collected or distributed in any particular transaction;
+* creator and referrer fees are not income, wages, profit share, dividends, yield, or guaranteed payments of any kind; any earnings figures shown on the platform are estimates of up to a maximum potential and are not promises;
+* ZNS Connect does not control how creators or referrers use or share fees; any such arrangements are strictly between those parties;
+* you are solely responsible for any taxes applicable to fees you receive.
+
+33.5 Safety Badges and On-Chain Metrics — No Guarantee The Launchpad may display algorithmically generated badges, labels, scores, or metrics (such as launch-configuration badges or trust metrics) derived solely from publicly available on-chain data. You acknowledge that:
+
+* badges and metrics are informational indicators of on-chain configuration only;
+* they are NOT audits, endorsements, certifications of legitimacy, guarantees against loss, fraud, or token failure, and NOT investment advice or recommendations;
+* a token displaying any badge may still lose all of its value, be abandoned by its creator, or be associated with fraudulent activity;
+* ZNS Connect accepts no liability for any loss arising from reliance on any badge, label, score, or metric.
+
+33.6 Promotional Features (Boost) Boost and similar paid promotional features affect only the visibility or placement of a token within the platform interface. Purchasing a Boost does not guarantee any trading volume, price performance, liquidity, listing, or any other outcome. Boost purchases are final and non-refundable.
+
+33.7 High-Risk Disclosure User Tokens are highly speculative, may be created by anonymous parties, may have no utility or value, and frequently lose all value. You may lose the entire amount you spend. You are solely responsible for conducting your own due diligence before interacting with any User Token. ZNS Connect is not responsible for the conduct of any token creator or other user.
+
+33.8 Improper Transactions ZNS Connect may, where technically possible and without liability, restrict interface access to any User Token or user where we reasonably suspect fraud, manipulation, sanctions exposure, intellectual property infringement, or other violations of these Terms or applicable law. On-chain contracts may continue to operate independently of any interface-level restriction.
+
+#### 34. Contact
 
 For any questions about these Terms, please contact:  privacy@znsconnect.io
