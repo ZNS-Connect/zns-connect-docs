@@ -670,6 +670,27 @@ Language. These Terms are drafted in English. Any translation is for convenience
 
 &#x20;If you believe that content on the Platform — including a token name, ticker, logo, image, video, or other material — infringes your intellectual-property rights, you may submit a notice to to [**legal@znsconnect.io**](mailto:legal@znsconnect.io) identifying the rights-holder, the allegedly infringing material and its location, and a statement of your good-faith belief. The Company may, in its sole discretion and without liability, remove or restrict access to allegedly infringing material and may restrict or terminate the access of repeat infringers. Because tokens deployed on-chain are controlled by smart contracts and not by the Company, the Company cannot alter, reverse, or remove any on-chain token, transaction, or asset.
 
-#### 32. Contact
+#### 32. Content Reports and Intellectual Property Complaints
 
-For any questions about these Terms, please contact:  privacy@znsconnect.io
+ZNS Launchpad is a non-custodial interface. Token names, symbols, images, and descriptions are created and submitted by users, not by ZNS or ALTBridge Labs S.A. We do not pre-screen user-generated content, but we respond to valid complaints.
+
+**Reporting a token.** Any user may report a token directly through the "Report" option in the interface, or by emailing abuse@znsconnect.io.
+
+**Intellectual property takedown notices.** If you are a rights holder (or authorized agent) and believe content on ZNS Launchpad infringes your copyright or trademark, send a notice to legal@znsconnect.io including:
+
+1. Identification of the protected work or mark (registration number if applicable);
+2. The token contract address, chain, and a link to the infringing content;
+3. Your name, organization, and contact details;
+4. A statement that you have a good-faith belief the use is not authorized by the rights holder, its agent, or the law;
+5. A statement, under penalty of perjury, that the information in the notice is accurate and that you are the rights holder or authorized to act on their behalf;
+6. Your physical or electronic signature.
+
+**Our response.** Upon receipt of a valid notice, we may remove or restrict the relevant content from ZNS interfaces (delisting). Because token contracts are deployed on public blockchains, ZNS cannot delete, freeze, or modify deployed contracts or on-chain data; delisting affects visibility within ZNS-operated interfaces only.
+
+**Misrepresentation.** Knowingly submitting false reports or takedown notices may result in liability and restriction of access to ZNS services.
+
+**Counter-notices.** A token creator who believes content was delisted in error may respond to legal@znsconnect.io with supporting information; we review counter-notices at our discretion.
+
+#### 33. Contact
+
+For any questions about these Terms, please contact:  legal@znsconnect.io
