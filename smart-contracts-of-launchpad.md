@@ -1,5 +1,7 @@
 ---
 description: Official smart contracts used by the ZNS Launchpad infrastructure.
+cover: .gitbook/assets/1800-360 zns-3.png
+coverY: 0
 ---
 
 # Smart Contracts of Launchpad
