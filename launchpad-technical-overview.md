@@ -3,7 +3,7 @@ description: >-
   Technical reference for the ZNS Launchpad architecture, smart contracts,
   security model and integration guidelines.
 icon: compress
-cover: .gitbook/assets/1800-360 zns.png
+cover: .gitbook/assets/ZNS LAUNCHPAD.png
 coverY: 0
 layout:
   width: default
@@ -35,9 +35,7 @@ layout:
 
 Welcome to the technical documentation for the ZNS Launchpad.
 
-This section contains the information most frequently requested by launchpads, wallets, aggregators, exchanges, explorers and ecosystem partners integrating with ZNS Launchpad.
-
-The documentation covers our launch architecture, smart contracts, APIs, security model, fee distribution and integration guidelines.
+This documentation provides the information most frequently requested by launchpads, wallets, DEX aggregators, explorers, analytics platforms, exchanges, and ecosystem partners integrating with ZNS Launchpad.
 
 ***
 
@@ -45,140 +43,80 @@ The documentation covers our launch architecture, smart contracts, APIs, securit
 
 ZNS Launchpad is a decentralized token launch platform built entirely on **Uniswap v4**.
 
-Unlike traditional launchpads, ZNS does **not** use:
+Unlike traditional launchpads, ZNS Launchpad launches tokens directly into live Uniswap v4 liquidity pools.
+
+The platform does **not** use:
 
 * Bonding Curves
 * Presales
 * Fair Launch Auctions
 * Migration Contracts
-* Temporary Liquidity
+* Secondary DEX Deployments
 
-Every token launches directly into a live **Uniswap v4 liquidity pool**.
-
-Liquidity exists immediately after deployment.
-
-There is no migration stage.
-
-There is no graduation process.
-
-There is no secondary DEX deployment.
+Liquidity is available immediately after deployment.
 
 ***
 
 ### Core Principles
 
-Every launch follows the same architecture.
+Every launch follows the same architecture:
 
-• Direct Uniswap v4 deployment
+* Native Uniswap v4 deployment
+* Immutable smart contracts
+* Immutable Launch Hook
+* Dynamic fee pools
+* Permanent LP locking
+* Canonical Universal Router compatibility
+* Fully on-chain execution
 
-• Immutable smart contracts
+No proxy contracts are used.
 
-• No upgradeable Hook
-
-• No proxy contracts
-
-• Permanent LP locking
-
-• Dynamic fee pools
-
-• Canonical Universal Router compatibility
-
-• Fully on-chain launch process
+No owner-controlled swap logic exists.
 
 ***
 
 ### Launch Flow
 
-Every token launch consists of a single on-chain transaction.
-
-The transaction performs:
+Each launch is completed within a single deployment flow:
 
 1. Deploy ERC-20 token
-2. Initialize a new Uniswap v4 pool
-3. Deploy liquidity
+2. Create a Uniswap v4 liquidity pool
+3. Initialize liquidity
 4. Lock LP position
-5. Activate Hook
+5. Activate Launch Hook
 6. Enable trading
 
-Once the transaction completes, the token is immediately tradable.
+After deployment, the token becomes immediately tradable.
 
 ***
 
 ### Supported Networks
 
-Current production networks:
+Current production deployments:
 
 | Network         | Chain ID |
 | --------------- | -------: |
-| Base            |     8453 |
-| Robinhood Chain |     4663 |
+| Base Mainnet    |     8453 |
+| Robinhood Chain |      466 |
 
-Additional EVM networks may be supported in future releases.
+Additional EVM-compatible networks may be supported in future releases.
 
 ***
 
 ### Quote Asset
 
-All launchpad pools use **WETH**.
+All launch pools use **WETH** as the quote asset.
 
 Other quote assets such as USDC or USDT are not supported.
 
-The quote token is enforced at the contract level.
-
 ***
 
-### Launch Architecture
+### Documentation
 
-Every launch uses:
+This documentation consists of three sections:
 
-* ERC-20 Token
-* Uniswap v4 Pool
-* Immutable Hook
-* Dynamic Fee Pool
-* LP Locker
-* Fee Locker
-* Creator Vault
-* Anti-MEV Module
+* Launchpad Technical Overview
+* Smart Contracts
+* Contract Addresses
 
-No proprietary AMM is used.
-
-All swaps are executed through the standard **Uniswap v4 Universal Router**.
-
-***
-
-### Security
-
-The launchpad has been designed with simplicity and transparency as primary goals.
-
-Key security properties include:
-
-* Immutable Hook contracts
-* No owner-controlled swap logic
-* No upgradeable proxies
-* No hidden migration contracts
-* Permanent LP locking
-* Permissionless trading
-* Standard Uniswap v4 architecture
-
-***
-
-### Documentation Structure
-
-This section contains the following technical documentation:
-
-* Smart Contract Addresses
-* Launch Architecture
-* Hook Documentation
-* Fee Distribution
-* Anti-Sniping Protection
-* Launch Flow
-* Public API
-* GraphQL Subgraphs
-* Integration Guide
-* Frequently Asked Questions
-
-Each page can be referenced independently by ecosystem partners during integrations.
-
-***
-
-For technical questions, integration requests or partnership inquiries, please contact the ZNS team.
+For technical questions or integration requests, please contact the ZNS team.

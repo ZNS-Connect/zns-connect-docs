@@ -1,28 +1,73 @@
 ---
 description: Official smart contracts used by the ZNS Launchpad infrastructure.
-cover: .gitbook/assets/1800-360 zns-3.png
+icon: water-arrow-up
+cover: .gitbook/assets/Smart Contracts.png
 coverY: 0
 ---
 
 # Smart Contracts of Launchpad
 
-## Smart Contracts
+## Smart Contracts of Launchpad
 
-This page contains the official smart contracts used by the ZNS Launchpad.
+The ZNS Launchpad is built entirely on immutable smart contracts running on Uniswap v4.
 
-All launches are built directly on top of Uniswap v4. ZNS does not use upgradeable launch contracts, migration contracts, or owner-controlled liquidity contracts.
+Every launch follows the same architecture across all supported networks, providing deterministic deployment, immediate liquidity, and fully on-chain execution.
 
 ***
 
 ### Architecture
 
-Every token launch follows the same architecture:
+Each launch consists of several independent components working together:
 
-* Token Deployment
-* Pool Creation
-* Hook Initialization
-* Liquidity Initialization
-* Trading Activation
+* ERC-20 Token
+* Uniswap v4 Pool
+* Launch Hook
+* LP Locker
+* Fee Locker
+* Creator Vault
+
+Each component has a dedicated responsibility and operates without upgrade permissions.
+
+***
+
+### Launch Hook
+
+The Launch Hook extends the native Uniswap v4 pool lifecycle.
+
+Responsibilities include:
+
+* Launch validation
+* Fee distribution
+* Creator rewards
+* Protocol fee accounting
+* Trading rules
+
+The hook is immutable.
+
+It contains:
+
+* No proxy
+* No upgradeability
+* No owner-gated swap logic
+
+Applications may submit empty `hookData`.
+
+All swaps execute through the canonical **Uniswap Universal Router**.
+
+***
+
+### Liquidity Pool
+
+Every token launches directly into a live **Uniswap v4 liquidity pool**.
+
+Pool parameters include:
+
+* Pool ID
+* Hook Address
+* Token Address
+* Quote Asset (WETH)
+* Tick Spacing
+* Dynamic Fee
 
 Liquidity becomes available immediately after deployment.
 
@@ -30,73 +75,29 @@ There is no migration stage.
 
 ***
 
-### Pool Manager
-
-The ZNS Launchpad uses the official Uniswap v4 PoolManager.
-
-The PoolManager is responsible for:
-
-* Pool creation
-* Liquidity management
-* Swap execution
-* Fee accounting
-
-***
-
-### Hook Contracts
-
-Each launch uses an immutable Hook contract.
-
-Properties:
-
-* Immutable
-* No proxy
-* No upgradeability
-* No owner-gated functions
-* hookData is optional
-
-Applications can submit empty hookData without affecting swap execution.
-
-All swaps execute through the canonical Uniswap Universal Router.
-
-***
-
-### Pool Structure
-
-Every launch creates a standard Uniswap v4 liquidity pool.
-
-Typical parameters include:
-
-* Chain ID
-* Pool ID
-* Hook Address
-* Token Address
-* Quote Asset
-* Tick Spacing
-* Dynamic Fee
-
-***
-
 ### Security
 
-The ZNS Launchpad follows several security principles.
+The protocol follows several security principles:
 
-* Immutable smart contracts
+* Immutable contracts
 * No proxy contracts
 * No upgrade permissions
 * No migration contracts
 * No owner-controlled liquidity
-* Standard Uniswap v4 execution
+* Native Uniswap v4 execution
+
+This minimizes trust assumptions while maintaining full compatibility with the Uniswap ecosystem.
 
 ***
 
 ### Integration
 
-Projects integrating with ZNS generally require only:
+Projects integrating with ZNS Launchpad typically require only:
 
 * Pool ID
 * Hook Address
-* Chain ID
 * Token Address
+* Universal Router
+* Chain ID
 
-These values are sufficient for wallets, explorers, analytics platforms, DEX aggregators, portfolio trackers and ecosystem integrations.
+All production contract addresses are available on the **Contract Addresses** page.
