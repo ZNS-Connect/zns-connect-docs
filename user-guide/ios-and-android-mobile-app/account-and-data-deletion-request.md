@@ -16,7 +16,7 @@ To delete your account and all associated data, please send an email to:
 
 **📧** privacy@znsconnect.io\
 with the subject line:\
-&#xNAN;**"Account Deletion Request"**
+**"Account Deletion Request"**
 
 Be sure to include:
 

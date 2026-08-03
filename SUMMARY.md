@@ -30,8 +30,16 @@
 * [ZNS SDK](developer-guide/sdk.md)
 * [ZNS API](developer-guide/zns-api.md)
 * [ZNS Subgraph](developer-guide/zns-subgraph.md)
-* [ZNS Registration Integration](developer-guide/zns-registration-integration.md)
 * [ZNS Contract Addresses](developer-guide/contract-address.md)
+* [ZNS Registration Integration](developer-guide/zns-registration-integration.md)
+
+## ZNS LAUNCHPAD
+
+***
+
+* [Launchpad Technical Overview](launchpad-technical-overview.md)
+* [Smart Contracts of Launchpad](smart-contracts-of-launchpad.md)
+* [Contract Addresses of Lauchpad](contract-addresses-of-lauchpad.md)
 
 ## MEDIA TOOLS
 
