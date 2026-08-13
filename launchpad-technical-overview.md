@@ -31,29 +31,33 @@ layout:
 
 # Launchpad Technical Overview
 
+***
+
 ## Launchpad Technical Overview
 
 Welcome to the technical documentation for the ZNS Launchpad.
 
-This documentation provides the information most frequently requested by launchpads, wallets, DEX aggregators, explorers, analytics platforms, exchanges, and ecosystem partners integrating with ZNS Launchpad.
+This section provides the information most frequently requested by launchpads, wallets, DEX aggregators, explorers, analytics platforms, exchanges and ecosystem partners integrating with ZNS Launchpad.
 
 ***
 
 ### Overview
 
-ZNS Launchpad is a decentralized token launch platform built entirely on **Uniswap v4**.
+ZNS Launchpad is a decentralized token launch platform supporting both **EVM** and **Solana** deployments.
 
-Unlike traditional launchpads, ZNS Launchpad launches tokens directly into live Uniswap v4 liquidity pools.
+On EVM networks, every launch is deployed directly into a **Uniswap v4 liquidity pool**.
 
-The platform does **not** use:
+On Solana, launches begin on **Meteora Dynamic Bonding Curve (DBC)** and automatically graduate into a **DAMM v2 liquidity pool**.
 
-* Bonding Curves
+Unlike traditional launchpads, ZNS Launchpad does not use:
+
+* Bonding Curves (EVM)
 * Presales
 * Fair Launch Auctions
 * Migration Contracts
 * Secondary DEX Deployments
 
-Liquidity is available immediately after deployment.
+Liquidity becomes available immediately after deployment.
 
 ***
 
@@ -61,12 +65,12 @@ Liquidity is available immediately after deployment.
 
 Every launch follows the same architecture:
 
-* Native Uniswap v4 deployment
-* Immutable smart contracts
-* Immutable Launch Hook
-* Dynamic fee pools
-* Permanent LP locking
-* Canonical Universal Router compatibility
+* Native protocol deployment
+* Immutable smart contracts / programs
+* Immutable launch configuration
+* Dynamic fee model
+* Permanent liquidity
+* Cross-chain architecture
 * Fully on-chain execution
 
 No proxy contracts are used.
@@ -77,7 +81,9 @@ No owner-controlled swap logic exists.
 
 ### Launch Flow
 
-Each launch is completed within a single deployment flow:
+#### EVM
+
+Each launch follows a single deployment flow:
 
 1. Deploy ERC-20 token
 2. Create a Uniswap v4 liquidity pool
@@ -86,7 +92,18 @@ Each launch is completed within a single deployment flow:
 5. Activate Launch Hook
 6. Enable trading
 
-After deployment, the token becomes immediately tradable.
+#### Solana
+
+Each launch follows the native Solana flow:
+
+1. Create SPL token
+2. Deploy Meteora DBC pool
+3. Open bonding curve
+4. Automatic graduation
+5. Create DAMM v2 liquidity pool
+6. Continue trading
+
+After deployment, tokens become immediately tradable.
 
 ***
 
@@ -94,20 +111,25 @@ After deployment, the token becomes immediately tradable.
 
 Current production deployments:
 
-| Network         | Chain ID |
-| --------------- | -------: |
-| Base Mainnet    |     8453 |
-| Robinhood Chain |      466 |
+| Network         | Architecture          | Chain        |
+| --------------- | --------------------- | ------------ |
+| Base Mainnet    | Uniswap v4            | 8453         |
+| Robinhood Chain | Uniswap v4            | 4663         |
+| Solana Mainnet  | Meteora DBC → DAMM v2 | Mainnet-beta |
 
 Additional EVM-compatible networks may be supported in future releases.
 
 ***
 
-### Quote Asset
+### Quote Assets
 
-All launch pools use **WETH** as the quote asset.
+Supported quote assets:
 
-Other quote assets such as USDC or USDT are not supported.
+* **Base:** WETH
+* **Robinhood Chain:** WETH
+* **Solana:** Wrapped SOL (wSOL)
+
+Other quote assets such as USDC or USDT are not currently supported.
 
 ***
 
@@ -119,4 +141,7 @@ This documentation consists of three sections:
 * Smart Contracts
 * Contract Addresses
 
-For technical questions or integration requests, please contact the ZNS team.
+For technical integration questions or launchpad integration requests, please contact the ZNS team.
+
+***
+
